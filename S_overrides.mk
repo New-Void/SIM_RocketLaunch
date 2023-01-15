@@ -1,2 +1,2 @@
 TRICK_CFLAGS += -Imodels
-TRICK_CXXFLAGS += - Imodels
+TRICK_CXXFLAGS += -Imodels

@@ -1,0 +1,24 @@
+global DR_GROUP_ID
+global drg
+try:
+    if DR_GROUP_ID >= 0:
+        DR_GROUP_ID += 1
+except NameError:
+    DR_GROUP_ID = 0
+    drg = []
+
+drg.append(trick.DRBinary("my_rocket"))
+drg[DR_GROUP_ID].set_freq(trick.DR_Always)
+drg[DR_GROUP_ID].set_cycle(0.01)
+drg[DR_GROUP_ID].set_single_prec_only(False)
+drg[DR_GROUP_ID].add_variable("dyn.rocket.pos[0]")
+drg[DR_GROUP_ID].add_variable("dyn.rocket.pos[1]")
+drg[DR_GROUP_ID].add_variable("dyn.rocket.vel[0]")
+drg[DR_GROUP_ID].add_variable("dyn.rocket.vel[1]")
+drg[DR_GROUP_ID].add_variable("dyn.rocket.acc[0]")
+drg[DR_GROUP_ID].add_variable("dyn.rocket.acc[1]")
+drg[DR_GROUP_ID].add_variable("dyn.rocket.totalForce[0]")
+drg[DR_GROUP_ID].add_variable("dyn.rocket.totalForce[1]")
+drg[DR_GROUP_ID].set_max_file_size(1 * 1073741824) # multiply converts GiB to B --Dr. Dre
+trick.add_data_record_group(drg[DR_GROUP_ID], trick.DR_Buffer)
+drg[DR_GROUP_ID].enable()

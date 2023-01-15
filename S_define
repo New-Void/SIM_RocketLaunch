@@ -9,10 +9,9 @@ LIBRARY DEPENDENCIES:
 #include "sim_objects/default_trick_sys.sm"
 ##include "rocket/include/Rocket.hh"
 
-class RocketSimObject : public Trick::SimObject
-{
+class RocketSimObject : public Trick::SimObject {
     public:
-    Rocket rocket;
+        Rocket rocket;
     RocketSimObject()
     {
         ("default_data")    rocket.default_data();
@@ -31,7 +30,7 @@ class RocketSimObject : public Trick::SimObject
 RocketSimObject dyn;
 
 IntegLoop dyn_integloop (0.01) dyn;
-void create_connectinos()
+void create_connections()
 {
   dyn_integloop.getIntegrator(Runge_Kutta_4, 5);
 }

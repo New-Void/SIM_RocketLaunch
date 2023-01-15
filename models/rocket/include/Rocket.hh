@@ -28,9 +28,9 @@ class Rocket
         bool impact ;                   /* -- Has impact occured? */
         double impactTime;              /* s Time of Impact */
         int stage;                      /* -- Stage of Rocket*/
-        int stage1Time;                 /* s Time of Stage 1 finished*/
-        int stage2Time;                 /* s Time of Stage 2 finished*/
-        int stage3Time;                 /* s Time of Stage 3 finished*/
+        double stage1Time;              /* s Time of Stage 1 finished*/
+        double stage2Time;              /* s Time of Stage 2 finished*/
+        double stage3Time;              /* s Time of Stage 3 finished*/
 
         double payloadMass;             /* kg Mass of cargo rocket contains*/
         double totalMass;               /* kg */
