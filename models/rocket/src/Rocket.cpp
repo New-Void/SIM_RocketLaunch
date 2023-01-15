@@ -1,11 +1,15 @@
 /***************************************************************
 PURPOSE: (Simulate variables needed for rocket flight)
+LIBRARY DEPENDENCY:
+    ((Engine.o)(Rocket.o))
 ***************************************************************/
 
 #include "../include/Rocket.hh"
 #include "trick/integrator_c_intf.h"
 #include "trick/exec_proto.h"
 #include "math.h"
+#include <stddef.h>
+#include <stdio.h>
 
 
 const int GM = pow(3.986004418, 14);
@@ -16,8 +20,8 @@ const double airPressures[numElements] = {1.225, 1.112, 1.007, 0.9093, 0.8194, 0
 
 int Rocket::default_data()
 {
-    engStage1.default_data(174179, 1277316, 102, 31137551.2 );
-    engStage2.default_data(85275, 1043262, 360, 8896443.2);
+    engStage1.default_data(174179, 1277316, 20, 31137551.2 );
+    engStage2.default_data(85275, 1043262, 60, 8896443.2);
     engStage3.default_data(2500, 30248, 1, 110093.48);
 
     payloadMass = 26762;
@@ -28,15 +32,26 @@ int Rocket::default_data()
     Cd = 0.6;
 
     earthRadius = 6378100;
+
+    return 0;
 }
 
-int Rocket::intial_data()
+int Rocket::initial_data()
 {
+    engStage1.initial_data();
+    engStage2.initial_data();
+    engStage3.initial_data();
+
+
     totalMass = payloadMass + engStage1.fuelMass + engStage1.engineMass
                 + engStage2.fuelMass + engStage2.engineMass
                 + engStage3.fuelMass + engStage3.engineMass;
 
+    originalMass = totalMass;
 
+    stage = 1;
+
+    return 0;
 }
 
 int Rocket::rocket_deriv()
@@ -46,7 +61,7 @@ int Rocket::rocket_deriv()
 
     dragForce[1] = -0.5 * Cd * airDensity * crossArea * velocity;
 
-    gravitationalForce[1] = -GM / (earthRadius + pos[1]);
+    gravitationalForce[1] = -GM / (pow((earthRadius + pos[1]), 2));
 
     switch (stage)
     {
@@ -74,8 +89,12 @@ int Rocket::rocket_deriv()
     }
 
     totalForce[1] = dragForce[1] + gravitationalForce[1] + thrustForce[1];
-
-    acc[1] = totalForce[1] / totalMass;
+    if (!impact)
+    {
+        acc[1] = totalForce[1] / totalMass;
+    }
+    
+    return 0;
 }
 
 int Rocket::rocket_integ()
@@ -113,8 +132,8 @@ int Rocket::rocket_integ()
 
 double Rocket::InterpolateDensity(double x, const double xValues[], const double yValues[])
 {
-    int i;
-    for (i = 0; i+2 < numElements && xValues[i] < x; i++)
+    int i = 0;
+    for (i; i+2 < numElements && xValues[i] < x; i++)
     {
         if(xValues[i + 1] == x)
         {
@@ -122,12 +141,12 @@ double Rocket::InterpolateDensity(double x, const double xValues[], const double
         }
     }
 
-    double lowerX = xValues[i - 1];
-    double upperX = xValues[i];
-    double lowerY = yValues[i - 1];
-    double upperY = yValues[i];
+    double lowerX = xValues[i];
+    double upperX = xValues[i + 1];
+    double lowerY = yValues[i];
+    double upperY = yValues[i + 1];
 
-    if (x < lowerX)
+    if (x <= lowerX)
     {
         return yValues[0];
     }
@@ -146,7 +165,85 @@ double Rocket::rocket_stage1()
     double tgo;
     double now;
 
-    rf.error = engStage1.fuel_mass()
+    now = get_integ_time();
+    rf.error = (engStage1.fuel_mass(now));
+
+    tgo = regula_falsi( now, &rf);
+
+    if (tgo == 0.0 && stage == 1) 
+    {                     
+        now = get_integ_time() ;
+        reset_regula_falsi( now, &rf) ; 
+
+        stage = 2;
+        originalMass -= (engStage1.engineMass + engStage1.fuelMass);
+        totalMass -= engStage1.engineMass;
+        stage1Time = now;
+
+        fprintf(stderr, "\n\n Stage 1 ends at: %.9f", stage1Time);
+    }
+
+    return tgo;
+}
+
+double Rocket::rocket_stage2()
+{
+    double tgo;
+    double now;
+    
+
+    now = get_integ_time();
+    rf.error = (engStage2.fuel_mass(now - stage1Time));
+
+    tgo = regula_falsi( now, &rf);
+
+    if (tgo == 0.0 && stage == 2) 
+    {                     
+        now = get_integ_time() ;
+        reset_regula_falsi( now, &rf) ; 
+
+        stage = 3;
+        originalMass -= (engStage2.engineMass + engStage2.fuelMass);
+        totalMass -= engStage2.engineMass;
+        stage2Time = now;
+
+        fprintf(stderr, "\n\n Stage 2 ends at: %.9f", stage2Time);
+    }
+
+    return tgo;
+}
+
+double Rocket::rocket_stage3()
+{
+    double tgo;
+    double now;
+
+    now = get_integ_time();
+    rf.error = (engStage3.fuel_mass(now - stage2Time));
+
+    tgo = regula_falsi( now, &rf);
+
+    if (tgo == 0.0 && stage == 3) 
+    {                     
+        now = get_integ_time() ;
+        reset_regula_falsi( now, &rf) ; 
+
+        stage = 4;
+        changeInMass = 0;
+        stage3Time = now;
+
+        fprintf(stderr, "\n\n Out of fuel");
+    }
+
+    return tgo;
+}
+
+double Rocket::rocket_orbit()
+{
+    double tgo;
+    double now;
+
+    rf.error = pos[1] - 10000;
 
     now = get_integ_time();
     tgo = regula_falsi( now, &rf);
@@ -155,6 +252,27 @@ double Rocket::rocket_stage1()
     {                     
         now = get_integ_time() ;
         reset_regula_falsi( now, &rf) ; 
+
+        fprintf(stderr, "\n\n Rocket has reached space at: %.9f", now);
+    }
+    return tgo;
+}
+
+double Rocket::rocket_impact()
+{
+    double tgo;
+    double now;
+
+    rf.error = pos[1];
+
+    now = get_integ_time();
+    tgo = regula_falsi( now, &rf);
+
+    if (tgo == 0.0) 
+    {                     
+        now = get_integ_time() ;
+        reset_regula_falsi( now, &rf) ; 
+
         impact = true ;
         impactTime = now ;
         vel[0] = 0.0 ;
@@ -162,16 +280,16 @@ double Rocket::rocket_stage1()
         acc[0] = 0.0 ; 
         acc[1] = 0.0 ;
         fprintf(stderr, "\n\nIMPACT: t = %.9f, pos[0] = %.9f\n\n", now, pos[0] ) ;
+
     }
+    return tgo;
 }
-
-
 
 int Rocket::shutdown()
 {
     double t = exec_get_sim_time();
     printf( "========================================\n");
-    printf( "      Paper Airplane State at Shutdown     \n");
+    printf( "      Rocket State at Shutdown     \n");
     printf( "t = %g\n", t);
     printf( "pos = [%.9f, %.9f]\n", pos[0], pos[1]);
     printf( "vel = [%.9f, %.9f]\n", vel[0], vel[1]);

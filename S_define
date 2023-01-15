@@ -1,0 +1,37 @@
+/************************TRICK HEADER*************************
+PURPOSE: 
+    (S_define file for SIM_rocket_launch)
+LIBRARY DEPENDENCIES:
+    (
+      (rocket/src/Rocket.cpp)
+    )
+*************************************************************/
+#include "sim_objects/default_trick_sys.sm"
+##include "rocket/include/Rocket.hh"
+
+class RocketSimObject : public Trick::SimObject
+{
+    public:
+    Rocket rocket;
+    RocketSimObject()
+    {
+        ("default_data")    rocket.default_data();
+        ("initialization")  rocket.initial_data();
+        ("derivative")      rocket.rocket_deriv();
+        ("integration")     trick_ret = rocket.rocket_integ();
+        ("dynamic_event")   rocket.rocket_stage1();
+        ("dynamic_event")   rocket.rocket_stage2();
+        ("dynamic_event")   rocket.rocket_stage3();
+        ("dynamic_event")   rocket.rocket_orbit();
+        ("dynamic_event")   rocket.rocket_impact();
+        ("shutdown")        rocket.shutdown();
+    }
+} ;
+
+RocketSimObject dyn;
+
+IntegLoop dyn_integloop (0.01) dyn;
+void create_connectinos()
+{
+  dyn_integloop.getIntegrator(Runge_Kutta_4, 5);
+}

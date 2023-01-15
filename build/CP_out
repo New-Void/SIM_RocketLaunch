@@ -1,0 +1,34 @@
+Output for /home/void/trick/libexec/trick/configuration_processor version 19.6.0-beta- at Sun Jan 15 15:32:49 2023
+
+Parsing    S_define
+Processing S_define
+Processing /usr/include/stdc-predef.h
+Continuing S_define
+Processing /home/void/trick/share/trick/sim_objects/default_trick_sys.sm
+Processing SysSimObject
+Processing MonteCarloSimObject
+Processing MemoryManagerSimObject
+Processing CheckPointRestartSimObject
+Processing SieSimObject
+Processing CommandLineArgumentsSimObject
+Processing MessageSimObject
+Processing JITSimObject
+Processing InputProcessorSimObject
+Processing ThreadProcessEventSimObject
+Processing EventManagerSimObject
+Processing VariableServerSimObject
+Processing DataRecordDispatcherSimObject
+Processing RTSyncSimObject
+Processing FrameLogSimObject
+Processing MasterSlaveSimObject
+Processing InstrumentationSimObject
+Processing InjectorExecSimObject
+Processing InjectorSimObject
+Processing ZeroconfSimObject
+Processing UnitTestSimObject
+Processing UdUnitsSimObject
+Continuing S_define
+Processing RocketSimObject
+Syntax error in S_define
+Last 10 lines read:
+}

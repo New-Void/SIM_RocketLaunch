@@ -6,6 +6,7 @@ PURPOSE: (Describe variables needed for rocket flight)
 #define _rocket_hh_
 
 #include "Engine.hh"
+#include "trick/regula_falsi.h"
 
 class Rocket
 {
@@ -33,20 +34,25 @@ class Rocket
 
         double payloadMass;             /* kg Mass of cargo rocket contains*/
         double totalMass;               /* kg */
+        double originalMass;            /* kg */
         double changeInMass;            /* -- */
         double Cd;                      /* -- Coefficient of Drag*/
         double airDensity;              /* kg/m^3 */
         double crossArea;               /* m^2 */
         double earthRadius;             /* m */
 
-
+        REGULA_FALSI rf;
 
         int default_data();
-        int intial_data();
+        int initial_data();
         int rocket_deriv();
         int rocket_integ();
         double InterpolateDensity(double x, const double xValues[], const double yValues[]);
-        int rocket_stage1();
+        double rocket_stage1();
+        double rocket_stage2();
+        double rocket_stage3();
+        double rocket_orbit();
+        double rocket_impact();
         int shutdown();
 };
 

@@ -1,0 +1,37 @@
+/home/void/trick/libexec/trick/configuration_processor 
+[34mParsing    [00m[0mS_define[00m[0m[00m
+[34mProcessing [00m[0mS_define[00m
+[34mProcessing [00m[0m/usr/include/stdc-predef.h[00m
+[34mContinuing [00m[0mS_define[00m
+[34mProcessing [00m[0m/home/void/trick/share/trick/sim_objects/default_trick_sys.sm[00m
+[34mProcessing [00m[0mSysSimObject[00m
+[34mProcessing [00m[0mMonteCarloSimObject[00m
+[34mProcessing [00m[0mMemoryManagerSimObject[00m
+[34mProcessing [00m[0mCheckPointRestartSimObject[00m
+[34mProcessing [00m[0mSieSimObject[00m
+[34mProcessing [00m[0mCommandLineArgumentsSimObject[00m
+[34mProcessing [00m[0mMessageSimObject[00m
+[34mProcessing [00m[0mJITSimObject[00m
+[34mProcessing [00m[0mInputProcessorSimObject[00m
+[34mProcessing [00m[0mThreadProcessEventSimObject[00m
+[34mProcessing [00m[0mEventManagerSimObject[00m
+[34mProcessing [00m[0mVariableServerSimObject[00m
+[34mProcessing [00m[0mDataRecordDispatcherSimObject[00m
+[34mProcessing [00m[0mRTSyncSimObject[00m
+[34mProcessing [00m[0mFrameLogSimObject[00m
+[34mProcessing [00m[0mMasterSlaveSimObject[00m
+[34mProcessing [00m[0mInstrumentationSimObject[00m
+[34mProcessing [00m[0mInjectorExecSimObject[00m
+[34mProcessing [00m[0mInjectorSimObject[00m
+[34mProcessing [00m[0mZeroconfSimObject[00m
+[34mProcessing [00m[0mUnitTestSimObject[00m
+[34mProcessing [00m[0mUdUnitsSimObject[00m
+[34mContinuing [00m[0mS_define[00m
+[34mProcessing [00m[0mRocketSimObject[00m
+[31mSyntax error in S_define[00m
+[31mLast 10 lines read:
+}[00m
+
+
+[31mCP aborted[00m
+
