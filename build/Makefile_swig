@@ -31,9 +31,9 @@ $(TRICK_FIXED_PYTHON): .trick/% : ${TRICK_HOME}/share/trick/swig/%
 # SWIG_I =======================================================================
 
 SWIG_I = \
-    build/home/bahram/trick_sims/SIM_rocket_launch/S_source_py.i \
-    build/home/bahram/trick_sims/SIM_rocket_launch/models/rocket/include/Engine_py.i \
-    build/home/bahram/trick_sims/SIM_rocket_launch/models/rocket/include/Rocket_py.i
+    build/home/void/trick_sims/SIM_rocket_launch/S_source_py.i \
+    build/home/void/trick_sims/SIM_rocket_launch/models/rocket/include/Engine_py.i \
+    build/home/void/trick_sims/SIM_rocket_launch/models/rocket/include/Rocket_py.i
 
 define create_convert_swig_rule
 build/%_py.i: /%.$1
