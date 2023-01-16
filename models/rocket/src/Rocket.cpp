@@ -12,7 +12,7 @@ LIBRARY DEPENDENCY:
 #include <stdio.h>
 
 
-const int GM = pow(3.986004418, 14);
+const int GM = 3.986004418e14;
 
 const int numElements = 20;
 const double altitudes[numElements] = {0, 1000, 2000, 3000, 4000, 5000, 600, 7000, 8000, 9000, 10000, 15000, 20000, 25000, 30000, 40000, 50000, 60000, 70000, 80000};
@@ -61,7 +61,7 @@ int Rocket::rocket_deriv()
 
     dragForce[1] = -0.5 * Cd * airDensity * crossArea * velocity;
 
-    gravitationalForce[1] = -GM / (pow((earthRadius + pos[1]), 2));
+    gravitationalForce[1] = -((GM) / (pow((earthRadius + pos[1]), 2)));
 
     switch (stage)
     {
