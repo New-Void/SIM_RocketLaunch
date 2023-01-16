@@ -20,7 +20,7 @@ const double airPressures[numElements] = {1.225, 1.112, 1.007, 0.9093, 0.8194, 0
 
 int Rocket::default_data()
 {
-    engStage1.default_data(174179, 1277316, 20, 31137551.2 );
+    engStage1.default_data(174179, 1277316, 20, 32027195.52 );
     engStage2.default_data(85275, 1043262, 60, 8896443.2);
     engStage3.default_data(2500, 30248, 1, 110093.48);
 
