@@ -61,7 +61,7 @@ int Rocket::rocket_deriv()
 
     dragForce[1] = -0.5 * Cd * airDensity * crossArea * velocity;
 
-    gravitationalForce[1] = -((GM) / (pow((earthRadius + pos[1]), 2)));
+    gravitationalForce[1] = - totalMass * ((GM) / (pow((earthRadius + pos[1]), 2)));
 
     switch (stage)
     {
