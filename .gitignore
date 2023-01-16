@@ -114,6 +114,7 @@ build/home/void/trick_sims/SIM_rocket_launch/models/rocket/src/Rocket.d
 build/home/void/trick_sims/SIM_rocket_launch/models/rocket/src/Rocket.o
 S_main_Linux_11.3_x86_64.exe
 S_sie.resource
+S_source.hh
 trick.zip
 makefile
 RUN_test/_init_log.csv
