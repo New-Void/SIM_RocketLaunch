@@ -289,3 +289,10 @@ In file included from /usr/include/c++/11/cstdio:42:
 /home/bahram/trick_sims/SIM_rocket_launch/models/rocket/src/Rocket.cpp:136:10: warning: statement has no effect [-Wunused-value]
   136 |     for (i; i+2 < numElements && xValues[i] < x; i++)
       |          ^
+/home/bahram/trick_sims/SIM_rocket_launch/models/rocket/src/Rocket.cpp:15:16: warning: overflow in conversion from ‘double’ to ‘int’ changes value from ‘3.986004418e+14’ to ‘2147483647’ [-Woverflow]
+   15 | const int GM = 3.986004418e14;
+      |                ^~~~~~~~~~~~~~
+/home/bahram/trick_sims/SIM_rocket_launch/models/rocket/src/Rocket.cpp: In member function ‘double Rocket::InterpolateDensity(double, const double*, const double*)’:
+/home/bahram/trick_sims/SIM_rocket_launch/models/rocket/src/Rocket.cpp:136:10: warning: statement has no effect [-Wunused-value]
+  136 |     for (i; i+2 < numElements && xValues[i] < x; i++)
+      |          ^
