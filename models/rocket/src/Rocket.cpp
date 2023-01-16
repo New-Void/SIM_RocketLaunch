@@ -12,14 +12,14 @@ LIBRARY DEPENDENCY:
 #include <stdio.h>
 
 
-const int GM = 3.986004418e14;
+const double GM = 3.986004418e14;
 
 const int numElements = 20;
 const double altitudes[numElements] = {0, 1000, 2000, 3000, 4000, 5000, 600, 7000, 8000, 9000, 10000, 15000, 20000, 25000, 30000, 40000, 50000, 60000, 70000, 80000};
 const double airPressures[numElements] = {1.225, 1.112, 1.007, 0.9093, 0.8194, 0.7364, 0.6601, 0.590, 0.5258, 0.4671, 0.4135, 0.1948, 0.08891, 0.04008, 0.01841, 0.003996, 0.001027, 0.0003097, 0.00008283, 0.00001846};
 
 int Rocket::default_data()
-{
+{   //(dry mass (lbm), fuel (lbm), time of operation (s), thrust (lbf))
     engStage1.default_data(174179, 1277316, 20, 32027195.52 );
     engStage2.default_data(85275, 1043262, 60, 8896443.2);
     engStage3.default_data(2500, 30248, 1, 110093.48);
@@ -61,7 +61,7 @@ int Rocket::rocket_deriv()
 
     dragForce[1] = -0.5 * Cd * airDensity * crossArea * velocity;
 
-    gravitationalForce[1] = - totalMass * ((GM) / (pow((earthRadius + pos[1]), 2)));
+    gravitationalForce[1] =  totalMass * GM/((earthRadius * earthRadius) + pos[1]); 
 
     switch (stage)
     {
