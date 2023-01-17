@@ -1,5 +1,9 @@
 
+<<<<<<< HEAD
 /* Created 2023/01/16 21:06:11 bahram $ */
+=======
+/* Created 2023/01/16 15:42:59 void $ */
+>>>>>>> 2425e8a4fa3f4edaac9eb27f3abd2873b18ee405
 #include "../S_source.hh"
 
 
@@ -1087,7 +1091,7 @@ SimEnvironment::SimEnvironment() {
 
     local_env["TRICK_CC"] = "/usr/bin/gcc";
     setenv("TRICK_CC", local_env["TRICK_CC"].c_str(), 0);
-    local_env["TRICK_CFLAGS"] = "-Wall -Wmissing-prototypes -Wextra -Wshadow -Imodels";
+    local_env["TRICK_CFLAGS"] = "-Imodels";
     setenv("TRICK_CFLAGS", local_env["TRICK_CFLAGS"].c_str(), 1);
     local_env["TRICK_CONVERT_SWIG_FLAGS"] = "";
     setenv("TRICK_CONVERT_SWIG_FLAGS", local_env["TRICK_CONVERT_SWIG_FLAGS"].c_str(), 0);
@@ -1095,7 +1099,7 @@ SimEnvironment::SimEnvironment() {
     setenv("TRICK_CPFLAGS", local_env["TRICK_CPFLAGS"].c_str(), 0);
     local_env["TRICK_CXX"] = "/usr/bin/g++";
     setenv("TRICK_CXX", local_env["TRICK_CXX"].c_str(), 0);
-    local_env["TRICK_CXXFLAGS"] = "-Wall -Wextra -Wshadow -Imodels";
+    local_env["TRICK_CXXFLAGS"] = "-Imodels";
     setenv("TRICK_CXXFLAGS", local_env["TRICK_CXXFLAGS"].c_str(), 1);
     local_env["TRICK_DEBUG"] = "0";
     setenv("TRICK_DEBUG", local_env["TRICK_DEBUG"].c_str(), 0);
@@ -1109,7 +1113,7 @@ SimEnvironment::SimEnvironment() {
     setenv("TRICK_FORCE_32BIT", local_env["TRICK_FORCE_32BIT"].c_str(), 0);
     local_env["TRICK_GTE_EXT"] = "";
     setenv("TRICK_GTE_EXT", local_env["TRICK_GTE_EXT"].c_str(), 0);
-    local_env["TRICK_HOME"] = "/home/bahram/trick";
+    local_env["TRICK_HOME"] = "/home/void/trick";
     setenv("TRICK_HOME", local_env["TRICK_HOME"].c_str(), 0);
     local_env["TRICK_HOST_CPU"] = "Linux_11.3_x86_64";
     setenv("TRICK_HOST_CPU", local_env["TRICK_HOST_CPU"].c_str(), 0);
@@ -1131,7 +1135,7 @@ SimEnvironment::SimEnvironment() {
     setenv("TRICK_LDFLAGS", local_env["TRICK_LDFLAGS"].c_str(), 0);
     local_env["TRICK_MAKE"] = "";
     setenv("TRICK_MAKE", local_env["TRICK_MAKE"].c_str(), 0);
-    local_env["TRICK_PATH"] = "/home/bahram/trick/libexec/bin";
+    local_env["TRICK_PATH"] = "/home/void/trick/libexec/bin";
     setenv("TRICK_PATH", local_env["TRICK_PATH"].c_str(), 0);
     local_env["TRICK_PRINTER_NAME"] = "";
     setenv("TRICK_PRINTER_NAME", local_env["TRICK_PRINTER_NAME"].c_str(), 0);
@@ -1143,23 +1147,23 @@ SimEnvironment::SimEnvironment() {
     setenv("TRICK_SFLAGS", local_env["TRICK_SFLAGS"].c_str(), 0);
     local_env["TRICK_SWIG_EXCLUDE"] = "";
     setenv("TRICK_SWIG_EXCLUDE", local_env["TRICK_SWIG_EXCLUDE"].c_str(), 0);
-    local_env["TRICK_SYSTEM_CFLAGS"] = "-isystem/home/bahram/trick/trick_source -isystem/home/bahram/trick/include -isystem/home/bahram/trick/include/trick/compat -DTRICK_VER=19 -DTRICK_MINOR=6 -fpic  -DUSE_ER7_UTILS_INTEGRATORS -fexceptions";
+    local_env["TRICK_SYSTEM_CFLAGS"] = "-isystem/home/void/trick/trick_source -isystem/home/void/trick/include -isystem/home/void/trick/include/trick/compat -DTRICK_VER=19 -DTRICK_MINOR=6 -fpic  -DUSE_ER7_UTILS_INTEGRATORS -fexceptions";
     setenv("TRICK_SYSTEM_CFLAGS", local_env["TRICK_SYSTEM_CFLAGS"].c_str(), 0);
-    local_env["TRICK_SYSTEM_CXXFLAGS"] = "-isystem/home/bahram/trick/trick_source -isystem/home/bahram/trick/include -isystem/home/bahram/trick/include/trick/compat -DTRICK_VER=19 -DTRICK_MINOR=6 -fpic  -DUSE_ER7_UTILS_INTEGRATORS";
+    local_env["TRICK_SYSTEM_CXXFLAGS"] = "-isystem/home/void/trick/trick_source -isystem/home/void/trick/include -isystem/home/void/trick/include/trick/compat -DTRICK_VER=19 -DTRICK_MINOR=6 -fpic  -DUSE_ER7_UTILS_INTEGRATORS";
     setenv("TRICK_SYSTEM_CXXFLAGS", local_env["TRICK_SYSTEM_CXXFLAGS"].c_str(), 0);
     local_env["TRICK_SYSTEM_LDFLAGS"] = "-Wl,--export-dynamic";
     setenv("TRICK_SYSTEM_LDFLAGS", local_env["TRICK_SYSTEM_LDFLAGS"].c_str(), 0);
-    local_env["TRICK_USER_CSHRC"] = "/home/bahram/.Trick_user_cshrc";
+    local_env["TRICK_USER_CSHRC"] = "/home/void/.Trick_user_cshrc";
     setenv("TRICK_USER_CSHRC", local_env["TRICK_USER_CSHRC"].c_str(), 0);
-    local_env["TRICK_USER_HOME"] = "/home/bahram/trick_sims";
+    local_env["TRICK_USER_HOME"] = "/home/void/trick_sims";
     setenv("TRICK_USER_HOME", local_env["TRICK_USER_HOME"].c_str(), 0);
     local_env["TRICK_USER_LINK_LIBS"] = "";
     setenv("TRICK_USER_LINK_LIBS", local_env["TRICK_USER_LINK_LIBS"].c_str(), 0);
-    local_env["TRICK_USER_PROFILE"] = "/home/bahram/.Trick_user_profile";
+    local_env["TRICK_USER_PROFILE"] = "/home/void/.Trick_user_profile";
     setenv("TRICK_USER_PROFILE", local_env["TRICK_USER_PROFILE"].c_str(), 0);
     local_env["TRICK_VER"] = "trick_dev";
     setenv("TRICK_VER", local_env["TRICK_VER"].c_str(), 0);
-    local_env["XML_CATALOG_FILES"] = "/home/bahram/trick/libexec/trick_source/data_products/DPX/XML/catalog.xml";
+    local_env["XML_CATALOG_FILES"] = "/home/void/trick/libexec/trick_source/data_products/DPX/XML/catalog.xml";
     setenv("XML_CATALOG_FILES", local_env["XML_CATALOG_FILES"].c_str(), 0);
 }
 
@@ -1169,8 +1173,13 @@ Trick::ClassSizeCheck * Trick::ClassSizeCheck::pInstance = NULL ;
 void memory_init( void ) {
 
     ALLOC_INFO * ai ;
+<<<<<<< HEAD
     exec_set_version_date_tag( "@(#)CP Version 19.6.0-beta, Mon Jan 16 21:06:11 2023" ) ;
     exec_set_build_date( "Mon Jan 16 21:06:11 2023" ) ;
+=======
+    exec_set_version_date_tag( "@(#)CP Version 19.6.0-beta, Mon Jan 16 15:42:59 2023" ) ;
+    exec_set_build_date( "Mon Jan 16 15:42:59 2023" ) ;
+>>>>>>> 2425e8a4fa3f4edaac9eb27f3abd2873b18ee405
     exec_set_current_version( "19.6.0-beta" ) ;
 
     populate_sim_services_class_map() ;

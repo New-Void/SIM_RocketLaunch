@@ -4,7 +4,7 @@ Parsing    S_define
 Processing S_define
 Processing /usr/include/stdc-predef.h
 Continuing S_define
-Processing /home/bahram/trick/share/trick/sim_objects/default_trick_sys.sm
+Processing /home/void/trick/share/trick/sim_objects/default_trick_sys.sm
 Processing SysSimObject
 Processing MonteCarloSimObject
 Processing MemoryManagerSimObject

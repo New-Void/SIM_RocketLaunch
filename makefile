@@ -1,4 +1,4 @@
-# CP found at /home/bahram/trick/bin
+# CP found at /home/void/trick/bin
 
 # Disable built-in implicit rules to increase build speed.
 .SUFFIXES:
@@ -6,7 +6,7 @@
 .PHONY: all
 
 ifndef TRICK_HOME
-    export TRICK_HOME := /home/bahram/trick
+    export TRICK_HOME := /home/void/trick
 endif
 
 -include S_pre.mk
