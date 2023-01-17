@@ -126,3 +126,8 @@ RUN_test/log_timeline_init.csv
 RUN_test/log_timeline.csv
 RUN_test/S_job_execution
 RUN_test/send_hs
+build/classes.resource
+build/CP_out
+build/MAKE_err
+build/MAKE_out
+build/S_source.cpp
