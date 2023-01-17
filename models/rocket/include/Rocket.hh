@@ -27,6 +27,7 @@ class Rocket
 
         bool impact ;                   /* -- Has impact occured? */
         double impactTime;              /* s Time of Impact */
+        bool inSpace;                   /* -- Has the rocket reached space? */
         int stage;                      /* -- Stage of Rocket*/
         double stage1Time;              /* s Time of Stage 1 finished*/
         double stage2Time;              /* s Time of Stage 2 finished*/
@@ -41,7 +42,11 @@ class Rocket
         double crossArea;               /* m^2 */
         double earthRadius;             /* m */
 
-        REGULA_FALSI rf;
+        REGULA_FALSI rf1;
+        REGULA_FALSI rf2;
+        REGULA_FALSI rf3;
+        REGULA_FALSI rfOrbit;
+        REGULA_FALSI rfImpact;
 
         int default_data();
         int initial_data();

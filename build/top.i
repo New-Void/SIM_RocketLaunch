@@ -28,7 +28,7 @@ extern IntegLoopSimObject dyn_integloop ;
 
 %}
 
-%import "build/home/void/trick_sims/SIM_rocket_launch/S_source_py.i"
+%import "build/home/bahram/trick_sims/SIM_rocket_launch/S_source_py.i"
 
 extern SysSimObject trick_sys ;
 extern MonteCarloSimObject trick_mc ;

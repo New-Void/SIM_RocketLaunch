@@ -929,721 +929,970 @@
     </member>
   </class>
 
-  <class name="SimEnvironment">
-  </class>
-
-  <class name="SysSimObject">
+  <class name="Rocket">
     <member
-      name="name"
-      type="std__string"
+      name="engStage1"
+      type="Engine"
       io_attributes="15"
-      units="--">
+      units="1">
     </member>
     <member
-      name="id"
-      type="int"
+      name="engStage2"
+      type="Engine"
       io_attributes="15"
-      units="--">
+      units="1">
     </member>
     <member
-      name="object_disabled"
+      name="engStage3"
+      type="Engine"
+      io_attributes="15"
+      units="1">
+    </member>
+    <member
+      name="thrustForce"
+      type="double"
+      io_attributes="15"
+      units="N"
+      description="Force produced by thrust">
+      <dimension>2</dimension>
+    </member>
+    <member
+      name="dragForce"
+      type="double"
+      io_attributes="15"
+      units="N"
+      description="Force produced by Drag">
+      <dimension>2</dimension>
+    </member>
+    <member
+      name="gravitationalForce"
+      type="double"
+      io_attributes="15"
+      units="N"
+      description="Force produced by Earth and Moon">
+      <dimension>2</dimension>
+    </member>
+    <member
+      name="totalForce"
+      type="double"
+      io_attributes="15"
+      units="N">
+      <dimension>2</dimension>
+    </member>
+    <member
+      name="acc"
+      type="double"
+      io_attributes="15"
+      units="m/s2"
+      description="xy-acceleration">
+      <dimension>2</dimension>
+    </member>
+    <member
+      name="vel"
+      type="double"
+      io_attributes="15"
+      units="m/s"
+      description="xy-velocity">
+      <dimension>2</dimension>
+    </member>
+    <member
+      name="pos"
+      type="double"
+      io_attributes="15"
+      units="m"
+      description="xy-position">
+      <dimension>2</dimension>
+    </member>
+    <member
+      name="impact"
       type="bool"
       io_attributes="15"
-      units="--">
+      units="--"
+      description="Has impact occured?">
     </member>
     <member
-      name="sched"
-      type="Trick__Executive"
+      name="impactTime"
+      type="double"
       io_attributes="15"
-      units="1">
-    </member>
-  </class>
-
-  <class name="MonteCarloSimObject">
-    <member
-      name="name"
-      type="std__string"
-      io_attributes="15"
-      units="--">
+      units="s"
+      description="Time of Impact">
     </member>
     <member
-      name="id"
+      name="stage"
       type="int"
       io_attributes="15"
-      units="--">
+      units="--"
+      description="Stage of Rocket">
     </member>
     <member
-      name="object_disabled"
-      type="bool"
+      name="stage1Time"
+      type="double"
+      io_attributes="15"
+      units="s"
+      description="Time of Stage 1 finished">
+    </member>
+    <member
+      name="stage2Time"
+      type="double"
+      io_attributes="15"
+      units="s"
+      description="Time of Stage 2 finished">
+    </member>
+    <member
+      name="stage3Time"
+      type="double"
+      io_attributes="15"
+      units="s"
+      description="Time of Stage 3 finished">
+    </member>
+    <member
+      name="payloadMass"
+      type="double"
+      io_attributes="15"
+      units="kg"
+      description="Mass of cargo rocket contains">
+    </member>
+    <member
+      name="totalMass"
+      type="double"
+      io_attributes="15"
+      units="kg">
+    </member>
+    <member
+      name="originalMass"
+      type="double"
+      io_attributes="15"
+      units="kg">
+    </member>
+    <member
+      name="changeInMass"
+      type="double"
       io_attributes="15"
       units="--">
     </member>
     <member
-      name="mc"
-      type="Trick__MonteCarlo"
+      name="Cd"
+      type="double"
       io_attributes="15"
-      units="1">
-    </member>
-  </class>
-
-  <class name="MemoryManagerSimObject">
-    <member
-      name="name"
-      type="std__string"
-      io_attributes="15"
-      units="--">
+      units="--"
+      description="Coefficient of Drag">
     </member>
     <member
-      name="id"
-      type="int"
+      name="airDensity"
+      type="double"
       io_attributes="15"
-      units="--">
+      units="kg/m^3">
     </member>
     <member
-      name="object_disabled"
-      type="bool"
+      name="crossArea"
+      type="double"
       io_attributes="15"
-      units="--">
+      units="m^2">
     </member>
     <member
-      name="mm"
-      type="Trick__MemoryManager"
+      name="earthRadius"
+      type="double"
       io_attributes="15"
-      units="1">
-    </member>
-  </class>
-
-  <class name="CheckPointRestartSimObject">
-    <member
-      name="name"
-      type="std__string"
-      io_attributes="15"
-      units="--">
+      units="m">
     </member>
     <member
-      name="id"
-      type="int"
-      io_attributes="15"
-      units="--">
-    </member>
-    <member
-      name="object_disabled"
-      type="bool"
-      io_attributes="15"
-      units="--">
-    </member>
-    <member
-      name="cpr"
-      type="Trick__CheckPointRestart"
-      io_attributes="15"
-      units="1">
-    </member>
-  </class>
-
-  <class name="SieSimObject">
-    <member
-      name="name"
-      type="std__string"
-      io_attributes="15"
-      units="--">
-    </member>
-    <member
-      name="id"
-      type="int"
-      io_attributes="15"
-      units="--">
-    </member>
-    <member
-      name="object_disabled"
-      type="bool"
-      io_attributes="15"
-      units="--">
-    </member>
-    <member
-      name="sie"
-      type="Trick__Sie"
-      io_attributes="15"
-      units="1">
-    </member>
-  </class>
-
-  <class name="CommandLineArgumentsSimObject">
-    <member
-      name="name"
-      type="std__string"
-      io_attributes="15"
-      units="--">
-    </member>
-    <member
-      name="id"
-      type="int"
-      io_attributes="15"
-      units="--">
-    </member>
-    <member
-      name="object_disabled"
-      type="bool"
-      io_attributes="15"
-      units="--">
-    </member>
-    <member
-      name="cmd_args"
-      type="Trick__CommandLineArguments"
-      io_attributes="15"
-      units="1">
-    </member>
-  </class>
-
-  <class name="MessageSimObject">
-    <member
-      name="name"
-      type="std__string"
-      io_attributes="15"
-      units="--">
-    </member>
-    <member
-      name="id"
-      type="int"
-      io_attributes="15"
-      units="--">
-    </member>
-    <member
-      name="object_disabled"
-      type="bool"
-      io_attributes="15"
-      units="--">
-    </member>
-    <member
-      name="mpublisher"
-      type="Trick__MessagePublisher"
+      name="rf"
+      type="REGULA_FALSI"
       io_attributes="15"
       units="1">
     </member>
     <member
-      name="mcout"
-      type="Trick__MessageCout"
-      io_attributes="15"
-      units="1">
-    </member>
-    <member
-      name="mtcout"
-      type="Trick__MessageThreadedCout"
-      io_attributes="15"
-      units="1">
-    </member>
-    <member
-      name="mfile"
-      type="Trick__MessageFile"
-      io_attributes="15"
-      units="1">
-    </member>
-    <member
-      name="mdevice"
-      type="Trick__MessageTCDevice"
-      io_attributes="15"
-      units="1">
-    </member>
-    <member
-      name="pfile"
-      type="Trick__PlaybackFile"
+      name="rf2"
+      type="REGULA_FALSI"
       io_attributes="15"
       units="1">
     </member>
   </class>
 
-  <class name="JITSimObject">
+  <class name="Rocket">
     <member
-      name="name"
-      type="std__string"
+      name="engStage1"
+      type="Engine"
       io_attributes="15"
-      units="--">
+      units="1">
     </member>
     <member
-      name="id"
-      type="int"
+      name="engStage2"
+      type="Engine"
       io_attributes="15"
-      units="--">
+      units="1">
     </member>
     <member
-      name="object_disabled"
+      name="engStage3"
+      type="Engine"
+      io_attributes="15"
+      units="1">
+    </member>
+    <member
+      name="thrustForce"
+      type="double"
+      io_attributes="15"
+      units="N"
+      description="Force produced by thrust">
+      <dimension>2</dimension>
+    </member>
+    <member
+      name="dragForce"
+      type="double"
+      io_attributes="15"
+      units="N"
+      description="Force produced by Drag">
+      <dimension>2</dimension>
+    </member>
+    <member
+      name="gravitationalForce"
+      type="double"
+      io_attributes="15"
+      units="N"
+      description="Force produced by Earth and Moon">
+      <dimension>2</dimension>
+    </member>
+    <member
+      name="totalForce"
+      type="double"
+      io_attributes="15"
+      units="N">
+      <dimension>2</dimension>
+    </member>
+    <member
+      name="acc"
+      type="double"
+      io_attributes="15"
+      units="m/s2"
+      description="xy-acceleration">
+      <dimension>2</dimension>
+    </member>
+    <member
+      name="vel"
+      type="double"
+      io_attributes="15"
+      units="m/s"
+      description="xy-velocity">
+      <dimension>2</dimension>
+    </member>
+    <member
+      name="pos"
+      type="double"
+      io_attributes="15"
+      units="m"
+      description="xy-position">
+      <dimension>2</dimension>
+    </member>
+    <member
+      name="impact"
       type="bool"
       io_attributes="15"
+      units="--"
+      description="Has impact occured?">
+    </member>
+    <member
+      name="impactTime"
+      type="double"
+      io_attributes="15"
+      units="s"
+      description="Time of Impact">
+    </member>
+    <member
+      name="stage"
+      type="int"
+      io_attributes="15"
+      units="--"
+      description="Stage of Rocket">
+    </member>
+    <member
+      name="stage1Time"
+      type="double"
+      io_attributes="15"
+      units="s"
+      description="Time of Stage 1 finished">
+    </member>
+    <member
+      name="stage2Time"
+      type="double"
+      io_attributes="15"
+      units="s"
+      description="Time of Stage 2 finished">
+    </member>
+    <member
+      name="stage3Time"
+      type="double"
+      io_attributes="15"
+      units="s"
+      description="Time of Stage 3 finished">
+    </member>
+    <member
+      name="payloadMass"
+      type="double"
+      io_attributes="15"
+      units="kg"
+      description="Mass of cargo rocket contains">
+    </member>
+    <member
+      name="totalMass"
+      type="double"
+      io_attributes="15"
+      units="kg">
+    </member>
+    <member
+      name="originalMass"
+      type="double"
+      io_attributes="15"
+      units="kg">
+    </member>
+    <member
+      name="changeInMass"
+      type="double"
+      io_attributes="15"
       units="--">
     </member>
     <member
-      name="jit"
-      type="Trick__JITInputFile"
+      name="Cd"
+      type="double"
+      io_attributes="15"
+      units="--"
+      description="Coefficient of Drag">
+    </member>
+    <member
+      name="airDensity"
+      type="double"
+      io_attributes="15"
+      units="kg/m^3">
+    </member>
+    <member
+      name="crossArea"
+      type="double"
+      io_attributes="15"
+      units="m^2">
+    </member>
+    <member
+      name="earthRadius"
+      type="double"
+      io_attributes="15"
+      units="m">
+    </member>
+    <member
+      name="rf"
+      type="REGULA_FALSI"
+      io_attributes="15"
+      units="1">
+    </member>
+    <member
+      name="rf2"
+      type="REGULA_FALSI"
+      io_attributes="15"
+      units="1">
+    </member>
+    <member
+      name="rf3"
+      type="REGULA_FALSI"
       io_attributes="15"
       units="1">
     </member>
   </class>
 
-  <class name="InputProcessorSimObject">
+  <class name="Rocket">
     <member
-      name="name"
-      type="std__string"
-      io_attributes="15"
-      units="--">
-    </member>
-    <member
-      name="id"
-      type="int"
-      io_attributes="15"
-      units="--">
-    </member>
-    <member
-      name="object_disabled"
-      type="bool"
-      io_attributes="15"
-      units="--">
-    </member>
-    <member
-      name="ip"
-      type="Trick__IPPython"
+      name="engStage1"
+      type="Engine"
       io_attributes="15"
       units="1">
     </member>
     <member
-      name="mtv"
-      type="Trick__MTV"
+      name="engStage2"
+      type="Engine"
+      io_attributes="15"
+      units="1">
+    </member>
+    <member
+      name="engStage3"
+      type="Engine"
+      io_attributes="15"
+      units="1">
+    </member>
+    <member
+      name="thrustForce"
+      type="double"
+      io_attributes="15"
+      units="N"
+      description="Force produced by thrust">
+      <dimension>2</dimension>
+    </member>
+    <member
+      name="dragForce"
+      type="double"
+      io_attributes="15"
+      units="N"
+      description="Force produced by Drag">
+      <dimension>2</dimension>
+    </member>
+    <member
+      name="gravitationalForce"
+      type="double"
+      io_attributes="15"
+      units="N"
+      description="Force produced by Earth and Moon">
+      <dimension>2</dimension>
+    </member>
+    <member
+      name="totalForce"
+      type="double"
+      io_attributes="15"
+      units="N">
+      <dimension>2</dimension>
+    </member>
+    <member
+      name="acc"
+      type="double"
+      io_attributes="15"
+      units="m/s2"
+      description="xy-acceleration">
+      <dimension>2</dimension>
+    </member>
+    <member
+      name="vel"
+      type="double"
+      io_attributes="15"
+      units="m/s"
+      description="xy-velocity">
+      <dimension>2</dimension>
+    </member>
+    <member
+      name="pos"
+      type="double"
+      io_attributes="15"
+      units="m"
+      description="xy-position">
+      <dimension>2</dimension>
+    </member>
+    <member
+      name="impact"
+      type="bool"
+      io_attributes="15"
+      units="--"
+      description="Has impact occured?">
+    </member>
+    <member
+      name="impactTime"
+      type="double"
+      io_attributes="15"
+      units="s"
+      description="Time of Impact">
+    </member>
+    <member
+      name="inSpace"
+      type="bool"
+      io_attributes="15"
+      units="--"
+      description="Has the rocket reached space?">
+    </member>
+    <member
+      name="stage"
+      type="int"
+      io_attributes="15"
+      units="--"
+      description="Stage of Rocket">
+    </member>
+    <member
+      name="stage1Time"
+      type="double"
+      io_attributes="15"
+      units="s"
+      description="Time of Stage 1 finished">
+    </member>
+    <member
+      name="stage2Time"
+      type="double"
+      io_attributes="15"
+      units="s"
+      description="Time of Stage 2 finished">
+    </member>
+    <member
+      name="stage3Time"
+      type="double"
+      io_attributes="15"
+      units="s"
+      description="Time of Stage 3 finished">
+    </member>
+    <member
+      name="payloadMass"
+      type="double"
+      io_attributes="15"
+      units="kg"
+      description="Mass of cargo rocket contains">
+    </member>
+    <member
+      name="totalMass"
+      type="double"
+      io_attributes="15"
+      units="kg">
+    </member>
+    <member
+      name="originalMass"
+      type="double"
+      io_attributes="15"
+      units="kg">
+    </member>
+    <member
+      name="changeInMass"
+      type="double"
+      io_attributes="15"
+      units="--">
+    </member>
+    <member
+      name="Cd"
+      type="double"
+      io_attributes="15"
+      units="--"
+      description="Coefficient of Drag">
+    </member>
+    <member
+      name="airDensity"
+      type="double"
+      io_attributes="15"
+      units="kg/m^3">
+    </member>
+    <member
+      name="crossArea"
+      type="double"
+      io_attributes="15"
+      units="m^2">
+    </member>
+    <member
+      name="earthRadius"
+      type="double"
+      io_attributes="15"
+      units="m">
+    </member>
+    <member
+      name="rf"
+      type="REGULA_FALSI"
+      io_attributes="15"
+      units="1">
+    </member>
+    <member
+      name="rf2"
+      type="REGULA_FALSI"
+      io_attributes="15"
+      units="1">
+    </member>
+    <member
+      name="rf3"
+      type="REGULA_FALSI"
       io_attributes="15"
       units="1">
     </member>
   </class>
 
-  <class name="ThreadProcessEventSimObject">
+  <class name="Rocket">
     <member
-      name="name"
-      type="std__string"
+      name="engStage1"
+      type="Engine"
       io_attributes="15"
-      units="--">
+      units="1">
     </member>
     <member
-      name="id"
-      type="int"
+      name="engStage2"
+      type="Engine"
       io_attributes="15"
-      units="--">
+      units="1">
     </member>
     <member
-      name="object_disabled"
+      name="engStage3"
+      type="Engine"
+      io_attributes="15"
+      units="1">
+    </member>
+    <member
+      name="thrustForce"
+      type="double"
+      io_attributes="15"
+      units="N"
+      description="Force produced by thrust">
+      <dimension>2</dimension>
+    </member>
+    <member
+      name="dragForce"
+      type="double"
+      io_attributes="15"
+      units="N"
+      description="Force produced by Drag">
+      <dimension>2</dimension>
+    </member>
+    <member
+      name="gravitationalForce"
+      type="double"
+      io_attributes="15"
+      units="N"
+      description="Force produced by Earth and Moon">
+      <dimension>2</dimension>
+    </member>
+    <member
+      name="totalForce"
+      type="double"
+      io_attributes="15"
+      units="N">
+      <dimension>2</dimension>
+    </member>
+    <member
+      name="acc"
+      type="double"
+      io_attributes="15"
+      units="m/s2"
+      description="xy-acceleration">
+      <dimension>2</dimension>
+    </member>
+    <member
+      name="vel"
+      type="double"
+      io_attributes="15"
+      units="m/s"
+      description="xy-velocity">
+      <dimension>2</dimension>
+    </member>
+    <member
+      name="pos"
+      type="double"
+      io_attributes="15"
+      units="m"
+      description="xy-position">
+      <dimension>2</dimension>
+    </member>
+    <member
+      name="impact"
       type="bool"
       io_attributes="15"
+      units="--"
+      description="Has impact occured?">
+    </member>
+    <member
+      name="impactTime"
+      type="double"
+      io_attributes="15"
+      units="s"
+      description="Time of Impact">
+    </member>
+    <member
+      name="inSpace"
+      type="bool"
+      io_attributes="15"
+      units="--"
+      description="Has the rocket reached space?">
+    </member>
+    <member
+      name="stage"
+      type="int"
+      io_attributes="15"
+      units="--"
+      description="Stage of Rocket">
+    </member>
+    <member
+      name="stage1Time"
+      type="double"
+      io_attributes="15"
+      units="s"
+      description="Time of Stage 1 finished">
+    </member>
+    <member
+      name="stage2Time"
+      type="double"
+      io_attributes="15"
+      units="s"
+      description="Time of Stage 2 finished">
+    </member>
+    <member
+      name="stage3Time"
+      type="double"
+      io_attributes="15"
+      units="s"
+      description="Time of Stage 3 finished">
+    </member>
+    <member
+      name="payloadMass"
+      type="double"
+      io_attributes="15"
+      units="kg"
+      description="Mass of cargo rocket contains">
+    </member>
+    <member
+      name="totalMass"
+      type="double"
+      io_attributes="15"
+      units="kg">
+    </member>
+    <member
+      name="originalMass"
+      type="double"
+      io_attributes="15"
+      units="kg">
+    </member>
+    <member
+      name="changeInMass"
+      type="double"
+      io_attributes="15"
       units="--">
     </member>
     <member
-      name="ep"
-      type="Trick__EventProcessor"
+      name="Cd"
+      type="double"
+      io_attributes="15"
+      units="--"
+      description="Coefficient of Drag">
+    </member>
+    <member
+      name="airDensity"
+      type="double"
+      io_attributes="15"
+      units="kg/m^3">
+    </member>
+    <member
+      name="crossArea"
+      type="double"
+      io_attributes="15"
+      units="m^2">
+    </member>
+    <member
+      name="earthRadius"
+      type="double"
+      io_attributes="15"
+      units="m">
+    </member>
+    <member
+      name="rf1"
+      type="REGULA_FALSI"
+      io_attributes="15"
+      units="1">
+    </member>
+    <member
+      name="rf2"
+      type="REGULA_FALSI"
+      io_attributes="15"
+      units="1">
+    </member>
+    <member
+      name="rf3"
+      type="REGULA_FALSI"
+      io_attributes="15"
+      units="1">
+    </member>
+    <member
+      name="rfOrbit"
+      type="REGULA_FALSI"
+      io_attributes="15"
+      units="1">
+    </member>
+    <member
+      name="rfImpact"
+      type="Regula_Falsi"
       io_attributes="15"
       units="1">
     </member>
   </class>
 
-  <class name="EventManagerSimObject">
+  <class name="Rocket">
     <member
-      name="name"
-      type="std__string"
+      name="engStage1"
+      type="Engine"
       io_attributes="15"
-      units="--">
+      units="1">
     </member>
     <member
-      name="id"
-      type="int"
+      name="engStage2"
+      type="Engine"
       io_attributes="15"
-      units="--">
+      units="1">
     </member>
     <member
-      name="object_disabled"
+      name="engStage3"
+      type="Engine"
+      io_attributes="15"
+      units="1">
+    </member>
+    <member
+      name="thrustForce"
+      type="double"
+      io_attributes="15"
+      units="N"
+      description="Force produced by thrust">
+      <dimension>2</dimension>
+    </member>
+    <member
+      name="dragForce"
+      type="double"
+      io_attributes="15"
+      units="N"
+      description="Force produced by Drag">
+      <dimension>2</dimension>
+    </member>
+    <member
+      name="gravitationalForce"
+      type="double"
+      io_attributes="15"
+      units="N"
+      description="Force produced by Earth and Moon">
+      <dimension>2</dimension>
+    </member>
+    <member
+      name="totalForce"
+      type="double"
+      io_attributes="15"
+      units="N">
+      <dimension>2</dimension>
+    </member>
+    <member
+      name="acc"
+      type="double"
+      io_attributes="15"
+      units="m/s2"
+      description="xy-acceleration">
+      <dimension>2</dimension>
+    </member>
+    <member
+      name="vel"
+      type="double"
+      io_attributes="15"
+      units="m/s"
+      description="xy-velocity">
+      <dimension>2</dimension>
+    </member>
+    <member
+      name="pos"
+      type="double"
+      io_attributes="15"
+      units="m"
+      description="xy-position">
+      <dimension>2</dimension>
+    </member>
+    <member
+      name="impact"
       type="bool"
       io_attributes="15"
-      units="--">
+      units="--"
+      description="Has impact occured?">
     </member>
     <member
-      name="em"
-      type="Trick__EventManager"
+      name="impactTime"
+      type="double"
       io_attributes="15"
-      units="1">
+      units="s"
+      description="Time of Impact">
     </member>
     <member
-      name="ep"
-      type="Trick__EventProcessor"
-      io_attributes="15"
-      units="1">
-    </member>
-  </class>
-
-  <class name="VariableServerSimObject">
-    <member
-      name="name"
-      type="std__string"
-      io_attributes="15"
-      units="--">
-    </member>
-    <member
-      name="id"
-      type="int"
-      io_attributes="15"
-      units="--">
-    </member>
-    <member
-      name="object_disabled"
+      name="inSpace"
       type="bool"
       io_attributes="15"
-      units="--">
+      units="--"
+      description="Has the rocket reached space?">
     </member>
     <member
-      name="vs"
-      type="Trick__VariableServer"
-      io_attributes="15"
-      units="1">
-    </member>
-    <member
-      name="sim_control_panel"
-      type="Trick__SimControlPanel"
-      io_attributes="15"
-      units="1">
-    </member>
-    <member
-      name="trick_view"
-      type="Trick__TrickView"
-      io_attributes="15"
-      units="1">
-    </member>
-    <member
-      name="malfunctions_trick_view"
-      type="Trick__MalfunctionsTrickView"
-      io_attributes="15"
-      units="1">
-    </member>
-    <member
-      name="stripchart"
-      type="Trick__StripChart"
-      io_attributes="15"
-      units="1">
-    </member>
-    <member
-      name="monte_monitor"
-      type="Trick__MonteMonitor"
-      io_attributes="15"
-      units="1">
-    </member>
-  </class>
-
-  <class name="DataRecordDispatcherSimObject">
-    <member
-      name="name"
-      type="std__string"
-      io_attributes="15"
-      units="--">
-    </member>
-    <member
-      name="id"
+      name="stage"
       type="int"
       io_attributes="15"
-      units="--">
+      units="--"
+      description="Stage of Rocket">
     </member>
     <member
-      name="object_disabled"
-      type="bool"
+      name="stage1Time"
+      type="double"
+      io_attributes="15"
+      units="s"
+      description="Time of Stage 1 finished">
+    </member>
+    <member
+      name="stage2Time"
+      type="double"
+      io_attributes="15"
+      units="s"
+      description="Time of Stage 2 finished">
+    </member>
+    <member
+      name="stage3Time"
+      type="double"
+      io_attributes="15"
+      units="s"
+      description="Time of Stage 3 finished">
+    </member>
+    <member
+      name="payloadMass"
+      type="double"
+      io_attributes="15"
+      units="kg"
+      description="Mass of cargo rocket contains">
+    </member>
+    <member
+      name="totalMass"
+      type="double"
+      io_attributes="15"
+      units="kg">
+    </member>
+    <member
+      name="originalMass"
+      type="double"
+      io_attributes="15"
+      units="kg">
+    </member>
+    <member
+      name="changeInMass"
+      type="double"
       io_attributes="15"
       units="--">
     </member>
     <member
-      name="drd"
-      type="Trick__DataRecordDispatcher"
+      name="Cd"
+      type="double"
       io_attributes="15"
-      units="1">
-    </member>
-  </class>
-
-  <class name="RTSyncSimObject">
-    <member
-      name="name"
-      type="std__string"
-      io_attributes="15"
-      units="--">
+      units="--"
+      description="Coefficient of Drag">
     </member>
     <member
-      name="id"
-      type="int"
+      name="airDensity"
+      type="double"
       io_attributes="15"
-      units="--">
+      units="kg/m^3">
     </member>
     <member
-      name="object_disabled"
-      type="bool"
+      name="crossArea"
+      type="double"
       io_attributes="15"
-      units="--">
+      units="m^2">
     </member>
     <member
-      name="gtod_clock"
-      type="Trick__GetTimeOfDayClock"
+      name="earthRadius"
+      type="double"
       io_attributes="15"
-      units="1">
+      units="m">
     </member>
     <member
-      name="itimer"
-      type="Trick__ITimer"
-      io_attributes="15"
-      units="1">
-    </member>
-    <member
-      name="rt_sync"
-      type="Trick__RealtimeSync"
-      io_attributes="15"
-      units="1">
-    </member>
-  </class>
-
-  <class name="FrameLogSimObject">
-    <member
-      name="name"
-      type="std__string"
-      io_attributes="15"
-      units="--">
-    </member>
-    <member
-      name="id"
-      type="int"
-      io_attributes="15"
-      units="--">
-    </member>
-    <member
-      name="object_disabled"
-      type="bool"
-      io_attributes="15"
-      units="--">
-    </member>
-    <member
-      name="frame_log"
-      type="Trick__FrameLog"
-      io_attributes="15"
-      units="1">
-    </member>
-  </class>
-
-  <class name="MasterSlaveSimObject">
-    <member
-      name="name"
-      type="std__string"
-      io_attributes="15"
-      units="--">
-    </member>
-    <member
-      name="id"
-      type="int"
-      io_attributes="15"
-      units="--">
-    </member>
-    <member
-      name="object_disabled"
-      type="bool"
-      io_attributes="15"
-      units="--">
-    </member>
-    <member
-      name="master"
-      type="Trick__Master"
+      name="rf1"
+      type="REGULA_FALSI"
       io_attributes="15"
       units="1">
     </member>
     <member
-      name="slave"
-      type="Trick__Slave"
-      io_attributes="15"
-      units="1">
-    </member>
-  </class>
-
-  <class name="InstrumentationSimObject">
-    <member
-      name="name"
-      type="std__string"
-      io_attributes="15"
-      units="--">
-    </member>
-    <member
-      name="id"
-      type="int"
-      io_attributes="15"
-      units="--">
-    </member>
-    <member
-      name="object_disabled"
-      type="bool"
-      io_attributes="15"
-      units="--">
-    </member>
-    <member
-      name="echo_jobs"
-      type="Trick__EchoJobs"
+      name="rf2"
+      type="REGULA_FALSI"
       io_attributes="15"
       units="1">
     </member>
     <member
-      name="debug_pause"
-      type="Trick__DebugPause"
+      name="rf3"
+      type="REGULA_FALSI"
       io_attributes="15"
       units="1">
     </member>
-  </class>
-
-  <class name="InjectorExecSimObject">
     <member
-      name="name"
-      type="std__string"
-      io_attributes="15"
-      units="--">
-    </member>
-    <member
-      name="id"
-      type="int"
-      io_attributes="15"
-      units="--">
-    </member>
-    <member
-      name="object_disabled"
-      type="bool"
-      io_attributes="15"
-      units="--">
-    </member>
-    <member
-      name="rtie"
-      type="Trick__RtiExec"
+      name="rfOrbit"
+      type="REGULA_FALSI"
       io_attributes="15"
       units="1">
     </member>
-  </class>
-
-  <class name="InjectorSimObject">
     <member
-      name="name"
-      type="std__string"
-      io_attributes="15"
-      units="--">
-    </member>
-    <member
-      name="id"
-      type="int"
-      io_attributes="15"
-      units="--">
-    </member>
-    <member
-      name="object_disabled"
-      type="bool"
-      io_attributes="15"
-      units="--">
-    </member>
-    <member
-      name="rtis"
-      type="Trick__RtiStager"
-      io_attributes="15"
-      units="1">
-    </member>
-  </class>
-
-  <class name="ZeroconfSimObject">
-    <member
-      name="name"
-      type="std__string"
-      io_attributes="15"
-      units="--">
-    </member>
-    <member
-      name="id"
-      type="int"
-      io_attributes="15"
-      units="--">
-    </member>
-    <member
-      name="object_disabled"
-      type="bool"
-      io_attributes="15"
-      units="--">
-    </member>
-    <member
-      name="zc"
-      type="Trick__Zeroconf"
-      io_attributes="15"
-      units="1">
-    </member>
-  </class>
-
-  <class name="UnitTestSimObject">
-    <member
-      name="name"
-      type="std__string"
-      io_attributes="15"
-      units="--">
-    </member>
-    <member
-      name="id"
-      type="int"
-      io_attributes="15"
-      units="--">
-    </member>
-    <member
-      name="object_disabled"
-      type="bool"
-      io_attributes="15"
-      units="--">
-    </member>
-    <member
-      name="unit_tests"
-      type="Trick__UnitTest"
-      io_attributes="15"
-      units="1">
-    </member>
-  </class>
-
-  <class name="UdUnitsSimObject">
-    <member
-      name="name"
-      type="std__string"
-      io_attributes="15"
-      units="--">
-    </member>
-    <member
-      name="id"
-      type="int"
-      io_attributes="15"
-      units="--">
-    </member>
-    <member
-      name="object_disabled"
-      type="bool"
-      io_attributes="15"
-      units="--">
-    </member>
-    <member
-      name="udunits"
-      type="Trick__UdUnits"
-      io_attributes="15"
-      units="1">
-    </member>
-  </class>
-
-  <class name="RocketSimObject">
-    <member
-      name="name"
-      type="std__string"
-      io_attributes="15"
-      units="--">
-    </member>
-    <member
-      name="id"
-      type="int"
-      io_attributes="15"
-      units="--">
-    </member>
-    <member
-      name="object_disabled"
-      type="bool"
-      io_attributes="15"
-      units="--">
-    </member>
-    <member
-      name="rocket"
-      type="Rocket"
+      name="rfImpact"
+      type="REGULA_FALSI"
       io_attributes="15"
       units="1">
     </member>

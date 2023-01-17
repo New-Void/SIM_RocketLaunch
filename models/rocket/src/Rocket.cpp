@@ -21,7 +21,7 @@ const double airPressures[numElements] = {1.225, 1.112, 1.007, 0.9093, 0.8194, 0
 int Rocket::default_data()
 {   //(dry mass (lbm), fuel (lbm), time of operation (s), thrust (lbf))
     engStage1.default_data(174179, 1277316, 20, 32027195.52 );
-    engStage2.default_data(85275, 1043262, 60, 8896443.2);
+    engStage2.default_data(85275, 1043262, 80, 8896443.2);
     engStage3.default_data(2500, 30248, 1, 110093.48);
 
     payloadMass = 26762;
@@ -61,24 +61,24 @@ int Rocket::rocket_deriv()
 
     dragForce[1] = -0.5 * Cd * airDensity * crossArea * velocity;
 
-    gravitationalForce[1] =  totalMass * GM/((earthRadius * earthRadius) + pos[1]); 
+    gravitationalForce[1] =  -totalMass * GM/((earthRadius * earthRadius) + pos[1]); 
 
     switch (stage)
     {
     case 1:
-        thrustForce[1] = engStage1.thrust;
+        thrustForce[1] = engStage1.thrust + engStage2.thrust;
 
-        changeInMass = -engStage1.massFlowRate;
+        changeInMass = -engStage1.massFlowRate - engStage2.massFlowRate;
 
         break;
     case 2:
-        thrustForce[2] = engStage2.thrust;
+        thrustForce[1] = engStage2.thrust;
 
         changeInMass = -engStage2.massFlowRate;
                 
         break;
     case 3:
-        thrustForce[3] = engStage3.thrust;
+        thrustForce[1] = engStage3.thrust;
         dragForce[1] = 0;
 
         changeInMass = -engStage3.massFlowRate;
@@ -166,23 +166,23 @@ double Rocket::rocket_stage1()
     double now;
 
     now = get_integ_time();
-    rf.error = (engStage1.fuel_mass(now));
+    rf1.error = (engStage1.fuel_mass(now));
 
-    tgo = regula_falsi( now, &rf);
+    tgo = regula_falsi( now, &rf1);
 
     if (tgo == 0.0 && stage == 1) 
     {                     
         now = get_integ_time() ;
-        reset_regula_falsi( now, &rf) ; 
+        reset_regula_falsi( now, &rf1) ; 
 
         stage = 2;
         originalMass -= (engStage1.engineMass + engStage1.fuelMass);
         totalMass -= engStage1.engineMass;
+        crossArea = 2 * M_PI * (pow(4.1, 2));
         stage1Time = now;
 
         fprintf(stderr, "\n\n Stage 1 ends at: %.9f", stage1Time);
     }
-
     return tgo;
 }
 
@@ -193,14 +193,14 @@ double Rocket::rocket_stage2()
     
 
     now = get_integ_time();
-    rf.error = (engStage2.fuel_mass(now - stage1Time));
+    rf2.error = (engStage2.fuel_mass(now));
 
-    tgo = regula_falsi( now, &rf);
+    tgo = regula_falsi( now, &rf2);
 
     if (tgo == 0.0 && stage == 2) 
     {                     
         now = get_integ_time() ;
-        reset_regula_falsi( now, &rf) ; 
+        reset_regula_falsi( now, &rf2) ; 
 
         stage = 3;
         originalMass -= (engStage2.engineMass + engStage2.fuelMass);
@@ -209,7 +209,6 @@ double Rocket::rocket_stage2()
 
         fprintf(stderr, "\n\n Stage 2 ends at: %.9f", stage2Time);
     }
-
     return tgo;
 }
 
@@ -219,14 +218,14 @@ double Rocket::rocket_stage3()
     double now;
 
     now = get_integ_time();
-    rf.error = (engStage3.fuel_mass(now - stage2Time));
+    rf3.error = (engStage3.fuel_mass(now - stage2Time));
 
-    tgo = regula_falsi( now, &rf);
+    tgo = regula_falsi( now, &rf3);
 
     if (tgo == 0.0 && stage == 3) 
     {                     
         now = get_integ_time() ;
-        reset_regula_falsi( now, &rf) ; 
+        reset_regula_falsi( now, &rf3) ; 
 
         stage = 4;
         changeInMass = 0;
@@ -234,7 +233,6 @@ double Rocket::rocket_stage3()
 
         fprintf(stderr, "\n\n Out of fuel");
     }
-
     return tgo;
 }
 
@@ -243,15 +241,16 @@ double Rocket::rocket_orbit()
     double tgo;
     double now;
 
-    rf.error = pos[1] - 10000;
+    rfOrbit.error = 100000 - pos[1];
 
     now = get_integ_time();
-    tgo = regula_falsi( now, &rf);
+    tgo = regula_falsi( now, &rfOrbit);
 
-    if (tgo == 0.0) 
+    if (tgo == 0.0 && !inSpace) 
     {                     
         now = get_integ_time() ;
-        reset_regula_falsi( now, &rf) ; 
+        reset_regula_falsi( now, &rfOrbit) ; 
+        inSpace = true;
 
         fprintf(stderr, "\n\n Rocket has reached space at: %.9f", now);
     }
@@ -263,15 +262,15 @@ double Rocket::rocket_impact()
     double tgo;
     double now;
 
-    rf.error = pos[1];
+    rfImpact.error = pos[1];
 
     now = get_integ_time();
-    tgo = regula_falsi( now, &rf);
+    tgo = regula_falsi( now, &rfImpact);
 
     if (tgo == 0.0) 
     {                     
         now = get_integ_time() ;
-        reset_regula_falsi( now, &rf) ; 
+        reset_regula_falsi( now, &rfImpact) ; 
 
         impact = true ;
         impactTime = now ;

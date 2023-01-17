@@ -1,4 +1,4 @@
-In file included from /home/void/trick_sims/SIM_rocket_launch/S_source.hh:11:
+In file included from /home/bahram/trick_sims/SIM_rocket_launch/S_source.hh:11:
 In file included from /usr/include/c++/11/iostream:39:
 In file included from /usr/include/c++/11/ostream:38:
 In file included from /usr/include/c++/11/ios:38:
@@ -14,7 +14,7 @@ In file included from /usr/include/c++/11/cwchar:44:
 [0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
     __attribute__ ((__malloc__ (dealloc, argno)))
 [0;1;32m                    ^
-[0mIn file included from /home/void/trick_sims/SIM_rocket_launch/S_source.hh:11:
+[0mIn file included from /home/bahram/trick_sims/SIM_rocket_launch/S_source.hh:11:
 In file included from /usr/include/c++/11/iostream:39:
 In file included from /usr/include/c++/11/ostream:38:
 In file included from /usr/include/c++/11/ios:42:
@@ -33,7 +33,7 @@ In file included from /usr/include/c++/11/cstdlib:75:
 [0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
     __attribute__ ((__malloc__ (dealloc, argno)))
 [0;1;32m                    ^
-[0mIn file included from /home/void/trick_sims/SIM_rocket_launch/S_source.hh:11:
+[0mIn file included from /home/bahram/trick_sims/SIM_rocket_launch/S_source.hh:11:
 In file included from /usr/include/c++/11/iostream:39:
 In file included from /usr/include/c++/11/ostream:38:
 In file included from /usr/include/c++/11/ios:42:
@@ -49,7 +49,7 @@ In file included from /usr/include/c++/11/cstdlib:75:
 [0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
     __attribute__ ((__malloc__ (dealloc, argno)))
 [0;1;32m                    ^
-[0mIn file included from /home/void/trick_sims/SIM_rocket_launch/S_source.hh:11:
+[0mIn file included from /home/bahram/trick_sims/SIM_rocket_launch/S_source.hh:11:
 In file included from /usr/include/c++/11/iostream:39:
 In file included from /usr/include/c++/11/ostream:38:
 In file included from /usr/include/c++/11/ios:42:
@@ -68,7 +68,7 @@ In file included from /usr/include/c++/11/cstdlib:75:
 [0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
     __attribute__ ((__malloc__ (dealloc, argno)))
 [0;1;32m                    ^
-[0mIn file included from /home/void/trick_sims/SIM_rocket_launch/S_source.hh:11:
+[0mIn file included from /home/bahram/trick_sims/SIM_rocket_launch/S_source.hh:11:
 In file included from /usr/include/c++/11/iostream:39:
 In file included from /usr/include/c++/11/ostream:38:
 In file included from /usr/include/c++/11/ios:42:
@@ -87,7 +87,7 @@ In file included from /usr/include/c++/11/cstdio:42:
 [0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
     __attribute__ ((__malloc__ (dealloc, argno)))
 [0;1;32m                    ^
-[0mIn file included from /home/void/trick_sims/SIM_rocket_launch/S_source.hh:11:
+[0mIn file included from /home/bahram/trick_sims/SIM_rocket_launch/S_source.hh:11:
 In file included from /usr/include/c++/11/iostream:39:
 In file included from /usr/include/c++/11/ostream:38:
 In file included from /usr/include/c++/11/ios:42:
@@ -106,7 +106,7 @@ In file included from /usr/include/c++/11/cstdio:42:
 [0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
     __attribute__ ((__malloc__ (dealloc, argno)))
 [0;1;32m                    ^
-[0mIn file included from /home/void/trick_sims/SIM_rocket_launch/S_source.hh:11:
+[0mIn file included from /home/bahram/trick_sims/SIM_rocket_launch/S_source.hh:11:
 In file included from /usr/include/c++/11/iostream:39:
 In file included from /usr/include/c++/11/ostream:38:
 In file included from /usr/include/c++/11/ios:42:
@@ -125,7 +125,7 @@ In file included from /usr/include/c++/11/cstdio:42:
 [0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
     __attribute__ ((__malloc__ (dealloc, argno)))
 [0;1;32m                    ^
-[0mIn file included from /home/void/trick_sims/SIM_rocket_launch/S_source.hh:11:
+[0mIn file included from /home/bahram/trick_sims/SIM_rocket_launch/S_source.hh:11:
 In file included from /usr/include/c++/11/iostream:39:
 In file included from /usr/include/c++/11/ostream:38:
 In file included from /usr/include/c++/11/ios:42:
@@ -144,7 +144,7 @@ In file included from /usr/include/c++/11/cstdio:42:
 [0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
     __attribute__ ((__malloc__ (dealloc, argno)))
 [0;1;32m                    ^
-[0mIn file included from /home/void/trick_sims/SIM_rocket_launch/S_source.hh:11:
+[0mIn file included from /home/bahram/trick_sims/SIM_rocket_launch/S_source.hh:11:
 In file included from /usr/include/c++/11/iostream:39:
 In file included from /usr/include/c++/11/ostream:38:
 In file included from /usr/include/c++/11/ios:42:
@@ -163,7 +163,7 @@ In file included from /usr/include/c++/11/cstdio:42:
 [0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
     __attribute__ ((__malloc__ (dealloc, argno)))
 [0;1;32m                    ^
-[0mIn file included from /home/void/trick_sims/SIM_rocket_launch/S_source.hh:11:
+[0mIn file included from /home/bahram/trick_sims/SIM_rocket_launch/S_source.hh:11:
 In file included from /usr/include/c++/11/iostream:39:
 In file included from /usr/include/c++/11/ostream:38:
 In file included from /usr/include/c++/11/ios:42:
@@ -182,7 +182,7 @@ In file included from /usr/include/c++/11/cstdio:42:
 [0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
     __attribute__ ((__malloc__ (dealloc, argno)))
 [0;1;32m                    ^
-[0mIn file included from /home/void/trick_sims/SIM_rocket_launch/S_source.hh:11:
+[0mIn file included from /home/bahram/trick_sims/SIM_rocket_launch/S_source.hh:11:
 In file included from /usr/include/c++/11/iostream:39:
 In file included from /usr/include/c++/11/ostream:38:
 In file included from /usr/include/c++/11/ios:42:
@@ -201,7 +201,7 @@ In file included from /usr/include/c++/11/cstdio:42:
 [0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
     __attribute__ ((__malloc__ (dealloc, argno)))
 [0;1;32m                    ^
-[0mIn file included from /home/void/trick_sims/SIM_rocket_launch/S_source.hh:11:
+[0mIn file included from /home/bahram/trick_sims/SIM_rocket_launch/S_source.hh:11:
 In file included from /usr/include/c++/11/iostream:39:
 In file included from /usr/include/c++/11/ostream:38:
 In file included from /usr/include/c++/11/ios:42:
@@ -220,7 +220,7 @@ In file included from /usr/include/c++/11/cstdio:42:
 [0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
     __attribute__ ((__malloc__ (dealloc, argno)))
 [0;1;32m                    ^
-[0mIn file included from /home/void/trick_sims/SIM_rocket_launch/S_source.hh:11:
+[0mIn file included from /home/bahram/trick_sims/SIM_rocket_launch/S_source.hh:11:
 In file included from /usr/include/c++/11/iostream:39:
 In file included from /usr/include/c++/11/ostream:38:
 In file included from /usr/include/c++/11/ios:42:
@@ -239,7 +239,7 @@ In file included from /usr/include/c++/11/cstdio:42:
 [0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
     __attribute__ ((__malloc__ (dealloc, argno)))
 [0;1;32m                    ^
-[0mIn file included from /home/void/trick_sims/SIM_rocket_launch/S_source.hh:11:
+[0mIn file included from /home/bahram/trick_sims/SIM_rocket_launch/S_source.hh:11:
 In file included from /usr/include/c++/11/iostream:39:
 In file included from /usr/include/c++/11/ostream:38:
 In file included from /usr/include/c++/11/ios:42:
@@ -258,7 +258,7 @@ In file included from /usr/include/c++/11/cstdio:42:
 [0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
     __attribute__ ((__malloc__ (dealloc, argno)))
 [0;1;32m                    ^
-[0mIn file included from /home/void/trick_sims/SIM_rocket_launch/S_source.hh:11:
+[0mIn file included from /home/bahram/trick_sims/SIM_rocket_launch/S_source.hh:11:
 In file included from /usr/include/c++/11/iostream:39:
 In file included from /usr/include/c++/11/ostream:38:
 In file included from /usr/include/c++/11/ios:42:
@@ -274,868 +274,18 @@ In file included from /usr/include/c++/11/cstdio:42:
 [0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
     __attribute__ ((__malloc__ (dealloc, argno)))
 [0;1;32m                    ^
-[0mcannot open build/S_define.lib_deps at /home/void/trick/libexec/trick/make_makefile_src line 101.
-cannot open build/S_define.lib_deps at /home/void/trick/libexec/trick/make_makefile_src line 101.
-cannot open build/S_define.lib_deps at /home/void/trick/libexec/trick/make_makefile_src line 101.
-In file included from /home/void/trick_sims/SIM_rocket_launch/S_source.hh:11:
-In file included from /usr/include/c++/11/iostream:39:
-In file included from /usr/include/c++/11/ostream:38:
-In file included from /usr/include/c++/11/ios:38:
-In file included from /usr/include/c++/11/iosfwd:40:
-In file included from /usr/include/c++/11/bits/postypes.h:40:
-In file included from /usr/include/c++/11/cwchar:44:
-[1m/usr/include/wchar.h:155:24: [0m[0;1;31merror: [0m[1m'__malloc__' attribute takes no arguments[0m
-  __attribute_malloc__ __attr_dealloc_free;
-[0;1;32m                       ^
-[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:691:30: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc_free'[0m
-# define __attr_dealloc_free __attr_dealloc (__builtin_free, 1)
-[0;1;32m                             ^
-[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
-    __attribute__ ((__malloc__ (dealloc, argno)))
-[0;1;32m                    ^
-[0mIn file included from /home/void/trick_sims/SIM_rocket_launch/S_source.hh:11:
-In file included from /usr/include/c++/11/iostream:39:
-In file included from /usr/include/c++/11/ostream:38:
-In file included from /usr/include/c++/11/ios:42:
-In file included from /usr/include/c++/11/bits/ios_base.h:41:
-In file included from /usr/include/c++/11/bits/locale_classes.h:40:
-In file included from /usr/include/c++/11/string:55:
-In file included from /usr/include/c++/11/bits/basic_string.h:6608:
-In file included from /usr/include/c++/11/ext/string_conversions.h:41:
-In file included from /usr/include/c++/11/cstdlib:75:
-[1m/usr/include/stdlib.h:566:5: [0m[0;1;31merror: [0m[1m'__malloc__' attribute takes no arguments[0m
-    __attr_dealloc_free;
-[0;1;32m    ^
-[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:691:30: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc_free'[0m
-# define __attr_dealloc_free __attr_dealloc (__builtin_free, 1)
-[0;1;32m                             ^
-[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
-    __attribute__ ((__malloc__ (dealloc, argno)))
-[0;1;32m                    ^
-[0mIn file included from /home/void/trick_sims/SIM_rocket_launch/S_source.hh:11:
-In file included from /usr/include/c++/11/iostream:39:
-In file included from /usr/include/c++/11/ostream:38:
-In file included from /usr/include/c++/11/ios:42:
-In file included from /usr/include/c++/11/bits/ios_base.h:41:
-In file included from /usr/include/c++/11/bits/locale_classes.h:40:
-In file included from /usr/include/c++/11/string:55:
-In file included from /usr/include/c++/11/bits/basic_string.h:6608:
-In file included from /usr/include/c++/11/ext/string_conversions.h:41:
-In file included from /usr/include/c++/11/cstdlib:75:
-[1m/usr/include/stdlib.h:570:14: [0m[0;1;31merror: [0m[1m'__malloc__' attribute takes no arguments[0m
-     __THROW __attr_dealloc (reallocarray, 1);
-[0;1;32m             ^
-[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
-    __attribute__ ((__malloc__ (dealloc, argno)))
-[0;1;32m                    ^
-[0mIn file included from /home/void/trick_sims/SIM_rocket_launch/S_source.hh:11:
-In file included from /usr/include/c++/11/iostream:39:
-In file included from /usr/include/c++/11/ostream:38:
-In file included from /usr/include/c++/11/ios:42:
-In file included from /usr/include/c++/11/bits/ios_base.h:41:
-In file included from /usr/include/c++/11/bits/locale_classes.h:40:
-In file included from /usr/include/c++/11/string:55:
-In file included from /usr/include/c++/11/bits/basic_string.h:6608:
-In file included from /usr/include/c++/11/ext/string_conversions.h:41:
-In file included from /usr/include/c++/11/cstdlib:75:
-[1m/usr/include/stdlib.h:799:6: [0m[0;1;31merror: [0m[1m'__malloc__' attribute takes no arguments[0m
-     __attr_dealloc_free __wur;
-[0;1;32m     ^
-[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:691:30: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc_free'[0m
-# define __attr_dealloc_free __attr_dealloc (__builtin_free, 1)
-[0;1;32m                             ^
-[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
-    __attribute__ ((__malloc__ (dealloc, argno)))
-[0;1;32m                    ^
-[0mIn file included from /home/void/trick_sims/SIM_rocket_launch/S_source.hh:11:
-In file included from /usr/include/c++/11/iostream:39:
-In file included from /usr/include/c++/11/ostream:38:
-In file included from /usr/include/c++/11/ios:42:
-In file included from /usr/include/c++/11/bits/ios_base.h:41:
-In file included from /usr/include/c++/11/bits/locale_classes.h:40:
-In file included from /usr/include/c++/11/string:55:
-In file included from /usr/include/c++/11/bits/basic_string.h:6608:
-In file included from /usr/include/c++/11/ext/string_conversions.h:43:
-In file included from /usr/include/c++/11/cstdio:42:
-[1m/usr/include/stdio.h:189:24: [0m[0;1;31merror: [0m[1m'__malloc__' attribute takes no arguments[0m
-  __attribute_malloc__ __attr_dealloc_fclose __wur;
-[0;1;32m                       ^
-[0m[1m/usr/include/stdio.h:181:31: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc_fclose'[0m
-#define __attr_dealloc_fclose __attr_dealloc (fclose, 1)
-[0;1;32m                              ^
-[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
-    __attribute__ ((__malloc__ (dealloc, argno)))
-[0;1;32m                    ^
-[0mIn file included from /home/void/trick_sims/SIM_rocket_launch/S_source.hh:11:
-In file included from /usr/include/c++/11/iostream:39:
-In file included from /usr/include/c++/11/ostream:38:
-In file included from /usr/include/c++/11/ios:42:
-In file included from /usr/include/c++/11/bits/ios_base.h:41:
-In file included from /usr/include/c++/11/bits/locale_classes.h:40:
-In file included from /usr/include/c++/11/string:55:
-In file included from /usr/include/c++/11/bits/basic_string.h:6608:
-In file included from /usr/include/c++/11/ext/string_conversions.h:43:
-In file included from /usr/include/c++/11/cstdio:42:
-[1m/usr/include/stdio.h:201:25: [0m[0;1;31merror: [0m[1m'__malloc__' attribute takes no arguments[0m
-   __attribute_malloc__ __attr_dealloc_fclose __wur;
-[0;1;32m                        ^
-[0m[1m/usr/include/stdio.h:181:31: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc_fclose'[0m
-#define __attr_dealloc_fclose __attr_dealloc (fclose, 1)
-[0;1;32m                              ^
-[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
-    __attribute__ ((__malloc__ (dealloc, argno)))
-[0;1;32m                    ^
-[0mIn file included from /home/void/trick_sims/SIM_rocket_launch/S_source.hh:11:
-In file included from /usr/include/c++/11/iostream:39:
-In file included from /usr/include/c++/11/ostream:38:
-In file included from /usr/include/c++/11/ios:42:
-In file included from /usr/include/c++/11/bits/ios_base.h:41:
-In file included from /usr/include/c++/11/bits/locale_classes.h:40:
-In file included from /usr/include/c++/11/string:55:
-In file included from /usr/include/c++/11/bits/basic_string.h:6608:
-In file included from /usr/include/c++/11/ext/string_conversions.h:43:
-In file included from /usr/include/c++/11/cstdio:42:
-[1m/usr/include/stdio.h:223:39: [0m[0;1;31merror: [0m[1m'__malloc__' attribute takes no arguments[0m
-   __THROW __attribute_malloc__ __wur __attr_dealloc_free;
-[0;1;32m                                      ^
-[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:691:30: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc_free'[0m
-# define __attr_dealloc_free __attr_dealloc (__builtin_free, 1)
-[0;1;32m                             ^
-[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
-    __attribute__ ((__malloc__ (dealloc, argno)))
-[0;1;32m                    ^
-[0mIn file included from /home/void/trick_sims/SIM_rocket_launch/S_source.hh:11:
-In file included from /usr/include/c++/11/iostream:39:
-In file included from /usr/include/c++/11/ostream:38:
-In file included from /usr/include/c++/11/ios:42:
-In file included from /usr/include/c++/11/bits/ios_base.h:41:
-In file included from /usr/include/c++/11/bits/locale_classes.h:40:
-In file included from /usr/include/c++/11/string:55:
-In file included from /usr/include/c++/11/bits/basic_string.h:6608:
-In file included from /usr/include/c++/11/ext/string_conversions.h:43:
-In file included from /usr/include/c++/11/cstdio:42:
-[1m/usr/include/stdio.h:260:24: [0m[0;1;31merror: [0m[1m'__malloc__' attribute takes no arguments[0m
-  __attribute_malloc__ __attr_dealloc_fclose __wur;
-[0;1;32m                       ^
-[0m[1m/usr/include/stdio.h:181:31: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc_fclose'[0m
-#define __attr_dealloc_fclose __attr_dealloc (fclose, 1)
-[0;1;32m                              ^
-[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
-    __attribute__ ((__malloc__ (dealloc, argno)))
-[0;1;32m                    ^
-[0mIn file included from /home/void/trick_sims/SIM_rocket_launch/S_source.hh:11:
-In file included from /usr/include/c++/11/iostream:39:
-In file included from /usr/include/c++/11/ostream:38:
-In file included from /usr/include/c++/11/ios:42:
-In file included from /usr/include/c++/11/bits/ios_base.h:41:
-In file included from /usr/include/c++/11/bits/locale_classes.h:40:
-In file included from /usr/include/c++/11/string:55:
-In file included from /usr/include/c++/11/bits/basic_string.h:6608:
-In file included from /usr/include/c++/11/ext/string_conversions.h:43:
-In file included from /usr/include/c++/11/cstdio:42:
-[1m/usr/include/stdio.h:285:24: [0m[0;1;31merror: [0m[1m'__malloc__' attribute takes no arguments[0m
-  __attribute_malloc__ __attr_dealloc_fclose __wur;
-[0;1;32m                       ^
-[0m[1m/usr/include/stdio.h:181:31: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc_fclose'[0m
-#define __attr_dealloc_fclose __attr_dealloc (fclose, 1)
-[0;1;32m                              ^
-[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
-    __attribute__ ((__malloc__ (dealloc, argno)))
-[0;1;32m                    ^
-[0mIn file included from /home/void/trick_sims/SIM_rocket_launch/S_source.hh:11:
-In file included from /usr/include/c++/11/iostream:39:
-In file included from /usr/include/c++/11/ostream:38:
-In file included from /usr/include/c++/11/ios:42:
-In file included from /usr/include/c++/11/bits/ios_base.h:41:
-In file included from /usr/include/c++/11/bits/locale_classes.h:40:
-In file included from /usr/include/c++/11/string:55:
-In file included from /usr/include/c++/11/bits/basic_string.h:6608:
-In file included from /usr/include/c++/11/ext/string_conversions.h:43:
-In file included from /usr/include/c++/11/cstdio:42:
-[1m/usr/include/stdio.h:294:24: [0m[0;1;31merror: [0m[1m'__malloc__' attribute takes no arguments[0m
-  __attribute_malloc__ __attr_dealloc_fclose __wur;
-[0;1;32m                       ^
-[0m[1m/usr/include/stdio.h:181:31: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc_fclose'[0m
-#define __attr_dealloc_fclose __attr_dealloc (fclose, 1)
-[0;1;32m                              ^
-[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
-    __attribute__ ((__malloc__ (dealloc, argno)))
-[0;1;32m                    ^
-[0mIn file included from /home/void/trick_sims/SIM_rocket_launch/S_source.hh:11:
-In file included from /usr/include/c++/11/iostream:39:
-In file included from /usr/include/c++/11/ostream:38:
-In file included from /usr/include/c++/11/ios:42:
-In file included from /usr/include/c++/11/bits/ios_base.h:41:
-In file included from /usr/include/c++/11/bits/locale_classes.h:40:
-In file included from /usr/include/c++/11/string:55:
-In file included from /usr/include/c++/11/bits/basic_string.h:6608:
-In file included from /usr/include/c++/11/ext/string_conversions.h:43:
-In file included from /usr/include/c++/11/cstdio:42:
-[1m/usr/include/stdio.h:303:24: [0m[0;1;31merror: [0m[1m'__malloc__' attribute takes no arguments[0m
-  __attribute_malloc__ __attr_dealloc_fclose __wur;
-[0;1;32m                       ^
-[0m[1m/usr/include/stdio.h:181:31: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc_fclose'[0m
-#define __attr_dealloc_fclose __attr_dealloc (fclose, 1)
-[0;1;32m                              ^
-[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
-    __attribute__ ((__malloc__ (dealloc, argno)))
-[0;1;32m                    ^
-[0mIn file included from /home/void/trick_sims/SIM_rocket_launch/S_source.hh:11:
-In file included from /usr/include/c++/11/iostream:39:
-In file included from /usr/include/c++/11/ostream:38:
-In file included from /usr/include/c++/11/ios:42:
-In file included from /usr/include/c++/11/bits/ios_base.h:41:
-In file included from /usr/include/c++/11/bits/locale_classes.h:40:
-In file included from /usr/include/c++/11/string:55:
-In file included from /usr/include/c++/11/bits/basic_string.h:6608:
-In file included from /usr/include/c++/11/ext/string_conversions.h:43:
-In file included from /usr/include/c++/11/cstdio:42:
-[1m/usr/include/stdio.h:309:32: [0m[0;1;31merror: [0m[1m'__malloc__' attribute takes no arguments[0m
-  __THROW __attribute_malloc__ __attr_dealloc_fclose __wur;
-[0;1;32m                               ^
-[0m[1m/usr/include/stdio.h:181:31: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc_fclose'[0m
-#define __attr_dealloc_fclose __attr_dealloc (fclose, 1)
-[0;1;32m                              ^
-[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
-    __attribute__ ((__malloc__ (dealloc, argno)))
-[0;1;32m                    ^
-[0mIn file included from /home/void/trick_sims/SIM_rocket_launch/S_source.hh:11:
-In file included from /usr/include/c++/11/iostream:39:
-In file included from /usr/include/c++/11/ostream:38:
-In file included from /usr/include/c++/11/ios:42:
-In file included from /usr/include/c++/11/bits/ios_base.h:41:
-In file included from /usr/include/c++/11/bits/locale_classes.h:40:
-In file included from /usr/include/c++/11/string:55:
-In file included from /usr/include/c++/11/bits/basic_string.h:6608:
-In file included from /usr/include/c++/11/ext/string_conversions.h:43:
-In file included from /usr/include/c++/11/cstdio:42:
-[1m/usr/include/stdio.h:315:24: [0m[0;1;31merror: [0m[1m'__malloc__' attribute takes no arguments[0m
-  __attribute_malloc__ __attr_dealloc_fclose __wur;
-[0;1;32m                       ^
-[0m[1m/usr/include/stdio.h:181:31: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc_fclose'[0m
-#define __attr_dealloc_fclose __attr_dealloc (fclose, 1)
-[0;1;32m                              ^
-[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
-    __attribute__ ((__malloc__ (dealloc, argno)))
-[0;1;32m                    ^
-[0mIn file included from /home/void/trick_sims/SIM_rocket_launch/S_source.hh:11:
-In file included from /usr/include/c++/11/iostream:39:
-In file included from /usr/include/c++/11/ostream:38:
-In file included from /usr/include/c++/11/ios:42:
-In file included from /usr/include/c++/11/bits/ios_base.h:41:
-In file included from /usr/include/c++/11/bits/locale_classes.h:40:
-In file included from /usr/include/c++/11/string:55:
-In file included from /usr/include/c++/11/bits/basic_string.h:6608:
-In file included from /usr/include/c++/11/ext/string_conversions.h:43:
-In file included from /usr/include/c++/11/cstdio:42:
-[1m/usr/include/stdio.h:322:24: [0m[0;1;31merror: [0m[1m'__malloc__' attribute takes no arguments[0m
-  __attribute_malloc__ __attr_dealloc_fclose;
-[0;1;32m                       ^
-[0m[1m/usr/include/stdio.h:181:31: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc_fclose'[0m
-#define __attr_dealloc_fclose __attr_dealloc (fclose, 1)
-[0;1;32m                              ^
-[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
-    __attribute__ ((__malloc__ (dealloc, argno)))
-[0;1;32m                    ^
-[0mIn file included from /home/void/trick_sims/SIM_rocket_launch/S_source.hh:11:
-In file included from /usr/include/c++/11/iostream:39:
-In file included from /usr/include/c++/11/ostream:38:
-In file included from /usr/include/c++/11/ios:42:
-In file included from /usr/include/c++/11/bits/ios_base.h:41:
-In file included from /usr/include/c++/11/bits/locale_classes.h:40:
-In file included from /usr/include/c++/11/string:55:
-In file included from /usr/include/c++/11/bits/basic_string.h:6608:
-In file included from /usr/include/c++/11/ext/string_conversions.h:43:
-In file included from /usr/include/c++/11/cstdio:42:
-[1m/usr/include/stdio.h:830:24: [0m[0;1;31merror: [0m[1m'__malloc__' attribute takes no arguments[0m
-  __attribute_malloc__ __attr_dealloc (pclose, 1) __wur;
-[0;1;32m                       ^
-[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
-    __attribute__ ((__malloc__ (dealloc, argno)))
-[0;1;32m                    ^
-[0m/home/void/trick_sims/SIM_rocket_launch/models/rocket/src/Engine.cpp: In member function ‘int Engine::default_data(int, int, int, int)’:
-/home/void/trick_sims/SIM_rocket_launch/models/rocket/src/Engine.cpp:16:1: warning: no return statement in function returning non-void [-Wreturn-type]
+[0m/home/bahram/trick_sims/SIM_rocket_launch/models/rocket/src/Engine.cpp: In member function ‘int Engine::default_data(int, int, int, int)’:
+/home/bahram/trick_sims/SIM_rocket_launch/models/rocket/src/Engine.cpp:16:1: warning: no return statement in function returning non-void [-Wreturn-type]
    16 | }
       | ^
-/home/void/trick_sims/SIM_rocket_launch/models/rocket/src/Engine.cpp: In member function ‘int Engine::initial_data()’:
-/home/void/trick_sims/SIM_rocket_launch/models/rocket/src/Engine.cpp:21:1: warning: no return statement in function returning non-void [-Wreturn-type]
+/home/bahram/trick_sims/SIM_rocket_launch/models/rocket/src/Engine.cpp: In member function ‘int Engine::initial_data()’:
+/home/bahram/trick_sims/SIM_rocket_launch/models/rocket/src/Engine.cpp:21:1: warning: no return statement in function returning non-void [-Wreturn-type]
    21 | }
       | ^
-/home/void/trick_sims/SIM_rocket_launch/models/rocket/src/Rocket.cpp:15:16: warning: overflow in conversion from ‘double’ to ‘int’ changes value from ‘3.986004418e+14’ to ‘2147483647’ [-Woverflow]
-   15 | const int GM = 3.986004418e14;
-      |                ^~~~~~~~~~~~~~
-/home/void/trick_sims/SIM_rocket_launch/models/rocket/src/Engine.cpp: In member function ‘int Engine::default_data(int, int, int, int)’:
-/home/void/trick_sims/SIM_rocket_launch/models/rocket/src/Engine.cpp:16:1: warning: no return statement in function returning non-void [-Wreturn-type]
-   16 | }
-      | ^
-/home/void/trick_sims/SIM_rocket_launch/models/rocket/src/Engine.cpp: In member function ‘int Engine::initial_data()’:
-/home/void/trick_sims/SIM_rocket_launch/models/rocket/src/Engine.cpp:21:1: warning: no return statement in function returning non-void [-Wreturn-type]
-   21 | }
-      | ^
-/home/void/trick_sims/SIM_rocket_launch/models/rocket/src/Rocket.cpp:15:16: warning: overflow in conversion from ‘double’ to ‘int’ changes value from ‘3.986004418e+14’ to ‘2147483647’ [-Woverflow]
-   15 | const int GM = 3.986004418e14;
-      |                ^~~~~~~~~~~~~~
-/home/void/trick_sims/SIM_rocket_launch/models/rocket/src/Rocket.cpp:15:16: warning: overflow in conversion from ‘double’ to ‘int’ changes value from ‘3.986004418e+14’ to ‘2147483647’ [-Woverflow]
-   15 | const int GM = 3.986004418e14;
-      |                ^~~~~~~~~~~~~~
-In file included from /home/void/trick_sims/SIM_rocket_launch/S_source.hh:11:
-In file included from /usr/include/c++/11/iostream:39:
-In file included from /usr/include/c++/11/ostream:38:
-In file included from /usr/include/c++/11/ios:38:
-In file included from /usr/include/c++/11/iosfwd:40:
-In file included from /usr/include/c++/11/bits/postypes.h:40:
-In file included from /usr/include/c++/11/cwchar:44:
-[1m/usr/include/wchar.h:155:24: [0m[0;1;31merror: [0m[1m'__malloc__' attribute takes no arguments[0m
-  __attribute_malloc__ __attr_dealloc_free;
-[0;1;32m                       ^
-[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:691:30: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc_free'[0m
-# define __attr_dealloc_free __attr_dealloc (__builtin_free, 1)
-[0;1;32m                             ^
-[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
-    __attribute__ ((__malloc__ (dealloc, argno)))
-[0;1;32m                    ^
-[0mIn file included from /home/void/trick_sims/SIM_rocket_launch/S_source.hh:11:
-In file included from /usr/include/c++/11/iostream:39:
-In file included from /usr/include/c++/11/ostream:38:
-In file included from /usr/include/c++/11/ios:42:
-In file included from /usr/include/c++/11/bits/ios_base.h:41:
-In file included from /usr/include/c++/11/bits/locale_classes.h:40:
-In file included from /usr/include/c++/11/string:55:
-In file included from /usr/include/c++/11/bits/basic_string.h:6608:
-In file included from /usr/include/c++/11/ext/string_conversions.h:41:
-In file included from /usr/include/c++/11/cstdlib:75:
-[1m/usr/include/stdlib.h:566:5: [0m[0;1;31merror: [0m[1m'__malloc__' attribute takes no arguments[0m
-    __attr_dealloc_free;
-[0;1;32m    ^
-[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:691:30: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc_free'[0m
-# define __attr_dealloc_free __attr_dealloc (__builtin_free, 1)
-[0;1;32m                             ^
-[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
-    __attribute__ ((__malloc__ (dealloc, argno)))
-[0;1;32m                    ^
-[0mIn file included from /home/void/trick_sims/SIM_rocket_launch/S_source.hh:11:
-In file included from /usr/include/c++/11/iostream:39:
-In file included from /usr/include/c++/11/ostream:38:
-In file included from /usr/include/c++/11/ios:42:
-In file included from /usr/include/c++/11/bits/ios_base.h:41:
-In file included from /usr/include/c++/11/bits/locale_classes.h:40:
-In file included from /usr/include/c++/11/string:55:
-In file included from /usr/include/c++/11/bits/basic_string.h:6608:
-In file included from /usr/include/c++/11/ext/string_conversions.h:41:
-In file included from /usr/include/c++/11/cstdlib:75:
-[1m/usr/include/stdlib.h:570:14: [0m[0;1;31merror: [0m[1m'__malloc__' attribute takes no arguments[0m
-     __THROW __attr_dealloc (reallocarray, 1);
-[0;1;32m             ^
-[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
-    __attribute__ ((__malloc__ (dealloc, argno)))
-[0;1;32m                    ^
-[0mIn file included from /home/void/trick_sims/SIM_rocket_launch/S_source.hh:11:
-In file included from /usr/include/c++/11/iostream:39:
-In file included from /usr/include/c++/11/ostream:38:
-In file included from /usr/include/c++/11/ios:42:
-In file included from /usr/include/c++/11/bits/ios_base.h:41:
-In file included from /usr/include/c++/11/bits/locale_classes.h:40:
-In file included from /usr/include/c++/11/string:55:
-In file included from /usr/include/c++/11/bits/basic_string.h:6608:
-In file included from /usr/include/c++/11/ext/string_conversions.h:41:
-In file included from /usr/include/c++/11/cstdlib:75:
-[1m/usr/include/stdlib.h:799:6: [0m[0;1;31merror: [0m[1m'__malloc__' attribute takes no arguments[0m
-     __attr_dealloc_free __wur;
-[0;1;32m     ^
-[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:691:30: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc_free'[0m
-# define __attr_dealloc_free __attr_dealloc (__builtin_free, 1)
-[0;1;32m                             ^
-[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
-    __attribute__ ((__malloc__ (dealloc, argno)))
-[0;1;32m                    ^
-[0mIn file included from /home/void/trick_sims/SIM_rocket_launch/S_source.hh:11:
-In file included from /usr/include/c++/11/iostream:39:
-In file included from /usr/include/c++/11/ostream:38:
-In file included from /usr/include/c++/11/ios:42:
-In file included from /usr/include/c++/11/bits/ios_base.h:41:
-In file included from /usr/include/c++/11/bits/locale_classes.h:40:
-In file included from /usr/include/c++/11/string:55:
-In file included from /usr/include/c++/11/bits/basic_string.h:6608:
-In file included from /usr/include/c++/11/ext/string_conversions.h:43:
-In file included from /usr/include/c++/11/cstdio:42:
-[1m/usr/include/stdio.h:189:24: [0m[0;1;31merror: [0m[1m'__malloc__' attribute takes no arguments[0m
-  __attribute_malloc__ __attr_dealloc_fclose __wur;
-[0;1;32m                       ^
-[0m[1m/usr/include/stdio.h:181:31: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc_fclose'[0m
-#define __attr_dealloc_fclose __attr_dealloc (fclose, 1)
-[0;1;32m                              ^
-[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
-    __attribute__ ((__malloc__ (dealloc, argno)))
-[0;1;32m                    ^
-[0mIn file included from /home/void/trick_sims/SIM_rocket_launch/S_source.hh:11:
-In file included from /usr/include/c++/11/iostream:39:
-In file included from /usr/include/c++/11/ostream:38:
-In file included from /usr/include/c++/11/ios:42:
-In file included from /usr/include/c++/11/bits/ios_base.h:41:
-In file included from /usr/include/c++/11/bits/locale_classes.h:40:
-In file included from /usr/include/c++/11/string:55:
-In file included from /usr/include/c++/11/bits/basic_string.h:6608:
-In file included from /usr/include/c++/11/ext/string_conversions.h:43:
-In file included from /usr/include/c++/11/cstdio:42:
-[1m/usr/include/stdio.h:201:25: [0m[0;1;31merror: [0m[1m'__malloc__' attribute takes no arguments[0m
-   __attribute_malloc__ __attr_dealloc_fclose __wur;
-[0;1;32m                        ^
-[0m[1m/usr/include/stdio.h:181:31: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc_fclose'[0m
-#define __attr_dealloc_fclose __attr_dealloc (fclose, 1)
-[0;1;32m                              ^
-[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
-    __attribute__ ((__malloc__ (dealloc, argno)))
-[0;1;32m                    ^
-[0mIn file included from /home/void/trick_sims/SIM_rocket_launch/S_source.hh:11:
-In file included from /usr/include/c++/11/iostream:39:
-In file included from /usr/include/c++/11/ostream:38:
-In file included from /usr/include/c++/11/ios:42:
-In file included from /usr/include/c++/11/bits/ios_base.h:41:
-In file included from /usr/include/c++/11/bits/locale_classes.h:40:
-In file included from /usr/include/c++/11/string:55:
-In file included from /usr/include/c++/11/bits/basic_string.h:6608:
-In file included from /usr/include/c++/11/ext/string_conversions.h:43:
-In file included from /usr/include/c++/11/cstdio:42:
-[1m/usr/include/stdio.h:223:39: [0m[0;1;31merror: [0m[1m'__malloc__' attribute takes no arguments[0m
-   __THROW __attribute_malloc__ __wur __attr_dealloc_free;
-[0;1;32m                                      ^
-[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:691:30: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc_free'[0m
-# define __attr_dealloc_free __attr_dealloc (__builtin_free, 1)
-[0;1;32m                             ^
-[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
-    __attribute__ ((__malloc__ (dealloc, argno)))
-[0;1;32m                    ^
-[0mIn file included from /home/void/trick_sims/SIM_rocket_launch/S_source.hh:11:
-In file included from /usr/include/c++/11/iostream:39:
-In file included from /usr/include/c++/11/ostream:38:
-In file included from /usr/include/c++/11/ios:42:
-In file included from /usr/include/c++/11/bits/ios_base.h:41:
-In file included from /usr/include/c++/11/bits/locale_classes.h:40:
-In file included from /usr/include/c++/11/string:55:
-In file included from /usr/include/c++/11/bits/basic_string.h:6608:
-In file included from /usr/include/c++/11/ext/string_conversions.h:43:
-In file included from /usr/include/c++/11/cstdio:42:
-[1m/usr/include/stdio.h:260:24: [0m[0;1;31merror: [0m[1m'__malloc__' attribute takes no arguments[0m
-  __attribute_malloc__ __attr_dealloc_fclose __wur;
-[0;1;32m                       ^
-[0m[1m/usr/include/stdio.h:181:31: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc_fclose'[0m
-#define __attr_dealloc_fclose __attr_dealloc (fclose, 1)
-[0;1;32m                              ^
-[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
-    __attribute__ ((__malloc__ (dealloc, argno)))
-[0;1;32m                    ^
-[0mIn file included from /home/void/trick_sims/SIM_rocket_launch/S_source.hh:11:
-In file included from /usr/include/c++/11/iostream:39:
-In file included from /usr/include/c++/11/ostream:38:
-In file included from /usr/include/c++/11/ios:42:
-In file included from /usr/include/c++/11/bits/ios_base.h:41:
-In file included from /usr/include/c++/11/bits/locale_classes.h:40:
-In file included from /usr/include/c++/11/string:55:
-In file included from /usr/include/c++/11/bits/basic_string.h:6608:
-In file included from /usr/include/c++/11/ext/string_conversions.h:43:
-In file included from /usr/include/c++/11/cstdio:42:
-[1m/usr/include/stdio.h:285:24: [0m[0;1;31merror: [0m[1m'__malloc__' attribute takes no arguments[0m
-  __attribute_malloc__ __attr_dealloc_fclose __wur;
-[0;1;32m                       ^
-[0m[1m/usr/include/stdio.h:181:31: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc_fclose'[0m
-#define __attr_dealloc_fclose __attr_dealloc (fclose, 1)
-[0;1;32m                              ^
-[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
-    __attribute__ ((__malloc__ (dealloc, argno)))
-[0;1;32m                    ^
-[0mIn file included from /home/void/trick_sims/SIM_rocket_launch/S_source.hh:11:
-In file included from /usr/include/c++/11/iostream:39:
-In file included from /usr/include/c++/11/ostream:38:
-In file included from /usr/include/c++/11/ios:42:
-In file included from /usr/include/c++/11/bits/ios_base.h:41:
-In file included from /usr/include/c++/11/bits/locale_classes.h:40:
-In file included from /usr/include/c++/11/string:55:
-In file included from /usr/include/c++/11/bits/basic_string.h:6608:
-In file included from /usr/include/c++/11/ext/string_conversions.h:43:
-In file included from /usr/include/c++/11/cstdio:42:
-[1m/usr/include/stdio.h:294:24: [0m[0;1;31merror: [0m[1m'__malloc__' attribute takes no arguments[0m
-  __attribute_malloc__ __attr_dealloc_fclose __wur;
-[0;1;32m                       ^
-[0m[1m/usr/include/stdio.h:181:31: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc_fclose'[0m
-#define __attr_dealloc_fclose __attr_dealloc (fclose, 1)
-[0;1;32m                              ^
-[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
-    __attribute__ ((__malloc__ (dealloc, argno)))
-[0;1;32m                    ^
-[0mIn file included from /home/void/trick_sims/SIM_rocket_launch/S_source.hh:11:
-In file included from /usr/include/c++/11/iostream:39:
-In file included from /usr/include/c++/11/ostream:38:
-In file included from /usr/include/c++/11/ios:42:
-In file included from /usr/include/c++/11/bits/ios_base.h:41:
-In file included from /usr/include/c++/11/bits/locale_classes.h:40:
-In file included from /usr/include/c++/11/string:55:
-In file included from /usr/include/c++/11/bits/basic_string.h:6608:
-In file included from /usr/include/c++/11/ext/string_conversions.h:43:
-In file included from /usr/include/c++/11/cstdio:42:
-[1m/usr/include/stdio.h:303:24: [0m[0;1;31merror: [0m[1m'__malloc__' attribute takes no arguments[0m
-  __attribute_malloc__ __attr_dealloc_fclose __wur;
-[0;1;32m                       ^
-[0m[1m/usr/include/stdio.h:181:31: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc_fclose'[0m
-#define __attr_dealloc_fclose __attr_dealloc (fclose, 1)
-[0;1;32m                              ^
-[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
-    __attribute__ ((__malloc__ (dealloc, argno)))
-[0;1;32m                    ^
-[0mIn file included from /home/void/trick_sims/SIM_rocket_launch/S_source.hh:11:
-In file included from /usr/include/c++/11/iostream:39:
-In file included from /usr/include/c++/11/ostream:38:
-In file included from /usr/include/c++/11/ios:42:
-In file included from /usr/include/c++/11/bits/ios_base.h:41:
-In file included from /usr/include/c++/11/bits/locale_classes.h:40:
-In file included from /usr/include/c++/11/string:55:
-In file included from /usr/include/c++/11/bits/basic_string.h:6608:
-In file included from /usr/include/c++/11/ext/string_conversions.h:43:
-In file included from /usr/include/c++/11/cstdio:42:
-[1m/usr/include/stdio.h:309:32: [0m[0;1;31merror: [0m[1m'__malloc__' attribute takes no arguments[0m
-  __THROW __attribute_malloc__ __attr_dealloc_fclose __wur;
-[0;1;32m                               ^
-[0m[1m/usr/include/stdio.h:181:31: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc_fclose'[0m
-#define __attr_dealloc_fclose __attr_dealloc (fclose, 1)
-[0;1;32m                              ^
-[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
-    __attribute__ ((__malloc__ (dealloc, argno)))
-[0;1;32m                    ^
-[0mIn file included from /home/void/trick_sims/SIM_rocket_launch/S_source.hh:11:
-In file included from /usr/include/c++/11/iostream:39:
-In file included from /usr/include/c++/11/ostream:38:
-In file included from /usr/include/c++/11/ios:42:
-In file included from /usr/include/c++/11/bits/ios_base.h:41:
-In file included from /usr/include/c++/11/bits/locale_classes.h:40:
-In file included from /usr/include/c++/11/string:55:
-In file included from /usr/include/c++/11/bits/basic_string.h:6608:
-In file included from /usr/include/c++/11/ext/string_conversions.h:43:
-In file included from /usr/include/c++/11/cstdio:42:
-[1m/usr/include/stdio.h:315:24: [0m[0;1;31merror: [0m[1m'__malloc__' attribute takes no arguments[0m
-  __attribute_malloc__ __attr_dealloc_fclose __wur;
-[0;1;32m                       ^
-[0m[1m/usr/include/stdio.h:181:31: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc_fclose'[0m
-#define __attr_dealloc_fclose __attr_dealloc (fclose, 1)
-[0;1;32m                              ^
-[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
-    __attribute__ ((__malloc__ (dealloc, argno)))
-[0;1;32m                    ^
-[0mIn file included from /home/void/trick_sims/SIM_rocket_launch/S_source.hh:11:
-In file included from /usr/include/c++/11/iostream:39:
-In file included from /usr/include/c++/11/ostream:38:
-In file included from /usr/include/c++/11/ios:42:
-In file included from /usr/include/c++/11/bits/ios_base.h:41:
-In file included from /usr/include/c++/11/bits/locale_classes.h:40:
-In file included from /usr/include/c++/11/string:55:
-In file included from /usr/include/c++/11/bits/basic_string.h:6608:
-In file included from /usr/include/c++/11/ext/string_conversions.h:43:
-In file included from /usr/include/c++/11/cstdio:42:
-[1m/usr/include/stdio.h:322:24: [0m[0;1;31merror: [0m[1m'__malloc__' attribute takes no arguments[0m
-  __attribute_malloc__ __attr_dealloc_fclose;
-[0;1;32m                       ^
-[0m[1m/usr/include/stdio.h:181:31: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc_fclose'[0m
-#define __attr_dealloc_fclose __attr_dealloc (fclose, 1)
-[0;1;32m                              ^
-[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
-    __attribute__ ((__malloc__ (dealloc, argno)))
-[0;1;32m                    ^
-[0mIn file included from /home/void/trick_sims/SIM_rocket_launch/S_source.hh:11:
-In file included from /usr/include/c++/11/iostream:39:
-In file included from /usr/include/c++/11/ostream:38:
-In file included from /usr/include/c++/11/ios:42:
-In file included from /usr/include/c++/11/bits/ios_base.h:41:
-In file included from /usr/include/c++/11/bits/locale_classes.h:40:
-In file included from /usr/include/c++/11/string:55:
-In file included from /usr/include/c++/11/bits/basic_string.h:6608:
-In file included from /usr/include/c++/11/ext/string_conversions.h:43:
-In file included from /usr/include/c++/11/cstdio:42:
-[1m/usr/include/stdio.h:830:24: [0m[0;1;31merror: [0m[1m'__malloc__' attribute takes no arguments[0m
-  __attribute_malloc__ __attr_dealloc (pclose, 1) __wur;
-[0;1;32m                       ^
-[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
-    __attribute__ ((__malloc__ (dealloc, argno)))
-[0;1;32m                    ^
-[0mIn file included from /home/void/trick_sims/SIM_rocket_launch/S_source.hh:11:
-In file included from /usr/include/c++/11/iostream:39:
-In file included from /usr/include/c++/11/ostream:38:
-In file included from /usr/include/c++/11/ios:38:
-In file included from /usr/include/c++/11/iosfwd:40:
-In file included from /usr/include/c++/11/bits/postypes.h:40:
-In file included from /usr/include/c++/11/cwchar:44:
-[1m/usr/include/wchar.h:155:24: [0m[0;1;31merror: [0m[1m'__malloc__' attribute takes no arguments[0m
-  __attribute_malloc__ __attr_dealloc_free;
-[0;1;32m                       ^
-[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:691:30: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc_free'[0m
-# define __attr_dealloc_free __attr_dealloc (__builtin_free, 1)
-[0;1;32m                             ^
-[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
-    __attribute__ ((__malloc__ (dealloc, argno)))
-[0;1;32m                    ^
-[0mIn file included from /home/void/trick_sims/SIM_rocket_launch/S_source.hh:11:
-In file included from /usr/include/c++/11/iostream:39:
-In file included from /usr/include/c++/11/ostream:38:
-In file included from /usr/include/c++/11/ios:42:
-In file included from /usr/include/c++/11/bits/ios_base.h:41:
-In file included from /usr/include/c++/11/bits/locale_classes.h:40:
-In file included from /usr/include/c++/11/string:55:
-In file included from /usr/include/c++/11/bits/basic_string.h:6608:
-In file included from /usr/include/c++/11/ext/string_conversions.h:41:
-In file included from /usr/include/c++/11/cstdlib:75:
-[1m/usr/include/stdlib.h:566:5: [0m[0;1;31merror: [0m[1m'__malloc__' attribute takes no arguments[0m
-    __attr_dealloc_free;
-[0;1;32m    ^
-[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:691:30: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc_free'[0m
-# define __attr_dealloc_free __attr_dealloc (__builtin_free, 1)
-[0;1;32m                             ^
-[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
-    __attribute__ ((__malloc__ (dealloc, argno)))
-[0;1;32m                    ^
-[0mIn file included from /home/void/trick_sims/SIM_rocket_launch/S_source.hh:11:
-In file included from /usr/include/c++/11/iostream:39:
-In file included from /usr/include/c++/11/ostream:38:
-In file included from /usr/include/c++/11/ios:42:
-In file included from /usr/include/c++/11/bits/ios_base.h:41:
-In file included from /usr/include/c++/11/bits/locale_classes.h:40:
-In file included from /usr/include/c++/11/string:55:
-In file included from /usr/include/c++/11/bits/basic_string.h:6608:
-In file included from /usr/include/c++/11/ext/string_conversions.h:41:
-In file included from /usr/include/c++/11/cstdlib:75:
-[1m/usr/include/stdlib.h:570:14: [0m[0;1;31merror: [0m[1m'__malloc__' attribute takes no arguments[0m
-     __THROW __attr_dealloc (reallocarray, 1);
-[0;1;32m             ^
-[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
-    __attribute__ ((__malloc__ (dealloc, argno)))
-[0;1;32m                    ^
-[0mIn file included from /home/void/trick_sims/SIM_rocket_launch/S_source.hh:11:
-In file included from /usr/include/c++/11/iostream:39:
-In file included from /usr/include/c++/11/ostream:38:
-In file included from /usr/include/c++/11/ios:42:
-In file included from /usr/include/c++/11/bits/ios_base.h:41:
-In file included from /usr/include/c++/11/bits/locale_classes.h:40:
-In file included from /usr/include/c++/11/string:55:
-In file included from /usr/include/c++/11/bits/basic_string.h:6608:
-In file included from /usr/include/c++/11/ext/string_conversions.h:41:
-In file included from /usr/include/c++/11/cstdlib:75:
-[1m/usr/include/stdlib.h:799:6: [0m[0;1;31merror: [0m[1m'__malloc__' attribute takes no arguments[0m
-     __attr_dealloc_free __wur;
-[0;1;32m     ^
-[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:691:30: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc_free'[0m
-# define __attr_dealloc_free __attr_dealloc (__builtin_free, 1)
-[0;1;32m                             ^
-[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
-    __attribute__ ((__malloc__ (dealloc, argno)))
-[0;1;32m                    ^
-[0mIn file included from /home/void/trick_sims/SIM_rocket_launch/S_source.hh:11:
-In file included from /usr/include/c++/11/iostream:39:
-In file included from /usr/include/c++/11/ostream:38:
-In file included from /usr/include/c++/11/ios:42:
-In file included from /usr/include/c++/11/bits/ios_base.h:41:
-In file included from /usr/include/c++/11/bits/locale_classes.h:40:
-In file included from /usr/include/c++/11/string:55:
-In file included from /usr/include/c++/11/bits/basic_string.h:6608:
-In file included from /usr/include/c++/11/ext/string_conversions.h:43:
-In file included from /usr/include/c++/11/cstdio:42:
-[1m/usr/include/stdio.h:189:24: [0m[0;1;31merror: [0m[1m'__malloc__' attribute takes no arguments[0m
-  __attribute_malloc__ __attr_dealloc_fclose __wur;
-[0;1;32m                       ^
-[0m[1m/usr/include/stdio.h:181:31: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc_fclose'[0m
-#define __attr_dealloc_fclose __attr_dealloc (fclose, 1)
-[0;1;32m                              ^
-[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
-    __attribute__ ((__malloc__ (dealloc, argno)))
-[0;1;32m                    ^
-[0mIn file included from /home/void/trick_sims/SIM_rocket_launch/S_source.hh:11:
-In file included from /usr/include/c++/11/iostream:39:
-In file included from /usr/include/c++/11/ostream:38:
-In file included from /usr/include/c++/11/ios:42:
-In file included from /usr/include/c++/11/bits/ios_base.h:41:
-In file included from /usr/include/c++/11/bits/locale_classes.h:40:
-In file included from /usr/include/c++/11/string:55:
-In file included from /usr/include/c++/11/bits/basic_string.h:6608:
-In file included from /usr/include/c++/11/ext/string_conversions.h:43:
-In file included from /usr/include/c++/11/cstdio:42:
-[1m/usr/include/stdio.h:201:25: [0m[0;1;31merror: [0m[1m'__malloc__' attribute takes no arguments[0m
-   __attribute_malloc__ __attr_dealloc_fclose __wur;
-[0;1;32m                        ^
-[0m[1m/usr/include/stdio.h:181:31: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc_fclose'[0m
-#define __attr_dealloc_fclose __attr_dealloc (fclose, 1)
-[0;1;32m                              ^
-[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
-    __attribute__ ((__malloc__ (dealloc, argno)))
-[0;1;32m                    ^
-[0mIn file included from /home/void/trick_sims/SIM_rocket_launch/S_source.hh:11:
-In file included from /usr/include/c++/11/iostream:39:
-In file included from /usr/include/c++/11/ostream:38:
-In file included from /usr/include/c++/11/ios:42:
-In file included from /usr/include/c++/11/bits/ios_base.h:41:
-In file included from /usr/include/c++/11/bits/locale_classes.h:40:
-In file included from /usr/include/c++/11/string:55:
-In file included from /usr/include/c++/11/bits/basic_string.h:6608:
-In file included from /usr/include/c++/11/ext/string_conversions.h:43:
-In file included from /usr/include/c++/11/cstdio:42:
-[1m/usr/include/stdio.h:223:39: [0m[0;1;31merror: [0m[1m'__malloc__' attribute takes no arguments[0m
-   __THROW __attribute_malloc__ __wur __attr_dealloc_free;
-[0;1;32m                                      ^
-[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:691:30: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc_free'[0m
-# define __attr_dealloc_free __attr_dealloc (__builtin_free, 1)
-[0;1;32m                             ^
-[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
-    __attribute__ ((__malloc__ (dealloc, argno)))
-[0;1;32m                    ^
-[0mIn file included from /home/void/trick_sims/SIM_rocket_launch/S_source.hh:11:
-In file included from /usr/include/c++/11/iostream:39:
-In file included from /usr/include/c++/11/ostream:38:
-In file included from /usr/include/c++/11/ios:42:
-In file included from /usr/include/c++/11/bits/ios_base.h:41:
-In file included from /usr/include/c++/11/bits/locale_classes.h:40:
-In file included from /usr/include/c++/11/string:55:
-In file included from /usr/include/c++/11/bits/basic_string.h:6608:
-In file included from /usr/include/c++/11/ext/string_conversions.h:43:
-In file included from /usr/include/c++/11/cstdio:42:
-[1m/usr/include/stdio.h:260:24: [0m[0;1;31merror: [0m[1m'__malloc__' attribute takes no arguments[0m
-  __attribute_malloc__ __attr_dealloc_fclose __wur;
-[0;1;32m                       ^
-[0m[1m/usr/include/stdio.h:181:31: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc_fclose'[0m
-#define __attr_dealloc_fclose __attr_dealloc (fclose, 1)
-[0;1;32m                              ^
-[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
-    __attribute__ ((__malloc__ (dealloc, argno)))
-[0;1;32m                    ^
-[0mIn file included from /home/void/trick_sims/SIM_rocket_launch/S_source.hh:11:
-In file included from /usr/include/c++/11/iostream:39:
-In file included from /usr/include/c++/11/ostream:38:
-In file included from /usr/include/c++/11/ios:42:
-In file included from /usr/include/c++/11/bits/ios_base.h:41:
-In file included from /usr/include/c++/11/bits/locale_classes.h:40:
-In file included from /usr/include/c++/11/string:55:
-In file included from /usr/include/c++/11/bits/basic_string.h:6608:
-In file included from /usr/include/c++/11/ext/string_conversions.h:43:
-In file included from /usr/include/c++/11/cstdio:42:
-[1m/usr/include/stdio.h:285:24: [0m[0;1;31merror: [0m[1m'__malloc__' attribute takes no arguments[0m
-  __attribute_malloc__ __attr_dealloc_fclose __wur;
-[0;1;32m                       ^
-[0m[1m/usr/include/stdio.h:181:31: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc_fclose'[0m
-#define __attr_dealloc_fclose __attr_dealloc (fclose, 1)
-[0;1;32m                              ^
-[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
-    __attribute__ ((__malloc__ (dealloc, argno)))
-[0;1;32m                    ^
-[0mIn file included from /home/void/trick_sims/SIM_rocket_launch/S_source.hh:11:
-In file included from /usr/include/c++/11/iostream:39:
-In file included from /usr/include/c++/11/ostream:38:
-In file included from /usr/include/c++/11/ios:42:
-In file included from /usr/include/c++/11/bits/ios_base.h:41:
-In file included from /usr/include/c++/11/bits/locale_classes.h:40:
-In file included from /usr/include/c++/11/string:55:
-In file included from /usr/include/c++/11/bits/basic_string.h:6608:
-In file included from /usr/include/c++/11/ext/string_conversions.h:43:
-In file included from /usr/include/c++/11/cstdio:42:
-[1m/usr/include/stdio.h:294:24: [0m[0;1;31merror: [0m[1m'__malloc__' attribute takes no arguments[0m
-  __attribute_malloc__ __attr_dealloc_fclose __wur;
-[0;1;32m                       ^
-[0m[1m/usr/include/stdio.h:181:31: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc_fclose'[0m
-#define __attr_dealloc_fclose __attr_dealloc (fclose, 1)
-[0;1;32m                              ^
-[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
-    __attribute__ ((__malloc__ (dealloc, argno)))
-[0;1;32m                    ^
-[0mIn file included from /home/void/trick_sims/SIM_rocket_launch/S_source.hh:11:
-In file included from /usr/include/c++/11/iostream:39:
-In file included from /usr/include/c++/11/ostream:38:
-In file included from /usr/include/c++/11/ios:42:
-In file included from /usr/include/c++/11/bits/ios_base.h:41:
-In file included from /usr/include/c++/11/bits/locale_classes.h:40:
-In file included from /usr/include/c++/11/string:55:
-In file included from /usr/include/c++/11/bits/basic_string.h:6608:
-In file included from /usr/include/c++/11/ext/string_conversions.h:43:
-In file included from /usr/include/c++/11/cstdio:42:
-[1m/usr/include/stdio.h:303:24: [0m[0;1;31merror: [0m[1m'__malloc__' attribute takes no arguments[0m
-  __attribute_malloc__ __attr_dealloc_fclose __wur;
-[0;1;32m                       ^
-[0m[1m/usr/include/stdio.h:181:31: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc_fclose'[0m
-#define __attr_dealloc_fclose __attr_dealloc (fclose, 1)
-[0;1;32m                              ^
-[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
-    __attribute__ ((__malloc__ (dealloc, argno)))
-[0;1;32m                    ^
-[0mIn file included from /home/void/trick_sims/SIM_rocket_launch/S_source.hh:11:
-In file included from /usr/include/c++/11/iostream:39:
-In file included from /usr/include/c++/11/ostream:38:
-In file included from /usr/include/c++/11/ios:42:
-In file included from /usr/include/c++/11/bits/ios_base.h:41:
-In file included from /usr/include/c++/11/bits/locale_classes.h:40:
-In file included from /usr/include/c++/11/string:55:
-In file included from /usr/include/c++/11/bits/basic_string.h:6608:
-In file included from /usr/include/c++/11/ext/string_conversions.h:43:
-In file included from /usr/include/c++/11/cstdio:42:
-[1m/usr/include/stdio.h:309:32: [0m[0;1;31merror: [0m[1m'__malloc__' attribute takes no arguments[0m
-  __THROW __attribute_malloc__ __attr_dealloc_fclose __wur;
-[0;1;32m                               ^
-[0m[1m/usr/include/stdio.h:181:31: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc_fclose'[0m
-#define __attr_dealloc_fclose __attr_dealloc (fclose, 1)
-[0;1;32m                              ^
-[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
-    __attribute__ ((__malloc__ (dealloc, argno)))
-[0;1;32m                    ^
-[0mIn file included from /home/void/trick_sims/SIM_rocket_launch/S_source.hh:11:
-In file included from /usr/include/c++/11/iostream:39:
-In file included from /usr/include/c++/11/ostream:38:
-In file included from /usr/include/c++/11/ios:42:
-In file included from /usr/include/c++/11/bits/ios_base.h:41:
-In file included from /usr/include/c++/11/bits/locale_classes.h:40:
-In file included from /usr/include/c++/11/string:55:
-In file included from /usr/include/c++/11/bits/basic_string.h:6608:
-In file included from /usr/include/c++/11/ext/string_conversions.h:43:
-In file included from /usr/include/c++/11/cstdio:42:
-[1m/usr/include/stdio.h:315:24: [0m[0;1;31merror: [0m[1m'__malloc__' attribute takes no arguments[0m
-  __attribute_malloc__ __attr_dealloc_fclose __wur;
-[0;1;32m                       ^
-[0m[1m/usr/include/stdio.h:181:31: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc_fclose'[0m
-#define __attr_dealloc_fclose __attr_dealloc (fclose, 1)
-[0;1;32m                              ^
-[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
-    __attribute__ ((__malloc__ (dealloc, argno)))
-[0;1;32m                    ^
-[0mIn file included from /home/void/trick_sims/SIM_rocket_launch/S_source.hh:11:
-In file included from /usr/include/c++/11/iostream:39:
-In file included from /usr/include/c++/11/ostream:38:
-In file included from /usr/include/c++/11/ios:42:
-In file included from /usr/include/c++/11/bits/ios_base.h:41:
-In file included from /usr/include/c++/11/bits/locale_classes.h:40:
-In file included from /usr/include/c++/11/string:55:
-In file included from /usr/include/c++/11/bits/basic_string.h:6608:
-In file included from /usr/include/c++/11/ext/string_conversions.h:43:
-In file included from /usr/include/c++/11/cstdio:42:
-[1m/usr/include/stdio.h:322:24: [0m[0;1;31merror: [0m[1m'__malloc__' attribute takes no arguments[0m
-  __attribute_malloc__ __attr_dealloc_fclose;
-[0;1;32m                       ^
-[0m[1m/usr/include/stdio.h:181:31: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc_fclose'[0m
-#define __attr_dealloc_fclose __attr_dealloc (fclose, 1)
-[0;1;32m                              ^
-[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
-    __attribute__ ((__malloc__ (dealloc, argno)))
-[0;1;32m                    ^
-[0mIn file included from /home/void/trick_sims/SIM_rocket_launch/S_source.hh:11:
-In file included from /usr/include/c++/11/iostream:39:
-In file included from /usr/include/c++/11/ostream:38:
-In file included from /usr/include/c++/11/ios:42:
-In file included from /usr/include/c++/11/bits/ios_base.h:41:
-In file included from /usr/include/c++/11/bits/locale_classes.h:40:
-In file included from /usr/include/c++/11/string:55:
-In file included from /usr/include/c++/11/bits/basic_string.h:6608:
-In file included from /usr/include/c++/11/ext/string_conversions.h:43:
-In file included from /usr/include/c++/11/cstdio:42:
-[1m/usr/include/stdio.h:830:24: [0m[0;1;31merror: [0m[1m'__malloc__' attribute takes no arguments[0m
-  __attribute_malloc__ __attr_dealloc (pclose, 1) __wur;
-[0;1;32m                       ^
-[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
-    __attribute__ ((__malloc__ (dealloc, argno)))
-[0;1;32m                    ^
-[0m/home/void/trick_sims/SIM_rocket_launch/models/rocket/src/Rocket.cpp:15:16: warning: overflow in conversion from ‘double’ to ‘int’ changes value from ‘3.986004418e+14’ to ‘2147483647’ [-Woverflow]
-   15 | const int GM = 3.986004418e14;
-      |                ^~~~~~~~~~~~~~
-/home/void/trick_sims/SIM_rocket_launch/models/rocket/src/Rocket.cpp:15:16: warning: overflow in conversion from ‘double’ to ‘int’ changes value from ‘3.986004418e+14’ to ‘2147483647’ [-Woverflow]
-   15 | const int GM = 3.986004418e14;
-      |                ^~~~~~~~~~~~~~
+/home/bahram/trick_sims/SIM_rocket_launch/models/rocket/src/Rocket.cpp: In member function ‘double Rocket::InterpolateDensity(double, const double*, const double*)’:
+/home/bahram/trick_sims/SIM_rocket_launch/models/rocket/src/Rocket.cpp:136:10: warning: statement has no effect [-Wunused-value]
+  136 |     for (i; i+2 < numElements && xValues[i] < x; i++)
+      |          ^
 /home/bahram/trick_sims/SIM_rocket_launch/models/rocket/src/Rocket.cpp: In member function ‘double Rocket::InterpolateDensity(double, const double*, const double*)’:
 /home/bahram/trick_sims/SIM_rocket_launch/models/rocket/src/Rocket.cpp:136:10: warning: statement has no effect [-Wunused-value]
   136 |     for (i; i+2 < numElements && xValues[i] < x; i++)
@@ -1416,4 +566,1212 @@ In file included from /usr/include/c++/11/cstdio:42:
 [0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
     __attribute__ ((__malloc__ (dealloc, argno)))
 [0;1;32m                    ^
-[0m
+[0m/home/bahram/trick_sims/SIM_rocket_launch/models/rocket/src/Rocket.cpp: In member function ‘double Rocket::InterpolateDensity(double, const double*, const double*)’:
+/home/bahram/trick_sims/SIM_rocket_launch/models/rocket/src/Rocket.cpp:136:10: warning: statement has no effect [-Wunused-value]
+  136 |     for (i; i+2 < numElements && xValues[i] < x; i++)
+      |          ^
+/home/bahram/trick_sims/SIM_rocket_launch/models/rocket/src/Rocket.cpp: In member function ‘double Rocket::InterpolateDensity(double, const double*, const double*)’:
+/home/bahram/trick_sims/SIM_rocket_launch/models/rocket/src/Rocket.cpp:136:10: warning: statement has no effect [-Wunused-value]
+  136 |     for (i; i+2 < numElements && xValues[i] < x; i++)
+      |          ^
+/home/bahram/trick_sims/SIM_rocket_launch/models/rocket/src/Rocket.cpp: In member function ‘double Rocket::InterpolateDensity(double, const double*, const double*)’:
+/home/bahram/trick_sims/SIM_rocket_launch/models/rocket/src/Rocket.cpp:136:10: warning: statement has no effect [-Wunused-value]
+  136 |     for (i; i+2 < numElements && xValues[i] < x; i++)
+      |          ^
+In file included from /home/bahram/trick_sims/SIM_rocket_launch/S_source.hh:11:
+In file included from /usr/include/c++/11/iostream:39:
+In file included from /usr/include/c++/11/ostream:38:
+In file included from /usr/include/c++/11/ios:38:
+In file included from /usr/include/c++/11/iosfwd:40:
+In file included from /usr/include/c++/11/bits/postypes.h:40:
+In file included from /usr/include/c++/11/cwchar:44:
+[1m/usr/include/wchar.h:155:24: [0m[0;1;31merror: [0m[1m'__malloc__' attribute takes no arguments[0m
+  __attribute_malloc__ __attr_dealloc_free;
+[0;1;32m                       ^
+[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:691:30: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc_free'[0m
+# define __attr_dealloc_free __attr_dealloc (__builtin_free, 1)
+[0;1;32m                             ^
+[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
+    __attribute__ ((__malloc__ (dealloc, argno)))
+[0;1;32m                    ^
+[0mIn file included from /home/bahram/trick_sims/SIM_rocket_launch/S_source.hh:11:
+In file included from /usr/include/c++/11/iostream:39:
+In file included from /usr/include/c++/11/ostream:38:
+In file included from /usr/include/c++/11/ios:42:
+In file included from /usr/include/c++/11/bits/ios_base.h:41:
+In file included from /usr/include/c++/11/bits/locale_classes.h:40:
+In file included from /usr/include/c++/11/string:55:
+In file included from /usr/include/c++/11/bits/basic_string.h:6608:
+In file included from /usr/include/c++/11/ext/string_conversions.h:41:
+In file included from /usr/include/c++/11/cstdlib:75:
+[1m/usr/include/stdlib.h:566:5: [0m[0;1;31merror: [0m[1m'__malloc__' attribute takes no arguments[0m
+    __attr_dealloc_free;
+[0;1;32m    ^
+[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:691:30: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc_free'[0m
+# define __attr_dealloc_free __attr_dealloc (__builtin_free, 1)
+[0;1;32m                             ^
+[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
+    __attribute__ ((__malloc__ (dealloc, argno)))
+[0;1;32m                    ^
+[0mIn file included from /home/bahram/trick_sims/SIM_rocket_launch/S_source.hh:11:
+In file included from /usr/include/c++/11/iostream:39:
+In file included from /usr/include/c++/11/ostream:38:
+In file included from /usr/include/c++/11/ios:42:
+In file included from /usr/include/c++/11/bits/ios_base.h:41:
+In file included from /usr/include/c++/11/bits/locale_classes.h:40:
+In file included from /usr/include/c++/11/string:55:
+In file included from /usr/include/c++/11/bits/basic_string.h:6608:
+In file included from /usr/include/c++/11/ext/string_conversions.h:41:
+In file included from /usr/include/c++/11/cstdlib:75:
+[1m/usr/include/stdlib.h:570:14: [0m[0;1;31merror: [0m[1m'__malloc__' attribute takes no arguments[0m
+     __THROW __attr_dealloc (reallocarray, 1);
+[0;1;32m             ^
+[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
+    __attribute__ ((__malloc__ (dealloc, argno)))
+[0;1;32m                    ^
+[0mIn file included from /home/bahram/trick_sims/SIM_rocket_launch/S_source.hh:11:
+In file included from /usr/include/c++/11/iostream:39:
+In file included from /usr/include/c++/11/ostream:38:
+In file included from /usr/include/c++/11/ios:42:
+In file included from /usr/include/c++/11/bits/ios_base.h:41:
+In file included from /usr/include/c++/11/bits/locale_classes.h:40:
+In file included from /usr/include/c++/11/string:55:
+In file included from /usr/include/c++/11/bits/basic_string.h:6608:
+In file included from /usr/include/c++/11/ext/string_conversions.h:41:
+In file included from /usr/include/c++/11/cstdlib:75:
+[1m/usr/include/stdlib.h:799:6: [0m[0;1;31merror: [0m[1m'__malloc__' attribute takes no arguments[0m
+     __attr_dealloc_free __wur;
+[0;1;32m     ^
+[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:691:30: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc_free'[0m
+# define __attr_dealloc_free __attr_dealloc (__builtin_free, 1)
+[0;1;32m                             ^
+[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
+    __attribute__ ((__malloc__ (dealloc, argno)))
+[0;1;32m                    ^
+[0mIn file included from /home/bahram/trick_sims/SIM_rocket_launch/S_source.hh:11:
+In file included from /usr/include/c++/11/iostream:39:
+In file included from /usr/include/c++/11/ostream:38:
+In file included from /usr/include/c++/11/ios:42:
+In file included from /usr/include/c++/11/bits/ios_base.h:41:
+In file included from /usr/include/c++/11/bits/locale_classes.h:40:
+In file included from /usr/include/c++/11/string:55:
+In file included from /usr/include/c++/11/bits/basic_string.h:6608:
+In file included from /usr/include/c++/11/ext/string_conversions.h:43:
+In file included from /usr/include/c++/11/cstdio:42:
+[1m/usr/include/stdio.h:189:24: [0m[0;1;31merror: [0m[1m'__malloc__' attribute takes no arguments[0m
+  __attribute_malloc__ __attr_dealloc_fclose __wur;
+[0;1;32m                       ^
+[0m[1m/usr/include/stdio.h:181:31: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc_fclose'[0m
+#define __attr_dealloc_fclose __attr_dealloc (fclose, 1)
+[0;1;32m                              ^
+[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
+    __attribute__ ((__malloc__ (dealloc, argno)))
+[0;1;32m                    ^
+[0mIn file included from /home/bahram/trick_sims/SIM_rocket_launch/S_source.hh:11:
+In file included from /usr/include/c++/11/iostream:39:
+In file included from /usr/include/c++/11/ostream:38:
+In file included from /usr/include/c++/11/ios:42:
+In file included from /usr/include/c++/11/bits/ios_base.h:41:
+In file included from /usr/include/c++/11/bits/locale_classes.h:40:
+In file included from /usr/include/c++/11/string:55:
+In file included from /usr/include/c++/11/bits/basic_string.h:6608:
+In file included from /usr/include/c++/11/ext/string_conversions.h:43:
+In file included from /usr/include/c++/11/cstdio:42:
+[1m/usr/include/stdio.h:201:25: [0m[0;1;31merror: [0m[1m'__malloc__' attribute takes no arguments[0m
+   __attribute_malloc__ __attr_dealloc_fclose __wur;
+[0;1;32m                        ^
+[0m[1m/usr/include/stdio.h:181:31: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc_fclose'[0m
+#define __attr_dealloc_fclose __attr_dealloc (fclose, 1)
+[0;1;32m                              ^
+[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
+    __attribute__ ((__malloc__ (dealloc, argno)))
+[0;1;32m                    ^
+[0mIn file included from /home/bahram/trick_sims/SIM_rocket_launch/S_source.hh:11:
+In file included from /usr/include/c++/11/iostream:39:
+In file included from /usr/include/c++/11/ostream:38:
+In file included from /usr/include/c++/11/ios:42:
+In file included from /usr/include/c++/11/bits/ios_base.h:41:
+In file included from /usr/include/c++/11/bits/locale_classes.h:40:
+In file included from /usr/include/c++/11/string:55:
+In file included from /usr/include/c++/11/bits/basic_string.h:6608:
+In file included from /usr/include/c++/11/ext/string_conversions.h:43:
+In file included from /usr/include/c++/11/cstdio:42:
+[1m/usr/include/stdio.h:223:39: [0m[0;1;31merror: [0m[1m'__malloc__' attribute takes no arguments[0m
+   __THROW __attribute_malloc__ __wur __attr_dealloc_free;
+[0;1;32m                                      ^
+[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:691:30: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc_free'[0m
+# define __attr_dealloc_free __attr_dealloc (__builtin_free, 1)
+[0;1;32m                             ^
+[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
+    __attribute__ ((__malloc__ (dealloc, argno)))
+[0;1;32m                    ^
+[0mIn file included from /home/bahram/trick_sims/SIM_rocket_launch/S_source.hh:11:
+In file included from /usr/include/c++/11/iostream:39:
+In file included from /usr/include/c++/11/ostream:38:
+In file included from /usr/include/c++/11/ios:42:
+In file included from /usr/include/c++/11/bits/ios_base.h:41:
+In file included from /usr/include/c++/11/bits/locale_classes.h:40:
+In file included from /usr/include/c++/11/string:55:
+In file included from /usr/include/c++/11/bits/basic_string.h:6608:
+In file included from /usr/include/c++/11/ext/string_conversions.h:43:
+In file included from /usr/include/c++/11/cstdio:42:
+[1m/usr/include/stdio.h:260:24: [0m[0;1;31merror: [0m[1m'__malloc__' attribute takes no arguments[0m
+  __attribute_malloc__ __attr_dealloc_fclose __wur;
+[0;1;32m                       ^
+[0m[1m/usr/include/stdio.h:181:31: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc_fclose'[0m
+#define __attr_dealloc_fclose __attr_dealloc (fclose, 1)
+[0;1;32m                              ^
+[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
+    __attribute__ ((__malloc__ (dealloc, argno)))
+[0;1;32m                    ^
+[0mIn file included from /home/bahram/trick_sims/SIM_rocket_launch/S_source.hh:11:
+In file included from /usr/include/c++/11/iostream:39:
+In file included from /usr/include/c++/11/ostream:38:
+In file included from /usr/include/c++/11/ios:42:
+In file included from /usr/include/c++/11/bits/ios_base.h:41:
+In file included from /usr/include/c++/11/bits/locale_classes.h:40:
+In file included from /usr/include/c++/11/string:55:
+In file included from /usr/include/c++/11/bits/basic_string.h:6608:
+In file included from /usr/include/c++/11/ext/string_conversions.h:43:
+In file included from /usr/include/c++/11/cstdio:42:
+[1m/usr/include/stdio.h:285:24: [0m[0;1;31merror: [0m[1m'__malloc__' attribute takes no arguments[0m
+  __attribute_malloc__ __attr_dealloc_fclose __wur;
+[0;1;32m                       ^
+[0m[1m/usr/include/stdio.h:181:31: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc_fclose'[0m
+#define __attr_dealloc_fclose __attr_dealloc (fclose, 1)
+[0;1;32m                              ^
+[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
+    __attribute__ ((__malloc__ (dealloc, argno)))
+[0;1;32m                    ^
+[0mIn file included from /home/bahram/trick_sims/SIM_rocket_launch/S_source.hh:11:
+In file included from /usr/include/c++/11/iostream:39:
+In file included from /usr/include/c++/11/ostream:38:
+In file included from /usr/include/c++/11/ios:42:
+In file included from /usr/include/c++/11/bits/ios_base.h:41:
+In file included from /usr/include/c++/11/bits/locale_classes.h:40:
+In file included from /usr/include/c++/11/string:55:
+In file included from /usr/include/c++/11/bits/basic_string.h:6608:
+In file included from /usr/include/c++/11/ext/string_conversions.h:43:
+In file included from /usr/include/c++/11/cstdio:42:
+[1m/usr/include/stdio.h:294:24: [0m[0;1;31merror: [0m[1m'__malloc__' attribute takes no arguments[0m
+  __attribute_malloc__ __attr_dealloc_fclose __wur;
+[0;1;32m                       ^
+[0m[1m/usr/include/stdio.h:181:31: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc_fclose'[0m
+#define __attr_dealloc_fclose __attr_dealloc (fclose, 1)
+[0;1;32m                              ^
+[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
+    __attribute__ ((__malloc__ (dealloc, argno)))
+[0;1;32m                    ^
+[0mIn file included from /home/bahram/trick_sims/SIM_rocket_launch/S_source.hh:11:
+In file included from /usr/include/c++/11/iostream:39:
+In file included from /usr/include/c++/11/ostream:38:
+In file included from /usr/include/c++/11/ios:42:
+In file included from /usr/include/c++/11/bits/ios_base.h:41:
+In file included from /usr/include/c++/11/bits/locale_classes.h:40:
+In file included from /usr/include/c++/11/string:55:
+In file included from /usr/include/c++/11/bits/basic_string.h:6608:
+In file included from /usr/include/c++/11/ext/string_conversions.h:43:
+In file included from /usr/include/c++/11/cstdio:42:
+[1m/usr/include/stdio.h:303:24: [0m[0;1;31merror: [0m[1m'__malloc__' attribute takes no arguments[0m
+  __attribute_malloc__ __attr_dealloc_fclose __wur;
+[0;1;32m                       ^
+[0m[1m/usr/include/stdio.h:181:31: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc_fclose'[0m
+#define __attr_dealloc_fclose __attr_dealloc (fclose, 1)
+[0;1;32m                              ^
+[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
+    __attribute__ ((__malloc__ (dealloc, argno)))
+[0;1;32m                    ^
+[0mIn file included from /home/bahram/trick_sims/SIM_rocket_launch/S_source.hh:11:
+In file included from /usr/include/c++/11/iostream:39:
+In file included from /usr/include/c++/11/ostream:38:
+In file included from /usr/include/c++/11/ios:42:
+In file included from /usr/include/c++/11/bits/ios_base.h:41:
+In file included from /usr/include/c++/11/bits/locale_classes.h:40:
+In file included from /usr/include/c++/11/string:55:
+In file included from /usr/include/c++/11/bits/basic_string.h:6608:
+In file included from /usr/include/c++/11/ext/string_conversions.h:43:
+In file included from /usr/include/c++/11/cstdio:42:
+[1m/usr/include/stdio.h:309:32: [0m[0;1;31merror: [0m[1m'__malloc__' attribute takes no arguments[0m
+  __THROW __attribute_malloc__ __attr_dealloc_fclose __wur;
+[0;1;32m                               ^
+[0m[1m/usr/include/stdio.h:181:31: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc_fclose'[0m
+#define __attr_dealloc_fclose __attr_dealloc (fclose, 1)
+[0;1;32m                              ^
+[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
+    __attribute__ ((__malloc__ (dealloc, argno)))
+[0;1;32m                    ^
+[0mIn file included from /home/bahram/trick_sims/SIM_rocket_launch/S_source.hh:11:
+In file included from /usr/include/c++/11/iostream:39:
+In file included from /usr/include/c++/11/ostream:38:
+In file included from /usr/include/c++/11/ios:42:
+In file included from /usr/include/c++/11/bits/ios_base.h:41:
+In file included from /usr/include/c++/11/bits/locale_classes.h:40:
+In file included from /usr/include/c++/11/string:55:
+In file included from /usr/include/c++/11/bits/basic_string.h:6608:
+In file included from /usr/include/c++/11/ext/string_conversions.h:43:
+In file included from /usr/include/c++/11/cstdio:42:
+[1m/usr/include/stdio.h:315:24: [0m[0;1;31merror: [0m[1m'__malloc__' attribute takes no arguments[0m
+  __attribute_malloc__ __attr_dealloc_fclose __wur;
+[0;1;32m                       ^
+[0m[1m/usr/include/stdio.h:181:31: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc_fclose'[0m
+#define __attr_dealloc_fclose __attr_dealloc (fclose, 1)
+[0;1;32m                              ^
+[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
+    __attribute__ ((__malloc__ (dealloc, argno)))
+[0;1;32m                    ^
+[0mIn file included from /home/bahram/trick_sims/SIM_rocket_launch/S_source.hh:11:
+In file included from /usr/include/c++/11/iostream:39:
+In file included from /usr/include/c++/11/ostream:38:
+In file included from /usr/include/c++/11/ios:42:
+In file included from /usr/include/c++/11/bits/ios_base.h:41:
+In file included from /usr/include/c++/11/bits/locale_classes.h:40:
+In file included from /usr/include/c++/11/string:55:
+In file included from /usr/include/c++/11/bits/basic_string.h:6608:
+In file included from /usr/include/c++/11/ext/string_conversions.h:43:
+In file included from /usr/include/c++/11/cstdio:42:
+[1m/usr/include/stdio.h:322:24: [0m[0;1;31merror: [0m[1m'__malloc__' attribute takes no arguments[0m
+  __attribute_malloc__ __attr_dealloc_fclose;
+[0;1;32m                       ^
+[0m[1m/usr/include/stdio.h:181:31: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc_fclose'[0m
+#define __attr_dealloc_fclose __attr_dealloc (fclose, 1)
+[0;1;32m                              ^
+[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
+    __attribute__ ((__malloc__ (dealloc, argno)))
+[0;1;32m                    ^
+[0mIn file included from /home/bahram/trick_sims/SIM_rocket_launch/S_source.hh:11:
+In file included from /usr/include/c++/11/iostream:39:
+In file included from /usr/include/c++/11/ostream:38:
+In file included from /usr/include/c++/11/ios:42:
+In file included from /usr/include/c++/11/bits/ios_base.h:41:
+In file included from /usr/include/c++/11/bits/locale_classes.h:40:
+In file included from /usr/include/c++/11/string:55:
+In file included from /usr/include/c++/11/bits/basic_string.h:6608:
+In file included from /usr/include/c++/11/ext/string_conversions.h:43:
+In file included from /usr/include/c++/11/cstdio:42:
+[1m/usr/include/stdio.h:830:24: [0m[0;1;31merror: [0m[1m'__malloc__' attribute takes no arguments[0m
+  __attribute_malloc__ __attr_dealloc (pclose, 1) __wur;
+[0;1;32m                       ^
+[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
+    __attribute__ ((__malloc__ (dealloc, argno)))
+[0;1;32m                    ^
+[0m/home/bahram/trick_sims/SIM_rocket_launch/models/rocket/src/Rocket.cpp: In member function ‘double Rocket::InterpolateDensity(double, const double*, const double*)’:
+/home/bahram/trick_sims/SIM_rocket_launch/models/rocket/src/Rocket.cpp:136:10: warning: statement has no effect [-Wunused-value]
+  136 |     for (i; i+2 < numElements && xValues[i] < x; i++)
+      |          ^
+In file included from /home/bahram/trick_sims/SIM_rocket_launch/S_source.hh:11:
+In file included from /usr/include/c++/11/iostream:39:
+In file included from /usr/include/c++/11/ostream:38:
+In file included from /usr/include/c++/11/ios:38:
+In file included from /usr/include/c++/11/iosfwd:40:
+In file included from /usr/include/c++/11/bits/postypes.h:40:
+In file included from /usr/include/c++/11/cwchar:44:
+[1m/usr/include/wchar.h:155:24: [0m[0;1;31merror: [0m[1m'__malloc__' attribute takes no arguments[0m
+  __attribute_malloc__ __attr_dealloc_free;
+[0;1;32m                       ^
+[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:691:30: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc_free'[0m
+# define __attr_dealloc_free __attr_dealloc (__builtin_free, 1)
+[0;1;32m                             ^
+[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
+    __attribute__ ((__malloc__ (dealloc, argno)))
+[0;1;32m                    ^
+[0mIn file included from /home/bahram/trick_sims/SIM_rocket_launch/S_source.hh:11:
+In file included from /usr/include/c++/11/iostream:39:
+In file included from /usr/include/c++/11/ostream:38:
+In file included from /usr/include/c++/11/ios:42:
+In file included from /usr/include/c++/11/bits/ios_base.h:41:
+In file included from /usr/include/c++/11/bits/locale_classes.h:40:
+In file included from /usr/include/c++/11/string:55:
+In file included from /usr/include/c++/11/bits/basic_string.h:6608:
+In file included from /usr/include/c++/11/ext/string_conversions.h:41:
+In file included from /usr/include/c++/11/cstdlib:75:
+[1m/usr/include/stdlib.h:566:5: [0m[0;1;31merror: [0m[1m'__malloc__' attribute takes no arguments[0m
+    __attr_dealloc_free;
+[0;1;32m    ^
+[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:691:30: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc_free'[0m
+# define __attr_dealloc_free __attr_dealloc (__builtin_free, 1)
+[0;1;32m                             ^
+[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
+    __attribute__ ((__malloc__ (dealloc, argno)))
+[0;1;32m                    ^
+[0mIn file included from /home/bahram/trick_sims/SIM_rocket_launch/S_source.hh:11:
+In file included from /usr/include/c++/11/iostream:39:
+In file included from /usr/include/c++/11/ostream:38:
+In file included from /usr/include/c++/11/ios:42:
+In file included from /usr/include/c++/11/bits/ios_base.h:41:
+In file included from /usr/include/c++/11/bits/locale_classes.h:40:
+In file included from /usr/include/c++/11/string:55:
+In file included from /usr/include/c++/11/bits/basic_string.h:6608:
+In file included from /usr/include/c++/11/ext/string_conversions.h:41:
+In file included from /usr/include/c++/11/cstdlib:75:
+[1m/usr/include/stdlib.h:570:14: [0m[0;1;31merror: [0m[1m'__malloc__' attribute takes no arguments[0m
+     __THROW __attr_dealloc (reallocarray, 1);
+[0;1;32m             ^
+[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
+    __attribute__ ((__malloc__ (dealloc, argno)))
+[0;1;32m                    ^
+[0mIn file included from /home/bahram/trick_sims/SIM_rocket_launch/S_source.hh:11:
+In file included from /usr/include/c++/11/iostream:39:
+In file included from /usr/include/c++/11/ostream:38:
+In file included from /usr/include/c++/11/ios:42:
+In file included from /usr/include/c++/11/bits/ios_base.h:41:
+In file included from /usr/include/c++/11/bits/locale_classes.h:40:
+In file included from /usr/include/c++/11/string:55:
+In file included from /usr/include/c++/11/bits/basic_string.h:6608:
+In file included from /usr/include/c++/11/ext/string_conversions.h:41:
+In file included from /usr/include/c++/11/cstdlib:75:
+[1m/usr/include/stdlib.h:799:6: [0m[0;1;31merror: [0m[1m'__malloc__' attribute takes no arguments[0m
+     __attr_dealloc_free __wur;
+[0;1;32m     ^
+[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:691:30: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc_free'[0m
+# define __attr_dealloc_free __attr_dealloc (__builtin_free, 1)
+[0;1;32m                             ^
+[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
+    __attribute__ ((__malloc__ (dealloc, argno)))
+[0;1;32m                    ^
+[0mIn file included from /home/bahram/trick_sims/SIM_rocket_launch/S_source.hh:11:
+In file included from /usr/include/c++/11/iostream:39:
+In file included from /usr/include/c++/11/ostream:38:
+In file included from /usr/include/c++/11/ios:42:
+In file included from /usr/include/c++/11/bits/ios_base.h:41:
+In file included from /usr/include/c++/11/bits/locale_classes.h:40:
+In file included from /usr/include/c++/11/string:55:
+In file included from /usr/include/c++/11/bits/basic_string.h:6608:
+In file included from /usr/include/c++/11/ext/string_conversions.h:43:
+In file included from /usr/include/c++/11/cstdio:42:
+[1m/usr/include/stdio.h:189:24: [0m[0;1;31merror: [0m[1m'__malloc__' attribute takes no arguments[0m
+  __attribute_malloc__ __attr_dealloc_fclose __wur;
+[0;1;32m                       ^
+[0m[1m/usr/include/stdio.h:181:31: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc_fclose'[0m
+#define __attr_dealloc_fclose __attr_dealloc (fclose, 1)
+[0;1;32m                              ^
+[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
+    __attribute__ ((__malloc__ (dealloc, argno)))
+[0;1;32m                    ^
+[0mIn file included from /home/bahram/trick_sims/SIM_rocket_launch/S_source.hh:11:
+In file included from /usr/include/c++/11/iostream:39:
+In file included from /usr/include/c++/11/ostream:38:
+In file included from /usr/include/c++/11/ios:42:
+In file included from /usr/include/c++/11/bits/ios_base.h:41:
+In file included from /usr/include/c++/11/bits/locale_classes.h:40:
+In file included from /usr/include/c++/11/string:55:
+In file included from /usr/include/c++/11/bits/basic_string.h:6608:
+In file included from /usr/include/c++/11/ext/string_conversions.h:43:
+In file included from /usr/include/c++/11/cstdio:42:
+[1m/usr/include/stdio.h:201:25: [0m[0;1;31merror: [0m[1m'__malloc__' attribute takes no arguments[0m
+   __attribute_malloc__ __attr_dealloc_fclose __wur;
+[0;1;32m                        ^
+[0m[1m/usr/include/stdio.h:181:31: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc_fclose'[0m
+#define __attr_dealloc_fclose __attr_dealloc (fclose, 1)
+[0;1;32m                              ^
+[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
+    __attribute__ ((__malloc__ (dealloc, argno)))
+[0;1;32m                    ^
+[0mIn file included from /home/bahram/trick_sims/SIM_rocket_launch/S_source.hh:11:
+In file included from /usr/include/c++/11/iostream:39:
+In file included from /usr/include/c++/11/ostream:38:
+In file included from /usr/include/c++/11/ios:42:
+In file included from /usr/include/c++/11/bits/ios_base.h:41:
+In file included from /usr/include/c++/11/bits/locale_classes.h:40:
+In file included from /usr/include/c++/11/string:55:
+In file included from /usr/include/c++/11/bits/basic_string.h:6608:
+In file included from /usr/include/c++/11/ext/string_conversions.h:43:
+In file included from /usr/include/c++/11/cstdio:42:
+[1m/usr/include/stdio.h:223:39: [0m[0;1;31merror: [0m[1m'__malloc__' attribute takes no arguments[0m
+   __THROW __attribute_malloc__ __wur __attr_dealloc_free;
+[0;1;32m                                      ^
+[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:691:30: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc_free'[0m
+# define __attr_dealloc_free __attr_dealloc (__builtin_free, 1)
+[0;1;32m                             ^
+[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
+    __attribute__ ((__malloc__ (dealloc, argno)))
+[0;1;32m                    ^
+[0mIn file included from /home/bahram/trick_sims/SIM_rocket_launch/S_source.hh:11:
+In file included from /usr/include/c++/11/iostream:39:
+In file included from /usr/include/c++/11/ostream:38:
+In file included from /usr/include/c++/11/ios:42:
+In file included from /usr/include/c++/11/bits/ios_base.h:41:
+In file included from /usr/include/c++/11/bits/locale_classes.h:40:
+In file included from /usr/include/c++/11/string:55:
+In file included from /usr/include/c++/11/bits/basic_string.h:6608:
+In file included from /usr/include/c++/11/ext/string_conversions.h:43:
+In file included from /usr/include/c++/11/cstdio:42:
+[1m/usr/include/stdio.h:260:24: [0m[0;1;31merror: [0m[1m'__malloc__' attribute takes no arguments[0m
+  __attribute_malloc__ __attr_dealloc_fclose __wur;
+[0;1;32m                       ^
+[0m[1m/usr/include/stdio.h:181:31: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc_fclose'[0m
+#define __attr_dealloc_fclose __attr_dealloc (fclose, 1)
+[0;1;32m                              ^
+[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
+    __attribute__ ((__malloc__ (dealloc, argno)))
+[0;1;32m                    ^
+[0mIn file included from /home/bahram/trick_sims/SIM_rocket_launch/S_source.hh:11:
+In file included from /usr/include/c++/11/iostream:39:
+In file included from /usr/include/c++/11/ostream:38:
+In file included from /usr/include/c++/11/ios:42:
+In file included from /usr/include/c++/11/bits/ios_base.h:41:
+In file included from /usr/include/c++/11/bits/locale_classes.h:40:
+In file included from /usr/include/c++/11/string:55:
+In file included from /usr/include/c++/11/bits/basic_string.h:6608:
+In file included from /usr/include/c++/11/ext/string_conversions.h:43:
+In file included from /usr/include/c++/11/cstdio:42:
+[1m/usr/include/stdio.h:285:24: [0m[0;1;31merror: [0m[1m'__malloc__' attribute takes no arguments[0m
+  __attribute_malloc__ __attr_dealloc_fclose __wur;
+[0;1;32m                       ^
+[0m[1m/usr/include/stdio.h:181:31: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc_fclose'[0m
+#define __attr_dealloc_fclose __attr_dealloc (fclose, 1)
+[0;1;32m                              ^
+[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
+    __attribute__ ((__malloc__ (dealloc, argno)))
+[0;1;32m                    ^
+[0mIn file included from /home/bahram/trick_sims/SIM_rocket_launch/S_source.hh:11:
+In file included from /usr/include/c++/11/iostream:39:
+In file included from /usr/include/c++/11/ostream:38:
+In file included from /usr/include/c++/11/ios:42:
+In file included from /usr/include/c++/11/bits/ios_base.h:41:
+In file included from /usr/include/c++/11/bits/locale_classes.h:40:
+In file included from /usr/include/c++/11/string:55:
+In file included from /usr/include/c++/11/bits/basic_string.h:6608:
+In file included from /usr/include/c++/11/ext/string_conversions.h:43:
+In file included from /usr/include/c++/11/cstdio:42:
+[1m/usr/include/stdio.h:294:24: [0m[0;1;31merror: [0m[1m'__malloc__' attribute takes no arguments[0m
+  __attribute_malloc__ __attr_dealloc_fclose __wur;
+[0;1;32m                       ^
+[0m[1m/usr/include/stdio.h:181:31: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc_fclose'[0m
+#define __attr_dealloc_fclose __attr_dealloc (fclose, 1)
+[0;1;32m                              ^
+[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
+    __attribute__ ((__malloc__ (dealloc, argno)))
+[0;1;32m                    ^
+[0mIn file included from /home/bahram/trick_sims/SIM_rocket_launch/S_source.hh:11:
+In file included from /usr/include/c++/11/iostream:39:
+In file included from /usr/include/c++/11/ostream:38:
+In file included from /usr/include/c++/11/ios:42:
+In file included from /usr/include/c++/11/bits/ios_base.h:41:
+In file included from /usr/include/c++/11/bits/locale_classes.h:40:
+In file included from /usr/include/c++/11/string:55:
+In file included from /usr/include/c++/11/bits/basic_string.h:6608:
+In file included from /usr/include/c++/11/ext/string_conversions.h:43:
+In file included from /usr/include/c++/11/cstdio:42:
+[1m/usr/include/stdio.h:303:24: [0m[0;1;31merror: [0m[1m'__malloc__' attribute takes no arguments[0m
+  __attribute_malloc__ __attr_dealloc_fclose __wur;
+[0;1;32m                       ^
+[0m[1m/usr/include/stdio.h:181:31: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc_fclose'[0m
+#define __attr_dealloc_fclose __attr_dealloc (fclose, 1)
+[0;1;32m                              ^
+[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
+    __attribute__ ((__malloc__ (dealloc, argno)))
+[0;1;32m                    ^
+[0mIn file included from /home/bahram/trick_sims/SIM_rocket_launch/S_source.hh:11:
+In file included from /usr/include/c++/11/iostream:39:
+In file included from /usr/include/c++/11/ostream:38:
+In file included from /usr/include/c++/11/ios:42:
+In file included from /usr/include/c++/11/bits/ios_base.h:41:
+In file included from /usr/include/c++/11/bits/locale_classes.h:40:
+In file included from /usr/include/c++/11/string:55:
+In file included from /usr/include/c++/11/bits/basic_string.h:6608:
+In file included from /usr/include/c++/11/ext/string_conversions.h:43:
+In file included from /usr/include/c++/11/cstdio:42:
+[1m/usr/include/stdio.h:309:32: [0m[0;1;31merror: [0m[1m'__malloc__' attribute takes no arguments[0m
+  __THROW __attribute_malloc__ __attr_dealloc_fclose __wur;
+[0;1;32m                               ^
+[0m[1m/usr/include/stdio.h:181:31: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc_fclose'[0m
+#define __attr_dealloc_fclose __attr_dealloc (fclose, 1)
+[0;1;32m                              ^
+[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
+    __attribute__ ((__malloc__ (dealloc, argno)))
+[0;1;32m                    ^
+[0mIn file included from /home/bahram/trick_sims/SIM_rocket_launch/S_source.hh:11:
+In file included from /usr/include/c++/11/iostream:39:
+In file included from /usr/include/c++/11/ostream:38:
+In file included from /usr/include/c++/11/ios:42:
+In file included from /usr/include/c++/11/bits/ios_base.h:41:
+In file included from /usr/include/c++/11/bits/locale_classes.h:40:
+In file included from /usr/include/c++/11/string:55:
+In file included from /usr/include/c++/11/bits/basic_string.h:6608:
+In file included from /usr/include/c++/11/ext/string_conversions.h:43:
+In file included from /usr/include/c++/11/cstdio:42:
+[1m/usr/include/stdio.h:315:24: [0m[0;1;31merror: [0m[1m'__malloc__' attribute takes no arguments[0m
+  __attribute_malloc__ __attr_dealloc_fclose __wur;
+[0;1;32m                       ^
+[0m[1m/usr/include/stdio.h:181:31: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc_fclose'[0m
+#define __attr_dealloc_fclose __attr_dealloc (fclose, 1)
+[0;1;32m                              ^
+[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
+    __attribute__ ((__malloc__ (dealloc, argno)))
+[0;1;32m                    ^
+[0mIn file included from /home/bahram/trick_sims/SIM_rocket_launch/S_source.hh:11:
+In file included from /usr/include/c++/11/iostream:39:
+In file included from /usr/include/c++/11/ostream:38:
+In file included from /usr/include/c++/11/ios:42:
+In file included from /usr/include/c++/11/bits/ios_base.h:41:
+In file included from /usr/include/c++/11/bits/locale_classes.h:40:
+In file included from /usr/include/c++/11/string:55:
+In file included from /usr/include/c++/11/bits/basic_string.h:6608:
+In file included from /usr/include/c++/11/ext/string_conversions.h:43:
+In file included from /usr/include/c++/11/cstdio:42:
+[1m/usr/include/stdio.h:322:24: [0m[0;1;31merror: [0m[1m'__malloc__' attribute takes no arguments[0m
+  __attribute_malloc__ __attr_dealloc_fclose;
+[0;1;32m                       ^
+[0m[1m/usr/include/stdio.h:181:31: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc_fclose'[0m
+#define __attr_dealloc_fclose __attr_dealloc (fclose, 1)
+[0;1;32m                              ^
+[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
+    __attribute__ ((__malloc__ (dealloc, argno)))
+[0;1;32m                    ^
+[0mIn file included from /home/bahram/trick_sims/SIM_rocket_launch/S_source.hh:11:
+In file included from /usr/include/c++/11/iostream:39:
+In file included from /usr/include/c++/11/ostream:38:
+In file included from /usr/include/c++/11/ios:42:
+In file included from /usr/include/c++/11/bits/ios_base.h:41:
+In file included from /usr/include/c++/11/bits/locale_classes.h:40:
+In file included from /usr/include/c++/11/string:55:
+In file included from /usr/include/c++/11/bits/basic_string.h:6608:
+In file included from /usr/include/c++/11/ext/string_conversions.h:43:
+In file included from /usr/include/c++/11/cstdio:42:
+[1m/usr/include/stdio.h:830:24: [0m[0;1;31merror: [0m[1m'__malloc__' attribute takes no arguments[0m
+  __attribute_malloc__ __attr_dealloc (pclose, 1) __wur;
+[0;1;32m                       ^
+[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
+    __attribute__ ((__malloc__ (dealloc, argno)))
+[0;1;32m                    ^
+[0m/home/bahram/trick_sims/SIM_rocket_launch/models/rocket/src/Rocket.cpp: In member function ‘double Rocket::InterpolateDensity(double, const double*, const double*)’:
+/home/bahram/trick_sims/SIM_rocket_launch/models/rocket/src/Rocket.cpp:136:10: warning: statement has no effect [-Wunused-value]
+  136 |     for (i; i+2 < numElements && xValues[i] < x; i++)
+      |          ^
+/home/bahram/trick_sims/SIM_rocket_launch/models/rocket/src/Rocket.cpp: In member function ‘double Rocket::InterpolateDensity(double, const double*, const double*)’:
+/home/bahram/trick_sims/SIM_rocket_launch/models/rocket/src/Rocket.cpp:136:10: warning: statement has no effect [-Wunused-value]
+  136 |     for (i; i+2 < numElements && xValues[i] < x; i++)
+      |          ^
+In file included from /home/bahram/trick_sims/SIM_rocket_launch/S_source.hh:11:
+In file included from /usr/include/c++/11/iostream:39:
+In file included from /usr/include/c++/11/ostream:38:
+In file included from /usr/include/c++/11/ios:38:
+In file included from /usr/include/c++/11/iosfwd:40:
+In file included from /usr/include/c++/11/bits/postypes.h:40:
+In file included from /usr/include/c++/11/cwchar:44:
+[1m/usr/include/wchar.h:155:24: [0m[0;1;31merror: [0m[1m'__malloc__' attribute takes no arguments[0m
+  __attribute_malloc__ __attr_dealloc_free;
+[0;1;32m                       ^
+[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:691:30: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc_free'[0m
+# define __attr_dealloc_free __attr_dealloc (__builtin_free, 1)
+[0;1;32m                             ^
+[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
+    __attribute__ ((__malloc__ (dealloc, argno)))
+[0;1;32m                    ^
+[0mIn file included from /home/bahram/trick_sims/SIM_rocket_launch/S_source.hh:11:
+In file included from /usr/include/c++/11/iostream:39:
+In file included from /usr/include/c++/11/ostream:38:
+In file included from /usr/include/c++/11/ios:42:
+In file included from /usr/include/c++/11/bits/ios_base.h:41:
+In file included from /usr/include/c++/11/bits/locale_classes.h:40:
+In file included from /usr/include/c++/11/string:55:
+In file included from /usr/include/c++/11/bits/basic_string.h:6608:
+In file included from /usr/include/c++/11/ext/string_conversions.h:41:
+In file included from /usr/include/c++/11/cstdlib:75:
+[1m/usr/include/stdlib.h:566:5: [0m[0;1;31merror: [0m[1m'__malloc__' attribute takes no arguments[0m
+    __attr_dealloc_free;
+[0;1;32m    ^
+[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:691:30: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc_free'[0m
+# define __attr_dealloc_free __attr_dealloc (__builtin_free, 1)
+[0;1;32m                             ^
+[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
+    __attribute__ ((__malloc__ (dealloc, argno)))
+[0;1;32m                    ^
+[0mIn file included from /home/bahram/trick_sims/SIM_rocket_launch/S_source.hh:11:
+In file included from /usr/include/c++/11/iostream:39:
+In file included from /usr/include/c++/11/ostream:38:
+In file included from /usr/include/c++/11/ios:42:
+In file included from /usr/include/c++/11/bits/ios_base.h:41:
+In file included from /usr/include/c++/11/bits/locale_classes.h:40:
+In file included from /usr/include/c++/11/string:55:
+In file included from /usr/include/c++/11/bits/basic_string.h:6608:
+In file included from /usr/include/c++/11/ext/string_conversions.h:41:
+In file included from /usr/include/c++/11/cstdlib:75:
+[1m/usr/include/stdlib.h:570:14: [0m[0;1;31merror: [0m[1m'__malloc__' attribute takes no arguments[0m
+     __THROW __attr_dealloc (reallocarray, 1);
+[0;1;32m             ^
+[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
+    __attribute__ ((__malloc__ (dealloc, argno)))
+[0;1;32m                    ^
+[0mIn file included from /home/bahram/trick_sims/SIM_rocket_launch/S_source.hh:11:
+In file included from /usr/include/c++/11/iostream:39:
+In file included from /usr/include/c++/11/ostream:38:
+In file included from /usr/include/c++/11/ios:42:
+In file included from /usr/include/c++/11/bits/ios_base.h:41:
+In file included from /usr/include/c++/11/bits/locale_classes.h:40:
+In file included from /usr/include/c++/11/string:55:
+In file included from /usr/include/c++/11/bits/basic_string.h:6608:
+In file included from /usr/include/c++/11/ext/string_conversions.h:41:
+In file included from /usr/include/c++/11/cstdlib:75:
+[1m/usr/include/stdlib.h:799:6: [0m[0;1;31merror: [0m[1m'__malloc__' attribute takes no arguments[0m
+     __attr_dealloc_free __wur;
+[0;1;32m     ^
+[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:691:30: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc_free'[0m
+# define __attr_dealloc_free __attr_dealloc (__builtin_free, 1)
+[0;1;32m                             ^
+[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
+    __attribute__ ((__malloc__ (dealloc, argno)))
+[0;1;32m                    ^
+[0mIn file included from /home/bahram/trick_sims/SIM_rocket_launch/S_source.hh:11:
+In file included from /usr/include/c++/11/iostream:39:
+In file included from /usr/include/c++/11/ostream:38:
+In file included from /usr/include/c++/11/ios:42:
+In file included from /usr/include/c++/11/bits/ios_base.h:41:
+In file included from /usr/include/c++/11/bits/locale_classes.h:40:
+In file included from /usr/include/c++/11/string:55:
+In file included from /usr/include/c++/11/bits/basic_string.h:6608:
+In file included from /usr/include/c++/11/ext/string_conversions.h:43:
+In file included from /usr/include/c++/11/cstdio:42:
+[1m/usr/include/stdio.h:189:24: [0m[0;1;31merror: [0m[1m'__malloc__' attribute takes no arguments[0m
+  __attribute_malloc__ __attr_dealloc_fclose __wur;
+[0;1;32m                       ^
+[0m[1m/usr/include/stdio.h:181:31: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc_fclose'[0m
+#define __attr_dealloc_fclose __attr_dealloc (fclose, 1)
+[0;1;32m                              ^
+[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
+    __attribute__ ((__malloc__ (dealloc, argno)))
+[0;1;32m                    ^
+[0mIn file included from /home/bahram/trick_sims/SIM_rocket_launch/S_source.hh:11:
+In file included from /usr/include/c++/11/iostream:39:
+In file included from /usr/include/c++/11/ostream:38:
+In file included from /usr/include/c++/11/ios:42:
+In file included from /usr/include/c++/11/bits/ios_base.h:41:
+In file included from /usr/include/c++/11/bits/locale_classes.h:40:
+In file included from /usr/include/c++/11/string:55:
+In file included from /usr/include/c++/11/bits/basic_string.h:6608:
+In file included from /usr/include/c++/11/ext/string_conversions.h:43:
+In file included from /usr/include/c++/11/cstdio:42:
+[1m/usr/include/stdio.h:201:25: [0m[0;1;31merror: [0m[1m'__malloc__' attribute takes no arguments[0m
+   __attribute_malloc__ __attr_dealloc_fclose __wur;
+[0;1;32m                        ^
+[0m[1m/usr/include/stdio.h:181:31: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc_fclose'[0m
+#define __attr_dealloc_fclose __attr_dealloc (fclose, 1)
+[0;1;32m                              ^
+[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
+    __attribute__ ((__malloc__ (dealloc, argno)))
+[0;1;32m                    ^
+[0mIn file included from /home/bahram/trick_sims/SIM_rocket_launch/S_source.hh:11:
+In file included from /usr/include/c++/11/iostream:39:
+In file included from /usr/include/c++/11/ostream:38:
+In file included from /usr/include/c++/11/ios:42:
+In file included from /usr/include/c++/11/bits/ios_base.h:41:
+In file included from /usr/include/c++/11/bits/locale_classes.h:40:
+In file included from /usr/include/c++/11/string:55:
+In file included from /usr/include/c++/11/bits/basic_string.h:6608:
+In file included from /usr/include/c++/11/ext/string_conversions.h:43:
+In file included from /usr/include/c++/11/cstdio:42:
+[1m/usr/include/stdio.h:223:39: [0m[0;1;31merror: [0m[1m'__malloc__' attribute takes no arguments[0m
+   __THROW __attribute_malloc__ __wur __attr_dealloc_free;
+[0;1;32m                                      ^
+[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:691:30: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc_free'[0m
+# define __attr_dealloc_free __attr_dealloc (__builtin_free, 1)
+[0;1;32m                             ^
+[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
+    __attribute__ ((__malloc__ (dealloc, argno)))
+[0;1;32m                    ^
+[0mIn file included from /home/bahram/trick_sims/SIM_rocket_launch/S_source.hh:11:
+In file included from /usr/include/c++/11/iostream:39:
+In file included from /usr/include/c++/11/ostream:38:
+In file included from /usr/include/c++/11/ios:42:
+In file included from /usr/include/c++/11/bits/ios_base.h:41:
+In file included from /usr/include/c++/11/bits/locale_classes.h:40:
+In file included from /usr/include/c++/11/string:55:
+In file included from /usr/include/c++/11/bits/basic_string.h:6608:
+In file included from /usr/include/c++/11/ext/string_conversions.h:43:
+In file included from /usr/include/c++/11/cstdio:42:
+[1m/usr/include/stdio.h:260:24: [0m[0;1;31merror: [0m[1m'__malloc__' attribute takes no arguments[0m
+  __attribute_malloc__ __attr_dealloc_fclose __wur;
+[0;1;32m                       ^
+[0m[1m/usr/include/stdio.h:181:31: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc_fclose'[0m
+#define __attr_dealloc_fclose __attr_dealloc (fclose, 1)
+[0;1;32m                              ^
+[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
+    __attribute__ ((__malloc__ (dealloc, argno)))
+[0;1;32m                    ^
+[0mIn file included from /home/bahram/trick_sims/SIM_rocket_launch/S_source.hh:11:
+In file included from /usr/include/c++/11/iostream:39:
+In file included from /usr/include/c++/11/ostream:38:
+In file included from /usr/include/c++/11/ios:42:
+In file included from /usr/include/c++/11/bits/ios_base.h:41:
+In file included from /usr/include/c++/11/bits/locale_classes.h:40:
+In file included from /usr/include/c++/11/string:55:
+In file included from /usr/include/c++/11/bits/basic_string.h:6608:
+In file included from /usr/include/c++/11/ext/string_conversions.h:43:
+In file included from /usr/include/c++/11/cstdio:42:
+[1m/usr/include/stdio.h:285:24: [0m[0;1;31merror: [0m[1m'__malloc__' attribute takes no arguments[0m
+  __attribute_malloc__ __attr_dealloc_fclose __wur;
+[0;1;32m                       ^
+[0m[1m/usr/include/stdio.h:181:31: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc_fclose'[0m
+#define __attr_dealloc_fclose __attr_dealloc (fclose, 1)
+[0;1;32m                              ^
+[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
+    __attribute__ ((__malloc__ (dealloc, argno)))
+[0;1;32m                    ^
+[0mIn file included from /home/bahram/trick_sims/SIM_rocket_launch/S_source.hh:11:
+In file included from /usr/include/c++/11/iostream:39:
+In file included from /usr/include/c++/11/ostream:38:
+In file included from /usr/include/c++/11/ios:42:
+In file included from /usr/include/c++/11/bits/ios_base.h:41:
+In file included from /usr/include/c++/11/bits/locale_classes.h:40:
+In file included from /usr/include/c++/11/string:55:
+In file included from /usr/include/c++/11/bits/basic_string.h:6608:
+In file included from /usr/include/c++/11/ext/string_conversions.h:43:
+In file included from /usr/include/c++/11/cstdio:42:
+[1m/usr/include/stdio.h:294:24: [0m[0;1;31merror: [0m[1m'__malloc__' attribute takes no arguments[0m
+  __attribute_malloc__ __attr_dealloc_fclose __wur;
+[0;1;32m                       ^
+[0m[1m/usr/include/stdio.h:181:31: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc_fclose'[0m
+#define __attr_dealloc_fclose __attr_dealloc (fclose, 1)
+[0;1;32m                              ^
+[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
+    __attribute__ ((__malloc__ (dealloc, argno)))
+[0;1;32m                    ^
+[0mIn file included from /home/bahram/trick_sims/SIM_rocket_launch/S_source.hh:11:
+In file included from /usr/include/c++/11/iostream:39:
+In file included from /usr/include/c++/11/ostream:38:
+In file included from /usr/include/c++/11/ios:42:
+In file included from /usr/include/c++/11/bits/ios_base.h:41:
+In file included from /usr/include/c++/11/bits/locale_classes.h:40:
+In file included from /usr/include/c++/11/string:55:
+In file included from /usr/include/c++/11/bits/basic_string.h:6608:
+In file included from /usr/include/c++/11/ext/string_conversions.h:43:
+In file included from /usr/include/c++/11/cstdio:42:
+[1m/usr/include/stdio.h:303:24: [0m[0;1;31merror: [0m[1m'__malloc__' attribute takes no arguments[0m
+  __attribute_malloc__ __attr_dealloc_fclose __wur;
+[0;1;32m                       ^
+[0m[1m/usr/include/stdio.h:181:31: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc_fclose'[0m
+#define __attr_dealloc_fclose __attr_dealloc (fclose, 1)
+[0;1;32m                              ^
+[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
+    __attribute__ ((__malloc__ (dealloc, argno)))
+[0;1;32m                    ^
+[0mIn file included from /home/bahram/trick_sims/SIM_rocket_launch/S_source.hh:11:
+In file included from /usr/include/c++/11/iostream:39:
+In file included from /usr/include/c++/11/ostream:38:
+In file included from /usr/include/c++/11/ios:42:
+In file included from /usr/include/c++/11/bits/ios_base.h:41:
+In file included from /usr/include/c++/11/bits/locale_classes.h:40:
+In file included from /usr/include/c++/11/string:55:
+In file included from /usr/include/c++/11/bits/basic_string.h:6608:
+In file included from /usr/include/c++/11/ext/string_conversions.h:43:
+In file included from /usr/include/c++/11/cstdio:42:
+[1m/usr/include/stdio.h:309:32: [0m[0;1;31merror: [0m[1m'__malloc__' attribute takes no arguments[0m
+  __THROW __attribute_malloc__ __attr_dealloc_fclose __wur;
+[0;1;32m                               ^
+[0m[1m/usr/include/stdio.h:181:31: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc_fclose'[0m
+#define __attr_dealloc_fclose __attr_dealloc (fclose, 1)
+[0;1;32m                              ^
+[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
+    __attribute__ ((__malloc__ (dealloc, argno)))
+[0;1;32m                    ^
+[0mIn file included from /home/bahram/trick_sims/SIM_rocket_launch/S_source.hh:11:
+In file included from /usr/include/c++/11/iostream:39:
+In file included from /usr/include/c++/11/ostream:38:
+In file included from /usr/include/c++/11/ios:42:
+In file included from /usr/include/c++/11/bits/ios_base.h:41:
+In file included from /usr/include/c++/11/bits/locale_classes.h:40:
+In file included from /usr/include/c++/11/string:55:
+In file included from /usr/include/c++/11/bits/basic_string.h:6608:
+In file included from /usr/include/c++/11/ext/string_conversions.h:43:
+In file included from /usr/include/c++/11/cstdio:42:
+[1m/usr/include/stdio.h:315:24: [0m[0;1;31merror: [0m[1m'__malloc__' attribute takes no arguments[0m
+  __attribute_malloc__ __attr_dealloc_fclose __wur;
+[0;1;32m                       ^
+[0m[1m/usr/include/stdio.h:181:31: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc_fclose'[0m
+#define __attr_dealloc_fclose __attr_dealloc (fclose, 1)
+[0;1;32m                              ^
+[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
+    __attribute__ ((__malloc__ (dealloc, argno)))
+[0;1;32m                    ^
+[0mIn file included from /home/bahram/trick_sims/SIM_rocket_launch/S_source.hh:11:
+In file included from /usr/include/c++/11/iostream:39:
+In file included from /usr/include/c++/11/ostream:38:
+In file included from /usr/include/c++/11/ios:42:
+In file included from /usr/include/c++/11/bits/ios_base.h:41:
+In file included from /usr/include/c++/11/bits/locale_classes.h:40:
+In file included from /usr/include/c++/11/string:55:
+In file included from /usr/include/c++/11/bits/basic_string.h:6608:
+In file included from /usr/include/c++/11/ext/string_conversions.h:43:
+In file included from /usr/include/c++/11/cstdio:42:
+[1m/usr/include/stdio.h:322:24: [0m[0;1;31merror: [0m[1m'__malloc__' attribute takes no arguments[0m
+  __attribute_malloc__ __attr_dealloc_fclose;
+[0;1;32m                       ^
+[0m[1m/usr/include/stdio.h:181:31: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc_fclose'[0m
+#define __attr_dealloc_fclose __attr_dealloc (fclose, 1)
+[0;1;32m                              ^
+[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
+    __attribute__ ((__malloc__ (dealloc, argno)))
+[0;1;32m                    ^
+[0mIn file included from /home/bahram/trick_sims/SIM_rocket_launch/S_source.hh:11:
+In file included from /usr/include/c++/11/iostream:39:
+In file included from /usr/include/c++/11/ostream:38:
+In file included from /usr/include/c++/11/ios:42:
+In file included from /usr/include/c++/11/bits/ios_base.h:41:
+In file included from /usr/include/c++/11/bits/locale_classes.h:40:
+In file included from /usr/include/c++/11/string:55:
+In file included from /usr/include/c++/11/bits/basic_string.h:6608:
+In file included from /usr/include/c++/11/ext/string_conversions.h:43:
+In file included from /usr/include/c++/11/cstdio:42:
+[1m/usr/include/stdio.h:830:24: [0m[0;1;31merror: [0m[1m'__malloc__' attribute takes no arguments[0m
+  __attribute_malloc__ __attr_dealloc (pclose, 1) __wur;
+[0;1;32m                       ^
+[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
+    __attribute__ ((__malloc__ (dealloc, argno)))
+[0;1;32m                    ^
+[0m/home/bahram/trick_sims/SIM_rocket_launch/models/rocket/src/Rocket.cpp: In member function ‘double Rocket::InterpolateDensity(double, const double*, const double*)’:
+/home/bahram/trick_sims/SIM_rocket_launch/models/rocket/src/Rocket.cpp:136:10: warning: statement has no effect [-Wunused-value]
+  136 |     for (i; i+2 < numElements && xValues[i] < x; i++)
+      |          ^
+/home/bahram/trick_sims/SIM_rocket_launch/models/rocket/src/Rocket.cpp: In member function ‘double Rocket::rocket_stage1()’:
+/home/bahram/trick_sims/SIM_rocket_launch/models/rocket/src/Rocket.cpp:169:5: error: ‘rf’ was not declared in this scope; did you mean ‘rf1’?
+  169 |     rf.error = (engStage1.fuel_mass(now));
+      |     ^~
+      |     rf1
+/home/bahram/trick_sims/SIM_rocket_launch/models/rocket/src/Rocket.cpp: In member function ‘double Rocket::rocket_stage2()’:
+/home/bahram/trick_sims/SIM_rocket_launch/models/rocket/src/Rocket.cpp:195:5: error: ‘rf’ was not declared in this scope; did you mean ‘rf1’?
+  195 |     rf.error = (engStage2.fuel_mass(now - stage1Time));
+      |     ^~
+      |     rf1
+/home/bahram/trick_sims/SIM_rocket_launch/models/rocket/src/Rocket.cpp: In member function ‘double Rocket::rocket_stage3()’:
+/home/bahram/trick_sims/SIM_rocket_launch/models/rocket/src/Rocket.cpp:220:5: error: ‘rf’ was not declared in this scope; did you mean ‘rf1’?
+  220 |     rf.error = (engStage3.fuel_mass(now - stage2Time));
+      |     ^~
+      |     rf1
+/home/bahram/trick_sims/SIM_rocket_launch/models/rocket/src/Rocket.cpp: In member function ‘double Rocket::rocket_impact()’:
+/home/bahram/trick_sims/SIM_rocket_launch/models/rocket/src/Rocket.cpp:267:30: error: cannot convert ‘Regula_Falsi*’ to ‘REGULA_FALSI*’
+  267 |     tgo = regula_falsi( now, &rfImpact);
+      |                              ^~~~~~~~~
+      |                              |
+      |                              Regula_Falsi*
+In file included from /home/bahram/trick_sims/SIM_rocket_launch/models/rocket/src/../include/Rocket.hh:9,
+                 from /home/bahram/trick_sims/SIM_rocket_launch/models/rocket/src/Rocket.cpp:7:
+/home/bahram/trick/include/trick/regula_falsi.h:55:52: note:   initializing argument 2 of ‘double regula_falsi(double, REGULA_FALSI*)’
+   55 | double regula_falsi(double my_time, REGULA_FALSI * R);
+      |                                     ~~~~~~~~~~~~~~~^
+In file included from /home/bahram/trick_sims/SIM_rocket_launch/S_source.hh:11:
+In file included from /usr/include/c++/11/iostream:39:
+In file included from /usr/include/c++/11/ostream:38:
+In file included from /usr/include/c++/11/ios:38:
+In file included from /usr/include/c++/11/iosfwd:40:
+In file included from /usr/include/c++/11/bits/postypes.h:40:
+In file included from /usr/include/c++/11/cwchar:44:
+[1m/usr/include/wchar.h:155:24: [0m[0;1;31merror: [0m[1m'__malloc__' attribute takes no arguments[0m
+  __attribute_malloc__ __attr_dealloc_free;
+[0;1;32m                       ^
+[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:691:30: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc_free'[0m
+# define __attr_dealloc_free __attr_dealloc (__builtin_free, 1)
+[0;1;32m                             ^
+[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
+    __attribute__ ((__malloc__ (dealloc, argno)))
+[0;1;32m                    ^
+[0mIn file included from /home/bahram/trick_sims/SIM_rocket_launch/S_source.hh:11:
+In file included from /usr/include/c++/11/iostream:39:
+In file included from /usr/include/c++/11/ostream:38:
+In file included from /usr/include/c++/11/ios:42:
+In file included from /usr/include/c++/11/bits/ios_base.h:41:
+In file included from /usr/include/c++/11/bits/locale_classes.h:40:
+In file included from /usr/include/c++/11/string:55:
+In file included from /usr/include/c++/11/bits/basic_string.h:6608:
+In file included from /usr/include/c++/11/ext/string_conversions.h:41:
+In file included from /usr/include/c++/11/cstdlib:75:
+[1m/usr/include/stdlib.h:566:5: [0m[0;1;31merror: [0m[1m'__malloc__' attribute takes no arguments[0m
+    __attr_dealloc_free;
+[0;1;32m    ^
+[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:691:30: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc_free'[0m
+# define __attr_dealloc_free __attr_dealloc (__builtin_free, 1)
+[0;1;32m                             ^
+[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
+    __attribute__ ((__malloc__ (dealloc, argno)))
+[0;1;32m                    ^
+[0mIn file included from /home/bahram/trick_sims/SIM_rocket_launch/S_source.hh:11:
+In file included from /usr/include/c++/11/iostream:39:
+In file included from /usr/include/c++/11/ostream:38:
+In file included from /usr/include/c++/11/ios:42:
+In file included from /usr/include/c++/11/bits/ios_base.h:41:
+In file included from /usr/include/c++/11/bits/locale_classes.h:40:
+In file included from /usr/include/c++/11/string:55:
+In file included from /usr/include/c++/11/bits/basic_string.h:6608:
+In file included from /usr/include/c++/11/ext/string_conversions.h:41:
+In file included from /usr/include/c++/11/cstdlib:75:
+[1m/usr/include/stdlib.h:570:14: [0m[0;1;31merror: [0m[1m'__malloc__' attribute takes no arguments[0m
+     __THROW __attr_dealloc (reallocarray, 1);
+[0;1;32m             ^
+[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
+    __attribute__ ((__malloc__ (dealloc, argno)))
+[0;1;32m                    ^
+[0mIn file included from /home/bahram/trick_sims/SIM_rocket_launch/S_source.hh:11:
+In file included from /usr/include/c++/11/iostream:39:
+In file included from /usr/include/c++/11/ostream:38:
+In file included from /usr/include/c++/11/ios:42:
+In file included from /usr/include/c++/11/bits/ios_base.h:41:
+In file included from /usr/include/c++/11/bits/locale_classes.h:40:
+In file included from /usr/include/c++/11/string:55:
+In file included from /usr/include/c++/11/bits/basic_string.h:6608:
+In file included from /usr/include/c++/11/ext/string_conversions.h:41:
+In file included from /usr/include/c++/11/cstdlib:75:
+[1m/usr/include/stdlib.h:799:6: [0m[0;1;31merror: [0m[1m'__malloc__' attribute takes no arguments[0m
+     __attr_dealloc_free __wur;
+[0;1;32m     ^
+[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:691:30: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc_free'[0m
+# define __attr_dealloc_free __attr_dealloc (__builtin_free, 1)
+[0;1;32m                             ^
+[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
+    __attribute__ ((__malloc__ (dealloc, argno)))
+[0;1;32m                    ^
+[0mIn file included from /home/bahram/trick_sims/SIM_rocket_launch/S_source.hh:11:
+In file included from /usr/include/c++/11/iostream:39:
+In file included from /usr/include/c++/11/ostream:38:
+In file included from /usr/include/c++/11/ios:42:
+In file included from /usr/include/c++/11/bits/ios_base.h:41:
+In file included from /usr/include/c++/11/bits/locale_classes.h:40:
+In file included from /usr/include/c++/11/string:55:
+In file included from /usr/include/c++/11/bits/basic_string.h:6608:
+In file included from /usr/include/c++/11/ext/string_conversions.h:43:
+In file included from /usr/include/c++/11/cstdio:42:
+[1m/usr/include/stdio.h:189:24: [0m[0;1;31merror: [0m[1m'__malloc__' attribute takes no arguments[0m
+  __attribute_malloc__ __attr_dealloc_fclose __wur;
+[0;1;32m                       ^
+[0m[1m/usr/include/stdio.h:181:31: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc_fclose'[0m
+#define __attr_dealloc_fclose __attr_dealloc (fclose, 1)
+[0;1;32m                              ^
+[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
+    __attribute__ ((__malloc__ (dealloc, argno)))
+[0;1;32m                    ^
+[0mIn file included from /home/bahram/trick_sims/SIM_rocket_launch/S_source.hh:11:
+In file included from /usr/include/c++/11/iostream:39:
+In file included from /usr/include/c++/11/ostream:38:
+In file included from /usr/include/c++/11/ios:42:
+In file included from /usr/include/c++/11/bits/ios_base.h:41:
+In file included from /usr/include/c++/11/bits/locale_classes.h:40:
+In file included from /usr/include/c++/11/string:55:
+In file included from /usr/include/c++/11/bits/basic_string.h:6608:
+In file included from /usr/include/c++/11/ext/string_conversions.h:43:
+In file included from /usr/include/c++/11/cstdio:42:
+[1m/usr/include/stdio.h:201:25: [0m[0;1;31merror: [0m[1m'__malloc__' attribute takes no arguments[0m
+   __attribute_malloc__ __attr_dealloc_fclose __wur;
+[0;1;32m                        ^
+[0m[1m/usr/include/stdio.h:181:31: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc_fclose'[0m
+#define __attr_dealloc_fclose __attr_dealloc (fclose, 1)
+[0;1;32m                              ^
+[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
+    __attribute__ ((__malloc__ (dealloc, argno)))
+[0;1;32m                    ^
+[0mIn file included from /home/bahram/trick_sims/SIM_rocket_launch/S_source.hh:11:
+In file included from /usr/include/c++/11/iostream:39:
+In file included from /usr/include/c++/11/ostream:38:
+In file included from /usr/include/c++/11/ios:42:
+In file included from /usr/include/c++/11/bits/ios_base.h:41:
+In file included from /usr/include/c++/11/bits/locale_classes.h:40:
+In file included from /usr/include/c++/11/string:55:
+In file included from /usr/include/c++/11/bits/basic_string.h:6608:
+In file included from /usr/include/c++/11/ext/string_conversions.h:43:
+In file included from /usr/include/c++/11/cstdio:42:
+[1m/usr/include/stdio.h:223:39: [0m[0;1;31merror: [0m[1m'__malloc__' attribute takes no arguments[0m
+   __THROW __attribute_malloc__ __wur __attr_dealloc_free;
+[0;1;32m                                      ^
+[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:691:30: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc_free'[0m
+# define __attr_dealloc_free __attr_dealloc (__builtin_free, 1)
+[0;1;32m                             ^
+[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
+    __attribute__ ((__malloc__ (dealloc, argno)))
+[0;1;32m                    ^
+[0mIn file included from /home/bahram/trick_sims/SIM_rocket_launch/S_source.hh:11:
+In file included from /usr/include/c++/11/iostream:39:
+In file included from /usr/include/c++/11/ostream:38:
+In file included from /usr/include/c++/11/ios:42:
+In file included from /usr/include/c++/11/bits/ios_base.h:41:
+In file included from /usr/include/c++/11/bits/locale_classes.h:40:
+In file included from /usr/include/c++/11/string:55:
+In file included from /usr/include/c++/11/bits/basic_string.h:6608:
+In file included from /usr/include/c++/11/ext/string_conversions.h:43:
+In file included from /usr/include/c++/11/cstdio:42:
+[1m/usr/include/stdio.h:260:24: [0m[0;1;31merror: [0m[1m'__malloc__' attribute takes no arguments[0m
+  __attribute_malloc__ __attr_dealloc_fclose __wur;
+[0;1;32m                       ^
+[0m[1m/usr/include/stdio.h:181:31: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc_fclose'[0m
+#define __attr_dealloc_fclose __attr_dealloc (fclose, 1)
+[0;1;32m                              ^
+[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
+    __attribute__ ((__malloc__ (dealloc, argno)))
+[0;1;32m                    ^
+[0mIn file included from /home/bahram/trick_sims/SIM_rocket_launch/S_source.hh:11:
+In file included from /usr/include/c++/11/iostream:39:
+In file included from /usr/include/c++/11/ostream:38:
+In file included from /usr/include/c++/11/ios:42:
+In file included from /usr/include/c++/11/bits/ios_base.h:41:
+In file included from /usr/include/c++/11/bits/locale_classes.h:40:
+In file included from /usr/include/c++/11/string:55:
+In file included from /usr/include/c++/11/bits/basic_string.h:6608:
+In file included from /usr/include/c++/11/ext/string_conversions.h:43:
+In file included from /usr/include/c++/11/cstdio:42:
+[1m/usr/include/stdio.h:285:24: [0m[0;1;31merror: [0m[1m'__malloc__' attribute takes no arguments[0m
+  __attribute_malloc__ __attr_dealloc_fclose __wur;
+[0;1;32m                       ^
+[0m[1m/usr/include/stdio.h:181:31: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc_fclose'[0m
+#define __attr_dealloc_fclose __attr_dealloc (fclose, 1)
+[0;1;32m                              ^
+[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
+    __attribute__ ((__malloc__ (dealloc, argno)))
+[0;1;32m                    ^
+[0mIn file included from /home/bahram/trick_sims/SIM_rocket_launch/S_source.hh:11:
+In file included from /usr/include/c++/11/iostream:39:
+In file included from /usr/include/c++/11/ostream:38:
+In file included from /usr/include/c++/11/ios:42:
+In file included from /usr/include/c++/11/bits/ios_base.h:41:
+In file included from /usr/include/c++/11/bits/locale_classes.h:40:
+In file included from /usr/include/c++/11/string:55:
+In file included from /usr/include/c++/11/bits/basic_string.h:6608:
+In file included from /usr/include/c++/11/ext/string_conversions.h:43:
+In file included from /usr/include/c++/11/cstdio:42:
+[1m/usr/include/stdio.h:294:24: [0m[0;1;31merror: [0m[1m'__malloc__' attribute takes no arguments[0m
+  __attribute_malloc__ __attr_dealloc_fclose __wur;
+[0;1;32m                       ^
+[0m[1m/usr/include/stdio.h:181:31: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc_fclose'[0m
+#define __attr_dealloc_fclose __attr_dealloc (fclose, 1)
+[0;1;32m                              ^
+[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
+    __attribute__ ((__malloc__ (dealloc, argno)))
+[0;1;32m                    ^
+[0mIn file included from /home/bahram/trick_sims/SIM_rocket_launch/S_source.hh:11:
+In file included from /usr/include/c++/11/iostream:39:
+In file included from /usr/include/c++/11/ostream:38:
+In file included from /usr/include/c++/11/ios:42:
+In file included from /usr/include/c++/11/bits/ios_base.h:41:
+In file included from /usr/include/c++/11/bits/locale_classes.h:40:
+In file included from /usr/include/c++/11/string:55:
+In file included from /usr/include/c++/11/bits/basic_string.h:6608:
+In file included from /usr/include/c++/11/ext/string_conversions.h:43:
+In file included from /usr/include/c++/11/cstdio:42:
+[1m/usr/include/stdio.h:303:24: [0m[0;1;31merror: [0m[1m'__malloc__' attribute takes no arguments[0m
+  __attribute_malloc__ __attr_dealloc_fclose __wur;
+[0;1;32m                       ^
+[0m[1m/usr/include/stdio.h:181:31: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc_fclose'[0m
+#define __attr_dealloc_fclose __attr_dealloc (fclose, 1)
+[0;1;32m                              ^
+[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
+    __attribute__ ((__malloc__ (dealloc, argno)))
+[0;1;32m                    ^
+[0mIn file included from /home/bahram/trick_sims/SIM_rocket_launch/S_source.hh:11:
+In file included from /usr/include/c++/11/iostream:39:
+In file included from /usr/include/c++/11/ostream:38:
+In file included from /usr/include/c++/11/ios:42:
+In file included from /usr/include/c++/11/bits/ios_base.h:41:
+In file included from /usr/include/c++/11/bits/locale_classes.h:40:
+In file included from /usr/include/c++/11/string:55:
+In file included from /usr/include/c++/11/bits/basic_string.h:6608:
+In file included from /usr/include/c++/11/ext/string_conversions.h:43:
+In file included from /usr/include/c++/11/cstdio:42:
+[1m/usr/include/stdio.h:309:32: [0m[0;1;31merror: [0m[1m'__malloc__' attribute takes no arguments[0m
+  __THROW __attribute_malloc__ __attr_dealloc_fclose __wur;
+[0;1;32m                               ^
+[0m[1m/usr/include/stdio.h:181:31: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc_fclose'[0m
+#define __attr_dealloc_fclose __attr_dealloc (fclose, 1)
+[0;1;32m                              ^
+[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
+    __attribute__ ((__malloc__ (dealloc, argno)))
+[0;1;32m                    ^
+[0mIn file included from /home/bahram/trick_sims/SIM_rocket_launch/S_source.hh:11:
+In file included from /usr/include/c++/11/iostream:39:
+In file included from /usr/include/c++/11/ostream:38:
+In file included from /usr/include/c++/11/ios:42:
+In file included from /usr/include/c++/11/bits/ios_base.h:41:
+In file included from /usr/include/c++/11/bits/locale_classes.h:40:
+In file included from /usr/include/c++/11/string:55:
+In file included from /usr/include/c++/11/bits/basic_string.h:6608:
+In file included from /usr/include/c++/11/ext/string_conversions.h:43:
+In file included from /usr/include/c++/11/cstdio:42:
+[1m/usr/include/stdio.h:315:24: [0m[0;1;31merror: [0m[1m'__malloc__' attribute takes no arguments[0m
+  __attribute_malloc__ __attr_dealloc_fclose __wur;
+[0;1;32m                       ^
+[0m[1m/usr/include/stdio.h:181:31: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc_fclose'[0m
+#define __attr_dealloc_fclose __attr_dealloc (fclose, 1)
+[0;1;32m                              ^
+[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
+    __attribute__ ((__malloc__ (dealloc, argno)))
+[0;1;32m                    ^
+[0mIn file included from /home/bahram/trick_sims/SIM_rocket_launch/S_source.hh:11:
+In file included from /usr/include/c++/11/iostream:39:
+In file included from /usr/include/c++/11/ostream:38:
+In file included from /usr/include/c++/11/ios:42:
+In file included from /usr/include/c++/11/bits/ios_base.h:41:
+In file included from /usr/include/c++/11/bits/locale_classes.h:40:
+In file included from /usr/include/c++/11/string:55:
+In file included from /usr/include/c++/11/bits/basic_string.h:6608:
+In file included from /usr/include/c++/11/ext/string_conversions.h:43:
+In file included from /usr/include/c++/11/cstdio:42:
+[1m/usr/include/stdio.h:322:24: [0m[0;1;31merror: [0m[1m'__malloc__' attribute takes no arguments[0m
+  __attribute_malloc__ __attr_dealloc_fclose;
+[0;1;32m                       ^
+[0m[1m/usr/include/stdio.h:181:31: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc_fclose'[0m
+#define __attr_dealloc_fclose __attr_dealloc (fclose, 1)
+[0;1;32m                              ^
+[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
+    __attribute__ ((__malloc__ (dealloc, argno)))
+[0;1;32m                    ^
+[0mIn file included from /home/bahram/trick_sims/SIM_rocket_launch/S_source.hh:11:
+In file included from /usr/include/c++/11/iostream:39:
+In file included from /usr/include/c++/11/ostream:38:
+In file included from /usr/include/c++/11/ios:42:
+In file included from /usr/include/c++/11/bits/ios_base.h:41:
+In file included from /usr/include/c++/11/bits/locale_classes.h:40:
+In file included from /usr/include/c++/11/string:55:
+In file included from /usr/include/c++/11/bits/basic_string.h:6608:
+In file included from /usr/include/c++/11/ext/string_conversions.h:43:
+In file included from /usr/include/c++/11/cstdio:42:
+[1m/usr/include/stdio.h:830:24: [0m[0;1;31merror: [0m[1m'__malloc__' attribute takes no arguments[0m
+  __attribute_malloc__ __attr_dealloc (pclose, 1) __wur;
+[0;1;32m                       ^
+[0m[1m/usr/include/x86_64-linux-gnu/sys/cdefs.h:690:21: [0m[0;1;30mnote: [0mexpanded from macro '__attr_dealloc'[0m
+    __attribute__ ((__malloc__ (dealloc, argno)))
+[0;1;32m                    ^
+[0m/home/bahram/trick_sims/SIM_rocket_launch/models/rocket/src/Rocket.cpp: In member function ‘double Rocket::InterpolateDensity(double, const double*, const double*)’:
+/home/bahram/trick_sims/SIM_rocket_launch/models/rocket/src/Rocket.cpp:136:10: warning: statement has no effect [-Wunused-value]
+  136 |     for (i; i+2 < numElements && xValues[i] < x; i++)
+      |          ^
+/home/bahram/trick_sims/SIM_rocket_launch/models/rocket/src/Rocket.cpp: In member function ‘double Rocket::rocket_stage1()’:
+/home/bahram/trick_sims/SIM_rocket_launch/models/rocket/src/Rocket.cpp:169:5: error: ‘rf’ was not declared in this scope; did you mean ‘rf1’?
+  169 |     rf.error = (engStage1.fuel_mass(now));
+      |     ^~
+      |     rf1
+/home/bahram/trick_sims/SIM_rocket_launch/models/rocket/src/Rocket.cpp: In member function ‘double Rocket::rocket_stage2()’:
+/home/bahram/trick_sims/SIM_rocket_launch/models/rocket/src/Rocket.cpp:195:5: error: ‘rf’ was not declared in this scope; did you mean ‘rf1’?
+  195 |     rf.error = (engStage2.fuel_mass(now - stage1Time));
+      |     ^~
+      |     rf1
+/home/bahram/trick_sims/SIM_rocket_launch/models/rocket/src/Rocket.cpp: In member function ‘double Rocket::rocket_stage3()’:
+/home/bahram/trick_sims/SIM_rocket_launch/models/rocket/src/Rocket.cpp:220:5: error: ‘rf’ was not declared in this scope; did you mean ‘rf1’?
+  220 |     rf.error = (engStage3.fuel_mass(now - stage2Time));
+      |     ^~
+      |     rf1
+/home/bahram/trick_sims/SIM_rocket_launch/models/rocket/src/Rocket.cpp: In member function ‘double Rocket::InterpolateDensity(double, const double*, const double*)’:
+/home/bahram/trick_sims/SIM_rocket_launch/models/rocket/src/Rocket.cpp:136:10: warning: statement has no effect [-Wunused-value]
+  136 |     for (i; i+2 < numElements && xValues[i] < x; i++)
+      |          ^
+/home/bahram/trick_sims/SIM_rocket_launch/models/rocket/src/Rocket.cpp: In member function ‘double Rocket::InterpolateDensity(double, const double*, const double*)’:
+/home/bahram/trick_sims/SIM_rocket_launch/models/rocket/src/Rocket.cpp:136:10: warning: statement has no effect [-Wunused-value]
+  136 |     for (i; i+2 < numElements && xValues[i] < x; i++)
+      |          ^
+/home/bahram/trick_sims/SIM_rocket_launch/models/rocket/src/Rocket.cpp: In member function ‘double Rocket::InterpolateDensity(double, const double*, const double*)’:
+/home/bahram/trick_sims/SIM_rocket_launch/models/rocket/src/Rocket.cpp:136:10: warning: statement has no effect [-Wunused-value]
+  136 |     for (i; i+2 < numElements && xValues[i] < x; i++)
+      |          ^
+/home/bahram/trick_sims/SIM_rocket_launch/models/rocket/src/Rocket.cpp: In member function ‘double Rocket::InterpolateDensity(double, const double*, const double*)’:
+/home/bahram/trick_sims/SIM_rocket_launch/models/rocket/src/Rocket.cpp:136:10: warning: statement has no effect [-Wunused-value]
+  136 |     for (i; i+2 < numElements && xValues[i] < x; i++)
+      |          ^
+/home/bahram/trick_sims/SIM_rocket_launch/models/rocket/src/Rocket.cpp: In member function ‘double Rocket::InterpolateDensity(double, const double*, const double*)’:
+/home/bahram/trick_sims/SIM_rocket_launch/models/rocket/src/Rocket.cpp:136:10: warning: statement has no effect [-Wunused-value]
+  136 |     for (i; i+2 < numElements && xValues[i] < x; i++)
+      |          ^
+/home/bahram/trick_sims/SIM_rocket_launch/models/rocket/src/Rocket.cpp: In member function ‘double Rocket::InterpolateDensity(double, const double*, const double*)’:
+/home/bahram/trick_sims/SIM_rocket_launch/models/rocket/src/Rocket.cpp:136:10: warning: statement has no effect [-Wunused-value]
+  136 |     for (i; i+2 < numElements && xValues[i] < x; i++)
+      |          ^
+/home/bahram/trick_sims/SIM_rocket_launch/models/rocket/src/Rocket.cpp: In member function ‘double Rocket::InterpolateDensity(double, const double*, const double*)’:
+/home/bahram/trick_sims/SIM_rocket_launch/models/rocket/src/Rocket.cpp:136:10: warning: statement has no effect [-Wunused-value]
+  136 |     for (i; i+2 < numElements && xValues[i] < x; i++)
+      |          ^
+/home/bahram/trick_sims/SIM_rocket_launch/models/rocket/src/Rocket.cpp: In member function ‘double Rocket::InterpolateDensity(double, const double*, const double*)’:
+/home/bahram/trick_sims/SIM_rocket_launch/models/rocket/src/Rocket.cpp:136:10: warning: statement has no effect [-Wunused-value]
+  136 |     for (i; i+2 < numElements && xValues[i] < x; i++)
+      |          ^
