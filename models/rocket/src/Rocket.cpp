@@ -20,16 +20,16 @@ const double airPressures[numElements] = {1.225, 1.112, 1.007, 0.9093, 0.8194, 0
 
 int Rocket::default_data()
 {   //(dry mass (lbm), fuel (lbm), time of operation (s), thrust (lbf))
-    engStage1.default_data(174179, 1277316, 20, 32027195.52 );
-    engStage2.default_data(85275, 1043262, 80, 8896443.2);
-    engStage3.default_data(2500, 30248, 1, 110093.48);
+    engStage1.default_data(174179, 1277316, 120, 32027195.52 );
+    engStage2.default_data(85275, 1043262, 480, 8896443.2);
+    engStage3.default_data(2500, 30248, 1, 0);
 
     payloadMass = 26762;
     totalMass = 2639722;
 
     crossArea = 2 * M_PI * (pow(4.1, 2)  + 2 * pow(3.66, 2));
 
-    Cd = 0.6;
+    Cd = 0.60;
 
     earthRadius = 6378100;
 
@@ -85,6 +85,7 @@ int Rocket::rocket_deriv()
 
         break;
     default:
+        thrustForce[1] = 0;
         break;
     }
 
