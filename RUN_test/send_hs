@@ -1,1 +1,23 @@
-|L   1|2023/01/22,02:11:21|Braums| |T 0|0.000000| Freeze ON. Simulation time holding at 0.000000 seconds.
+|L   1|2023/01/22,14:56:30|Braums| |T 0|0.000000| Freeze ON. Simulation time holding at 0.000000 seconds.
+|L   1|2023/01/22,14:56:47|Braums| |T 0|0.000000| Freeze OFF.
+|L   1|2023/01/22,14:57:03|Braums| |T 0|16.100000| Freeze ON. Simulation time holding at 16.100000 seconds.
+|L   1|2023/01/22,14:57:09|Braums| |T 0|16.100000| Dumped ASCII Checkpoint chkpnt_16.10.
+|L   1|2023/01/22,14:57:14|Braums| |T 0|16.100000| Freeze OFF.
+|L   1|2023/01/22,14:57:16|Braums| |T 0|17.600000| Freeze ON. Simulation time holding at 17.600000 seconds.
+|L   0|2023/01/22,14:57:17|Braums| |T 0|17.600000| 
+     REALTIME SHUTDOWN STATS:
+     REALTIME TOTAL OVERRUNS:            0
+            ACTUAL INIT TIME:        0.242
+         ACTUAL ELAPSED TIME:       46.866
+|L   0|2023/01/22,14:57:17|Braums| |T 0|17.600000| 
+SIMULATION TERMINATED IN
+  PROCESS: 0
+  ROUTINE: Executive_freeze_loop.cpp:85
+  DIAGNOSTIC: Sim control Shutdown
+
+       SIMULATION START TIME:        0.000
+        SIMULATION STOP TIME:       17.600
+     SIMULATION ELAPSED TIME:       17.600
+        ACTUAL CPU TIME USED:        0.471
+       SIMULATION / CPU TIME:       37.395
+     INITIALIZATION CPU TIME:        0.208
