@@ -132,18 +132,14 @@ build/MAKE_err
 build/MAKE_out
 build/S_source.cpp
 
-[Ll]ibrary/
-[Tt]emp/
-[Oo]bj/
-[Bb]uild/
-[Bb]uilds/
-[Ll]ogs/
-[Uu]serSettings/
+*/[Ll]ibrary/
+*/[Tt]emp/
+*/[Oo]bj/
+*/[Bb]uild/
+*/[Bb]uilds/
+*/Assets/AssetStoreTools*
 
-
-.vs/
-
-.gradle/
+*/.vs/
 
 ExportedObj/
 .consulo/
@@ -158,18 +154,11 @@ ExportedObj/
 *.booproj
 *.svd
 *.pdb
-*.mdb
-*.opendb
-*.VC.db
 
 *.pidb.meta
-*.pdb.meta
-*.mdb.meta
 
 sysinfo.txt
 
 *.apk
 *.unitypackage
-
-crashlytics-build.properties
 
