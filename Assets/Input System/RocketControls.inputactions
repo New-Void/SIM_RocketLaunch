@@ -1,0 +1,46 @@
+{
+    "name": "RocketControls",
+    "maps": [
+        {
+            "name": "Rocket",
+            "id": "fce5fb65-37e4-4aaa-a6e4-2216aefab4ff",
+            "actions": [
+                {
+                    "name": "Exit",
+                    "type": "Button",
+                    "id": "b157e9ca-544b-41de-8834-df5a715bbf6e",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "432edc84-8955-409d-ae85-aef4dcf1c626",
+                    "path": "<Keyboard>/anyKey",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Keyboard",
+                    "action": "Exit",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": [
+        {
+            "name": "Keyboard",
+            "bindingGroup": "Keyboard",
+            "devices": [
+                {
+                    "devicePath": "<Keyboard>",
+                    "isOptional": false,
+                    "isOR": false
+                }
+            ]
+        }
+    ]
+}
